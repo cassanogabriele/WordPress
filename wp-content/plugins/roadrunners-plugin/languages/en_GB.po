@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RoadRunners Plugin\n"
+"POT-Creation-Date: 2015-03-10 21:07-0000\n"
+"PO-Revision-Date: 2015-03-10 21:07-0000\n"
+"Last-Translator: Dan <subatomicdan@gmail.com>\n"
+"Language-Team: Subatomic Themes <http://themeforest.net/user/"
+"SubatomicThemes>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/custom-meta-boxes.php:20
+msgid "Event Information"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:29
+msgid "Venue"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:30
+msgid "Enter the name of the Venue and/or Location."
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:37
+msgid "Location on Map"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:38
+msgid ""
+"You can embed a map from Google Maps by entering the iframe link here and it "
+"will\n"
+"\t\t\t\t\t\t\t\t\tdisplay it at the bottom of the post. A good tool to use "
+"is the \n"
+"\t\t\t\t\t\t\t\t\t<a href=\"https://mapsengine.google.com/map/\" target="
+"\"_blank\">Maps Engine by Google</a>."
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:47
+msgid "Event Date"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:48
+msgid "Choose a Date for the Event"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:55
+msgid "Ticket Availability"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:56
+msgid "Select availabliity of tickets for the Event"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:60
+msgid "Available"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:60
+msgid "Tickets Available!"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:61
+msgid "Limited"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:61
+msgid "Limited Availability!"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:62
+msgid "Sold Out"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:62
+msgid "Sold Out!"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:68
+msgid "Ticket Price"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:69
+msgid "Set a price for the tickets"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:76
+msgid "Ticket URL"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:77
+msgid "Enter a URL to buy the tickets (e.g. http://www.ticketweb.co.uk/...)"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:89
+msgid "Artist Information"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:98
+msgid "When the band formed"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:99
+msgid "If it's a band, enter a brief time when they formed."
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:106
+msgid "Number of albums released"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:107
+msgid "Enter the number of albums the band or artist has released to date."
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:114
+msgid "Discography"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:115
+msgid ""
+"Enter a list of albums for the artist. <br /> Tags can be used as line "
+"breaks."
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:122
+msgid "Upcoming Albumns"
+msgstr ""
+
+#: ../includes/custom-meta-boxes.php:123
+msgid ""
+"Enter a list of upcoming album releases, starting with the album name "
+"followed by the date. <br /> Tags can be used as line breaks."
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:25
+msgid "Test Metabox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:33
+#: ../includes/meta-boxes/example-functions.php:263
+msgid "Test Text"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:34
+#: ../includes/meta-boxes/example-functions.php:44
+#: ../includes/meta-boxes/example-functions.php:51
+#: ../includes/meta-boxes/example-functions.php:58
+#: ../includes/meta-boxes/example-functions.php:66
+#: ../includes/meta-boxes/example-functions.php:73
+#: ../includes/meta-boxes/example-functions.php:85
+#: ../includes/meta-boxes/example-functions.php:91
+#: ../includes/meta-boxes/example-functions.php:98
+#: ../includes/meta-boxes/example-functions.php:113
+#: ../includes/meta-boxes/example-functions.php:121
+#: ../includes/meta-boxes/example-functions.php:128
+#: ../includes/meta-boxes/example-functions.php:134
+#: ../includes/meta-boxes/example-functions.php:140
+#: ../includes/meta-boxes/example-functions.php:152
+#: ../includes/meta-boxes/example-functions.php:163
+#: ../includes/meta-boxes/example-functions.php:174
+#: ../includes/meta-boxes/example-functions.php:185
+#: ../includes/meta-boxes/example-functions.php:193
+#: ../includes/meta-boxes/example-functions.php:200
+#: ../includes/meta-boxes/example-functions.php:208
+#: ../includes/meta-boxes/example-functions.php:214
+#: ../includes/meta-boxes/example-functions.php:226
+#: ../includes/meta-boxes/example-functions.php:264
+#: ../includes/meta-boxes/example-functions.php:283
+#: ../includes/meta-boxes/example-functions.php:290
+#: ../includes/meta-boxes/example-functions.php:297
+#: ../includes/meta-boxes/example-functions.php:303
+#: ../includes/meta-boxes/example-functions.php:309
+#: ../includes/meta-boxes/example-functions.php:315
+#: ../includes/meta-boxes/example-functions.php:321
+#: ../includes/meta-boxes/example-functions.php:338
+msgid "field description (optional)"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:43
+msgid "Test Text Small"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:50
+msgid "Test Text Medium"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:57
+msgid "Website URL"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:65
+msgid "Test Text Email"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:72
+msgid "Test Time"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:78
+#: ../includes/meta-boxes/example-functions.php:79
+msgid "Time zone"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:84
+msgid "Test Date Picker"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:90
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:97
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:112
+msgid "Test Money"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:120
+msgid "Test Color Picker"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:127
+msgid "Test Text Area"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:133
+msgid "Test Text Area Small"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:139
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:145
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:146
+msgid "This is a title description"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:151
+msgid "Test Select"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:156
+#: ../includes/meta-boxes/example-functions.php:167
+#: ../includes/meta-boxes/example-functions.php:178
+msgid "Option One"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:157
+#: ../includes/meta-boxes/example-functions.php:168
+#: ../includes/meta-boxes/example-functions.php:179
+msgid "Option Two"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:158
+#: ../includes/meta-boxes/example-functions.php:169
+#: ../includes/meta-boxes/example-functions.php:180
+msgid "Option Three"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:162
+msgid "Test Radio inline"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:173
+msgid "Test Radio"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:184
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:192
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:199
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:207
+msgid "Test Checkbox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:213
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:218
+msgid "Check One"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:219
+msgid "Check Two"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:220
+msgid "Check Three"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:225
+msgid "Test wysiwyg"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:232
+msgid "Test Image"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:233
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:238
+msgid "Multiple Files"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:239
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:245
+msgid "oEmbed"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:246
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:255
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:276
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:282
+msgid "Extra Info"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:289
+msgid "Avatar"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:296
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:302
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:308
+msgid "Google+ URL"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:314
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:320
+msgid "User Field"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:333
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: ../includes/meta-boxes/example-functions.php:337
+msgid "Site Background Color"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:178
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:547
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:590
+msgid "Remove"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:523
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:563
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:536
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:582
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:547
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:590
+msgid "File:"
+msgstr ""
+
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:547
+#: ../includes/meta-boxes/helpers/cmb_Meta_Box_types.php:590
+msgid "Download"
+msgstr ""
+
+#: ../includes/meta-boxes/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: ../includes/meta-boxes/init.php:244
+msgid "Default"
+msgstr ""
+
+#: ../includes/meta-boxes/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: ../includes/meta-boxes/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: ../includes/meta-boxes/init.php:1185
+msgid "Save"
+msgstr ""
+
+#: ../includes/post-types.php:25
+msgid "Events"
+msgstr ""
+
+#: ../includes/post-types.php:26
+msgid "Parent Event:"
+msgstr ""
+
+#: ../includes/post-types.php:27
+msgid "All Events"
+msgstr ""
+
+#: ../includes/post-types.php:28
+msgid "View Event"
+msgstr ""
+
+#: ../includes/post-types.php:29
+msgid "Add New Event"
+msgstr ""
+
+#: ../includes/post-types.php:30 ../includes/post-types.php:87
+msgid "Add New"
+msgstr ""
+
+#: ../includes/post-types.php:31
+msgid "Edit Event"
+msgstr ""
+
+#: ../includes/post-types.php:32
+msgid "Update Event"
+msgstr ""
+
+#: ../includes/post-types.php:33
+msgid "Search Events"
+msgstr ""
+
+#: ../includes/post-types.php:34
+msgid "Event Not found"
+msgstr ""
+
+#: ../includes/post-types.php:35
+msgid "Event Not found in Trash"
+msgstr ""
+
+#: ../includes/post-types.php:39
+msgid "rr_events"
+msgstr ""
+
+#: ../includes/post-types.php:40
+msgid "Create music events to manage and maintain."
+msgstr ""
+
+#: ../includes/post-types.php:82
+msgid "Artists"
+msgstr ""
+
+#: ../includes/post-types.php:83
+msgid "Parent Artist:"
+msgstr ""
+
+#: ../includes/post-types.php:84
+msgid "All Artists"
+msgstr ""
+
+#: ../includes/post-types.php:85
+msgid "View Artist"
+msgstr ""
+
+#: ../includes/post-types.php:86
+msgid "Add New Artist"
+msgstr ""
+
+#: ../includes/post-types.php:88
+msgid "Edit Artist"
+msgstr ""
+
+#: ../includes/post-types.php:89
+msgid "Update Artist"
+msgstr ""
+
+#: ../includes/post-types.php:90
+msgid "Search Artists"
+msgstr ""
+
+#: ../includes/post-types.php:91
+msgid "Artist Not found"
+msgstr ""
+
+#: ../includes/post-types.php:92
+msgid "Artist Not found in Trash"
+msgstr ""
+
+#: ../includes/post-types.php:96
+msgid "rr_artists"
+msgstr ""
+
+#: ../includes/post-types.php:97
+msgid "Add, manage and update all of your Artists."
+msgstr ""
+
+#: ../includes/taxonomy-types.php:25
+msgid "Event Types"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:26
+msgid "All Event Types"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:27
+msgid "Parent Event Type"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:28
+msgid "Parent Event Type:"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:29
+msgid "New Event Type Name"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:30
+msgid "Add New Event Type"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:31
+msgid "Edit Event Type"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:32
+msgid "Update Event Type"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:33
+msgid "Separate Event Types with commas"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:34
+msgid "Search Event Types"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:35
+msgid "Add or remove Event Types"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:36
+msgid "Choose from the most used Event Types"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:37
+msgid "Event Type Not Found"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:65
+msgid "Music Genres"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:66
+msgid "All Music Genres"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:67
+msgid "Parent Genre"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:68
+msgid "Parent Genre:"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:69
+msgid "New Genre"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:70
+msgid "Add New Genre"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:71
+msgid "Edit Genre"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:72
+msgid "Update Genre"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:73
+msgid "Separate Genres with commas"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:74
+msgid "Search Genres"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:75
+msgid "Add or remove Genres"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:76
+msgid "Choose from the most used Genres"
+msgstr ""
+
+#: ../includes/taxonomy-types.php:77
+msgid "Genre Not Found"
+msgstr ""

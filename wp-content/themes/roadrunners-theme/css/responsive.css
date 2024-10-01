@@ -1,0 +1,200 @@
+/**
+ * Theme Name: 		Roadrunners - A One-Page Music Theme
+ * Theme Author: 	Dan Richardson - Subatomic Themes
+ * Theme URI: 		http://themeforest.net
+ * Author URI: 		http://themeforest.net/user/SubatomicThemes
+ * File:			responsive.css
+ * =========================================================================================================================================
+ *
+ * @package roadrunners
+ * @since 1.0.3
+ * @changelog
+ *
+ * 1.0.3 - Adjustments to font sizes in mobile screen sizes to make it more readable.
+ *		 - Changed the Events styling to make it more presentable on mobile screens.
+ */
+
+/**
+ * Desktop Displays
+ */
+@media screen and (min-width: 1025px) {}
+
+/**
+ * Mobile Displays
+ */
+@media screen and (max-width: 767px) {
+	#home-page-header {
+		padding-top: 180px;
+		padding-bottom: 240px;
+	}
+	#home-page-header h2 {
+		height: 80px;
+		max-width: 100%;
+		line-height: 40px;
+	}
+	#textillate {
+		height: 100px;
+		padding: 0 30px;
+		margin-bottom: 60px;
+		background: none;
+	}
+	#home-page-header .tlt { height: auto; }
+	.section-heading h1 {
+		font-size: 48px;
+		line-height: 30px;
+	}
+	.about-center {	padding: 30px 30px 0px; }
+	.section-gallery a { width: 50%; }
+	.testimonial blockquote {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	#main .artist-section-wrap .featured-image .post-thumbnail-container img { margin-bottom: 30px;	}
+	.artist-section-wrap h5 {
+		text-align: left;
+		margin-bottom: 30px;
+	}
+	.entry-meta span {
+		display: block;
+		margin-bottom: 5px;
+	}
+	.nav-links a {
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding: 0;
+		margin-bottom: 10px;
+	}
+	.nav-links .nav-previous { float: none; }
+	.nav-links .nav-next {
+		float: none;
+		text-align: center;
+	}
+	
+	.home-event-date datetime { 
+		padding: 0 10px 0 10px;
+		font-size: 14px; 
+	}
+	
+	.accordion:last-of-type { margin-bottom: 60px; }
+	
+	#events .home-event .home-event-date       { display: none; }
+	#events .home-event .home-event-details h3 { margin-left: 80px; }
+	#events .home-event .home-event-details p  { margin-left: 80px; }
+		
+	#events .button-large,
+	#artists .button-large { 
+		display: block;
+		float: none;
+		text-align: center; 
+	}
+	#blog .home-blog-view-post { padding-top: 0; }
+	#blog .home-blog-meta .home-blog-author,
+	#blog .home-blog-meta .home-blog-date {
+		display: block;
+		text-align: center;
+		float: none;
+	}
+	
+	#secondary .roadrunners-contact-box-content,
+	#page-footer .roadrunners-contact-box-content { font-size: 13px; }
+	#secondary .roadrunners-contact-box-icon,
+	#page-footer .roadrunners-contact-box-icon { margin-right: 15px; }
+	
+}
+
+/**
+ * Tablet Displays
+ */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+
+	.section-gallery a { width: 33.33333%; }
+
+}
+
+/**
+ * Mobile AND Tablet Displays
+ */
+@media screen and (max-width: 1024px) {
+
+	/* Camera flashes cause a scrollbar to appear at the bottom, so lets hide them. */
+	.flash { display: none;	}
+
+	/* PAGE HEADER */
+	#home-logo img {
+		max-width: 85%;
+		height: auto;
+	}
+	#social-icons li { float: left;	}
+	#social-icons li a {
+		width: 40px;
+		height: 40px;
+		margin: 0;
+	}
+	#social-icons li a:hover 			{ height: 40px; }
+	#social-icons li a:hover i:before 	{ top: 5px; }
+	#header-top 			{ height: 40px;	}
+	#header-top .site-title { margin: 0; }
+	body #header-top .site-logo {
+		max-width: 100%;
+		margin: 4px 0 0 0; 
+	}
+	
+	/* MAIN NAVIGATION */
+	#mobile-menu { display: block; }
+	#main-navigation {
+		display: none;
+		position: absolute;
+		top: 41px;
+		left: 0;
+		width: 100%;
+		text-align: center;
+	}
+	#main-navigation ul {
+		display: block;
+		float: none;
+	}
+	#main-navigation ul li {
+		display: block;
+		margin: 0;
+	}
+	#main-navigation ul li a {
+		display: block;
+		padding: 8px 0 8px 0;
+		margin-bottom: 1px;
+		font-weight: normal;
+		background: rgba(0,0,0,0.35);
+	}
+	.artist-wrap 		{ margin-bottom: 20px; }
+	.artist-entry-meta 	{ margin-bottom: 30px; }
+	.rr-meta-box {
+		display: block;
+		float: none;
+		margin: 0;
+		border: 0;
+		border-bottom: 1px solid #f6f6f6;
+	}
+	
+	/* COMMENTS */
+	.comment-list .children { margin-left: 0; }
+	
+	/* ABOUT US */
+	.about-left, .about-center, .about-right { text-align: center; }
+	
+	/* GALLERY */
+	.section-gallery a i {
+		margin-left: -14px;
+		margin-top: -16px;
+	}
+	.section-gallery a i:before { font-size: 30px; }
+	
+	/* BLOG */
+	#blog .home-blog footer img {
+		width: 100%;
+		height: 100%;
+	}
+	
+	/* PAGE FOOTER */
+	footer#page-footer { background-image: none; }
+	
+}

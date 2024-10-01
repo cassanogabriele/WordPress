@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<!--  Basic Meta and Title -->
+	<meta charset="utf-8">
+	<title>RoadRunners WordPress Theme | Documentation</title>
+	<meta name="description" content="">
+	<meta name="author" content="Dan Richardson">
+
+	<!-- Mobile Device Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="css/style.css" media="all">
+	<link rel="stylesheet" href="css/media.css" media="all">
+	<!--[if lt IE 9]><link rel="stylesheet" href="css/ie.css"><![endif]-->
+	
+</head>
+<body id="top">
+
+	<!-- PAGE HEADER Start -->
+	<div id="header">
+		<div class="container">
+			<h1><strong>RoadRunners - WordPress Theme</strong> Documentation</h1>
+			<img src="images/logo.png" height="28" alt="Subatomic Themes" />
+		</div>
+	</div>
+	<!-- PAGE HEADER End -->
+	
+	<!-- PAGE INTRO Start -->
+	<div id="intro">
+		<div class="container">
+			
+			<div id="meta" class="sixteen columns">
+				
+				<ul>
+					<li>Updated: 29/06/2015</li>
+					<li>Author: Dan Richardson</li>
+					<li><a href="http://themeforest.net/user/SubatomicThemes">Contact Me</a></li>
+				</ul>
+				
+				<p>Thank you for choosing <strong>RoadRunners</strong> as your new WordPress theme.
+				Below you will find all the information you need to get started, including
+				installation, setup, and customization. However, if you have any
+				more questions that are beyond the scope of this help file, then please feel free to contact
+				me via <a href="http://themeforest.net/user/SubatomicThemes">my profile page</a>. Thank you!</p>
+			
+			</div>
+			
+			<div id="toc" class="sixteen columns">
+			
+				<h1 class="aligncenter">Table of Contents</h1>
+			
+				<ol>
+					<li><a href="#introduction">Introduction</a></li>
+					<li><a href="#install-wordpress">Installing WordPress</a></li>
+					<li><a href="#install-theme">Installing RoadRunners</a></li>
+					<li><a href="#child-theme">Creating a Child Theme</a></li>
+					<li><a href="#custom">Custom Header &amp; Background</a></li>
+					<li><a href="#install-plugins">Installing the Plugins</a></li>
+					<li><a href="#import">Importing Demo Data</a></li>
+					<li><a href="#events">Managing Your Events &amp; Artists</a></li>
+					<li><a href="#shortcodes">Using the Shortcodes</a></li>
+					<li><a href="#options">The Theme Options Panel</a></li>
+					<li><a href="#widgets">Using the Custom Contact Widgets</a></li>
+					<li><a href="#contact">Adding a Contact Form</a></li>
+					<li><a href="#credits">Sources &amp; Credits</a></li>
+				</ol>
+			
+			</div>
+			
+		</div>
+	</div>
+	<!-- PAGE INTRO End -->
+	
+	<!-- MAIN CONTENT Start -->
+	<div id="primary" class="container" role="main">
+	
+		<div id="introduction" class="section-heading sixteen columns">
+			<h1>A - Introduction</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<p>A big Thank You for purchasing <strong>RoadRunners - A One-Page Music Theme</strong>. This theme
+			is really useful and slick if you are a musician, band member, or involved in the
+			music business in any way.</p>
+			<p>RoadRunners comes with a plugin that manages all of your events and artists using
+			WordPress' powerful custom post types. And there's also a few useful shortcodes in there
+			too! This theme takes the popular "one page" approach and each section is easily
+			managed in the Theme Options panel. I hope you enjoy working with RoadRunners and if you have any questions, requests or
+			find any bugs, please leave a comment in the item's comment page over at 
+			<a href="http://themeforest.net" target="_blank">themeforest.net</a>.
+			This is the best place because everyone can benefit. For more intensive customization
+			feel free to <a href="mailto:subatomicdan@gmail.com">send me an email</a>. Enjoy!</p>
+			
+			<div class="note">
+				<p><strong>Note: </strong> It should be noted that this theme does not support sub menu's for the
+				main navigation!</p>
+			</div>
+			
+<pre>
+Changelog:
+
+v1.2.1
+- Fixed: Event options dissapeared after update.
+
+v1.2.0
+- Added: WPML config files for the theme and plugin.
+- Added: Custom headers on a per-post basis.
+- Added: "target" attribute to the [button] shortcode.
+- Added: Currency symbol selector.
+- Added: Homepage Layout Sorter (Replaces current select method).
+- Fixed: Styling issues when a Child Theme is used.
+- Fixed: Some styling issues on mobile displays.
+
+v1.1.1
+- Updated: Critical update to TGM Plugin Activation Class (XSS Issue).
+
+v1.1.0
+- Added: Child Theme folder.
+- Added: More theme options available.
+- Added: Pagination on Artist and Event posts.
+- Updated: Google Fonts library.
+- Fixed: SoundCloud player embeds were too small.
+- Improved: Responsiveness.
+- Improved: HTML5 and CSS code/validation.
+- Improved: Validating/sanitizing user input/output.
+- Improved: Using latest WordPress functions.
+
+v1.0.5
+- Fixed: Prevent horizontal scroll bar from appearing on narrow screen sizes
+- Fixed: Layout breaking when there are less than five events showing on the homepage
+- Fixed: Sub page header images are now handled via the Theme Options due to a conflict (URLs weren't saving)
+- Improvement: Event dates now use the date format specified under Settings > General
+- Improvement: Events are now ordered by event date instead of post date
+- Improvement: IMG tags now allowed in the "About Us" fields
+- Improvement: Mobile menu retracts after clicking menu links
+- Improvement: Google Fonts updated
+- Added: More options in the Theme Settings to change the text on certain labels
+
+v1.0.4
+- Fixed: White space bug in webkit browsers (Chrome, Safari)
+- Added: More layout options for the Homepage
+
+v1.0.3 
+- Fixed: A few issues with sticky nav positioning on mobile displays
+- Improvement: CSS tweaks for mobile displays
+
+v1.0.2 
+- Added: A sticky navbar :)
+
+v1.0.0
+- Initial Release
+</pre>
+			
+		</div>
+		<hr>
+		
+		<div id="install-wordpress" class="section-heading sixteen columns">
+			<h1>B - Installing WordPress</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+
+			<p>Installing WordPress on your web server is easy. Each web host is different but 
+			when you log in to your dashboard there's usually an option that allows you
+			to install WordPress automatically. In the unlikely event that your web host does not have this option, you can
+			follow this guide from the WordPress codex, which gives more detailed information
+			on how to install WordPress on your web server, or locally on your machine.</p>
+
+			<p><a href="https://codex.wordpress.org/Installing_WordPress">codex.wordpress.org/Installing_WordPress</a></p>
+			
+			<div class="note">
+				<p><strong>Important: </strong>Since this theme uses the latest features of WordPress,
+				be sure to upgrade to the latest version once you have installed it. The latest version
+				is 3.8 as of writing, though it has been thoroughly tested on 3.9 (beta).</p>
+			</div>
+			
+			<div class="tip">
+				<p><strong>Tip:</strong> If you would like to install WordPress locally on your
+				machine, a really simple solution is to use Instant WordPress. you can
+				download it from <a href="http://www.instantwp.com/" target="_blank">www.instantwp.com</a></p>
+			</div>
+			
+		</div>
+		<hr>
+		
+		<div id="install-theme" class="section-heading sixteen columns">
+			<h1>C - Installing RoadRunners</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<p>After you've installed WordPress and upgraded to the latest version (highly recommended),
+			you are now ready to install RoadRunners. You can do this one of two ways, I'll start
+			with the first which is the easiest;</p>
+			
+			<h2>The Quick and Easy Way</h2>
+			<p>After you have downloaded the ZIP package from Themeforest, you will need
+			to extract all the files first. If your computer does not have any tools
+			to do this, you can use <a href="http://www.winzip.com/win/en/index.htm" target="_blank">WinZip</a>, 
+			<a href="http://7-zip.org/" target="_blank">7-Zip</a>, 
+			or <a href="http://winace.com/" target="_blank">WinAce</a>.</p>
+			<p>Next, log in to your WordPress dashboard and navigate your way to the 
+			<strong>Themes</strong> page:</p>
+			<img src="images/install-01.jpg" alt="Themes Page" />
+			<p>Now click on "Add New Theme":</p>
+			<img src="images/install-02.jpg" alt="Add New Theme" />
+			<p>This will take you to the "Install Themes" page. From here, click on Upload:</p>
+			<img src="images/install-03.jpg" alt="Click on Upload" />
+			<p>You can now browse your computer and find where you extracted the
+			download package. You will need to find and select the file "roadrunners-theme.zip".
+			(It needs to be the ZIP file and NOT the folder) and then click on "Install Now":</p>
+			<img src="images/install-04.jpg" alt="Upload File" />
+			<p>From here you will have a choice to either return to the Dashboard, or 
+			Preview your site with the new your theme installed. If you choose "preview",
+			you can customize some of the settings such as the background colour or 
+			background image. If you choose to do this, make sure you activate the theme by
+			clicking on "save".</p>
+			
+			<div class="tip">
+				<p>If you are using WordPress 3.9, it is now possible to manage your widgets in the preview too!</p>
+			</div>
+			
+			<p>And that's it! RoadRunners should now be installed on your WordPress site. If, for
+			some reason, you are having difficulties, there is an alternative way...</p>
+			
+			<h2>The Alternative Way</h2>
+			<p>Along with the ZIP file of the theme, there is also an unzipped version which
+			is a stand alone folder named "roadrunners". If you have access to your web server
+			via an FTP client such as FileZilla, you can upload the "roadrunners"
+			theme folder directly. All you need to do is upload the folder into the "themes" directory.
+			The path to the themes directory is usually as follows:</p>
+			<pre>http://www.yoursite.com/wordpress/wp-content/themes/</pre>
+			<p>Once you have done this, you can proceed through the step below to activate the theme.</p>
+			<img src="images/activate.jpg" alt="Activate Theme" />
+			
+		</div>
+		<hr>
+		
+		<div id="child-theme" class="section-heading sixteen columns">
+			<h1>D - Creating a Child Theme</h1><a href="#top">Back to Top</a>
+		</div>
+		
+		<div class="sixteen columns">
+		
+			<p><strong>Note that as of V1.1.0, a child theme now comes with the main theme and can be found inside
+			the download package!</strong></p>
+			
+			<p>If you plan on modifying any of the code for RoadRunners once you've installed it, it's always a good idea
+			to create a "Child Theme" to work with instead. If you work with the theme directly and decide
+			to modify any of its code, then when a newer version of the theme is released, all of your changes
+			will be overwritten. Below is a brief example of how you begin this process</p>
+			<img src="images/child-01.jpg" alt="Child Theme Folder Structure" />
+			
+			<p>Inside this new folder, create a new file called <strong>style.css</strong>. This is the only file
+			required to make a Child Theme. Within this new CSS file, you will need to have the following code:</p>
+			<img src="images/child-02.jpg" alt="Child CSS File" />
+			
+			<p>Now all of your changes in this file will override the original stylesheets from the parent theme. The same
+			rule applys to any of the files you need to change. Simply create a new file of the same name and edit away!
+			There are more detailed instructions on how to create a Child Theme
+			over at the <a href="https://codex.wordpress.org/Child_Themes" target="_blank">WordPress codex</a>. </p>
+		
+		</div>
+		<hr>
+		
+		<div id="custom" class="section-heading sixteen columns">
+			<h1>E - Custom Header &amp; Background</h1><a href="#top">Back to Top</a>
+		</div>
+		
+		<div class="sixteen columns">
+		
+			<p>As well as a Theme Options panel, RoadRunners also supports some of WordPress' extra
+			customization features, like the background customizer. You can edit this
+			by going into the WordPress dashboard, and navigating to the <strong>Appearance</strong>
+			side menu.</p>
+			<img src="images/customize.jpg" alt="Customize Menu" />
+			
+			<p>From here you can change the background and also choose
+			to have a colour or image for the main body's background.</p>
+			<div class="note">
+				<p><strong>Note:</strong> The Header Image is now configurable in the Theme Options
+				panel.</p>
+			</div>
+		
+		</div>
+		<hr>
+		
+		<div id="install-plugins" class="section-heading sixteen columns">
+			<h1>F - Installing the Plugins</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<p>There are some Plugins you can install that will extend the use of the RoadRunners theme. One of them
+			was included in the download package when you bought the theme (roadrunners-plugin.zip), and the
+			the other two are optional plugins: <strong>The Breadcrumbs Plugin</strong> by Justin Tadlock, and <strong>Contact Form 7</strong>
+			by Takayuki Miyoshi. When you installed the theme, you will have been prompted to install these plugins. You can then let the
+			theme install these plugins for you, or you can install them yourself as described below.</p>
+			
+			<h2>RoadRunners Plugin</h2>
+			<p>This Plugin lets you create and manage your events and artists, and also has a small selection of useful shortcodes to use (more on this below).</p>
+			<p>Installing a plugin is very similar to installing a theme. You simply need
+			to upload the plugin in a ZIP format; From the WordPress dashboard, navigate your way to
+			the plugins page and click on "add new":</p>
+			<img src="images/plugin-01.jpg" alt="Plugin Add New" />
+			
+			<p>In the same directory as the theme's ZIP file, you will have noticed the "roadrunners-plugin.zip"
+			file. This is the file you need to upload. Again, this is very similar to the way you
+			installed the theme:</p>
+			<img src="images/plugin-02.jpg" alt="Upload Plugin" />	
+			<img src="images/plugin-03.jpg" alt="Install Plugin" />
+			
+			<p>As mentioned earlier, the theme itself will prompt you to install these plugins so you shouldn't need to
+			worry about doing it manually. If you do, you can repeat these steps for the other plugins, but instead of uploading
+			them, you'll need to do a search. Search for "breadcrumb trail" and "contact form 7" and you'll be able to install them 
+			directly from the WordPress Plugin Repository. When you have all plugins downloaded and installed. Make sure you
+			activate them!</p>
+			<img src="images/plugin-04.jpg" alt="Activate Plugin" />
+			
+			<p>To confirm that you have the plugins installed and working porperly, you should have these extra menu items
+			in the sidebar on your WordPress admin dashboard.</p>
+			<img src="images/menu.jpg" alt="Menu Items" />			
+			
+			<p>All your plugins are ready to go! And don't forget, if you ever wanted to
+			change themes, you can take all of the plugin content with you. Thats the 
+			great thing about using plugins! Don't forget, the above plugins are only meant to enhance your experience,
+			you don't need them for the theme to function properly. More information about how to use these plugins are described further
+			down this document.</p>
+			
+		</div>
+		<hr>
+		
+		<div id="import" class="section-heading sixteen columns">
+			<h1>G - Importing Demo Data</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+		
+			<p>If you liked the demo site for RoadRunners, you'll be pleased to know that the data is available
+			as an XML file for you to import into your WordPress site. This can be found in the "demo-data" folder along
+			with a text file that has all the theme options data too. This is a brief guide on how to import the data.
+			Before we start, it is important to note that you should install all of the recommended plugins in order
+			to get all of the data. Also, the images have been replaced with dummy images for licensing reasons. If you
+			would like these images, they can be purchased from photodune.net</p>
+			<p>First, go to your WordPress dashboard and navigate your way to the <strong>Tools -> Import</strong> page
+			from the side menu. On this page, there is an option for you to import content from another system. Click
+			on the WordPress option:</p>
+			<img src="images/import-01.jpg" alt="Import Page" /> 
+			
+			<p>Now all you need to do is click on "Browse" and find the file named "wordpress-demo-data.xml" then
+			click on "Upload File and Import". Be sure to check the box that says "Download Attachments". The process
+			may take a little while, so go and make yourself a cup of tea :)</p>
+			<img src="images/import-02.jpg" alt="Theme Options" />
+			
+			<p>All of the demo posts and pages should now be available in addition to the content you already have
+			on your site. Now we just need to import the theme options data. To do this, return to your WordPress
+			dashboard and navigate to the Theme Options page and go to the Import and Export menu:</p>
+			<img src="images/import-03.jpg" alt="Theme Options Data" />
+			
+			<p>As stated in the screenshot above, enter all the text from the "roadrunners-options-data.txt" file (this is
+			in the same folder as the "wordpress-demo-data.xml" file) and click the "Import Options" button. The text you see will look
+			like gibberish, thats okay it just means that its encoded.</p>
+		
+		</div>
+		<hr>
+		
+		<div id="events" class="section-heading sixteen columns">
+			<h1>H - Managing Your Events &amp; Artists</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<p>The RoadRunners Plugin provides you with two extra post types, one for Events and one for Artists.
+			The Events post type lets you store information like venues, event dates, and a map to display the
+			location. Instead of categories, you have event types which could include festivals, charity gigs and so on.
+			With the Artists post type you can store information relating to individual musicians or bands. This information could include
+			a list of albums and upcoming albums. You can organise these into different music genres too, like Rock, Jazz, or Metal.</p>
+			<p>If you are already familiar with writing posts in WordPress, then adding Events and Artists is almost exactly the
+			same. The only real difference is that your Events and Artists have a few optional extra fields to fill in, such as
+			a date or venue for Events, and discography or upcoming albums for Artists. This information is displayed on the front
+			end whenever a user visits an Event or Artist.</p>
+			
+			<h2>Events Fields</h2>
+			<img src="images/events-fields.jpg" alt="Events Fields" />
+			<p>These are the extra fields that are available for the <strong>Events</strong> custom post type. As you can see, they
+			are all pretty self explanetory. The only thing to note, is the map location field. This must be an iFrame generated by Google
+			Maps or something similar. The width and height attributes doesn't matter as the theme will resize the frame to fit its 
+			container.</p>
+			
+			<h2>Artists Fields</h2>
+			<img src="images/artists-fields.jpg" alt="Artists Fields" />
+			<p>These are the extra fields that are available for the <strong>Artists</strong> custom post type. These are also straightforward,
+			and you can even use some basic <abbr title="Hypertext Markup Language">HTML</abbr> like in the screenshot above.</p>
+			
+		</div>
+		<hr>
+		
+		<div id="shortcodes" class="section-heading sixteen columns">
+			<h1>I - Using the Shortcodes</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<p>With the RoadRunners Plugin
+			activated, you will also be able to use
+			some shortcodes when editing posts and pages. Below, you will
+			find a full list of all available shortcodes along with their
+			usage and purpose.</p>
+			
+			<div class="note">
+				<p>Although you can use these shortcodes in any theme, they may
+				look different due to the theme's styling.</p>
+			</div>
+			
+			<h2>Column Shortcodes</h2>
+			<p>These will allow you arrange your content into columns.
+			There are many perameters you can use to control the layout
+			not just on desktop, but for Mobile and Tablet displays.
+			Example usage:</p>
+			
+<pre>
+[col grid="50"]
+
+Your content...
+
+[/col]
+</pre>
+		
+			<p>The example above will create a column that is 50% the
+			width of it's parent container. You can specify the percentage
+			in increments of five (e.g. 25, 30, 35, 75 etc.) or, if you
+			need a column that takes up a third of it's parent, you can
+			use 33, or 66 for two thirds. Here's a more advanced example:</p>
+
+<pre>
+[col grid="25" tgrid="50" mgrid="100"]
+
+Your Content...
+
+[/col]
+</pre>
+
+			<p>This will display the column at twenty five percent on a desktop
+			display, fifty percent (half) on a Tablet display and one hundred percent
+			(full) on a Mobile display. you can also hide columns on specific
+			devices like so:</p>
+			
+<pre>
+[col grid="100" thide="true" mhide="true"]
+
+Your Content...
+
+[/col]
+</pre>
+			
+			<p>This will simply hide the content when viewed on a Tablet and Mobile
+			device. There are many more ways to display columns including using
+			"Prefix" and "Suffix" which are the equivilant to using empty columns.
+			Here's an example:</p>
+			
+<pre>
+[col pre="25" col="50" suf="25"]
+
+Your Content...
+
+[/col]
+</pre>
+		
+			<p>This example will create an empty column that is twenty five percent
+			(one quarter) wide, followed by a column that is fifty percent (one half) wide
+			which will have all of your content in, followed by another empty column
+			that is another twenty five percent (one quarter) in width. You may have
+			noticed that this adds up to one hundred percent. This is important to
+			remember when laying out your columns so that everything flows nicely
+			together down the page.</p>
+			
+			<div class="note">
+				<p><strong>Remember:</strong> <strong>pre</strong> will create empty
+				space before the main column, and <strong>suf</strong> will create
+				empty space after.</p>
+			</div>
+		
+			<p>There are a few more paremeters you can use to give you even more control.
+			<strong>dfirst</strong> will specify the first column in a row when displayed on a desktop, and remove
+			any left padding, keeping the column vertically aligned with the left side
+			of the page. You can also use this method for "nested" columns. Likewise
+			<strong>dlast</strong> will remove the right padding. More control is given
+			for this for Tablet and Mobile displays by using <strong>tfirst</strong>
+			and <strong>mfirst</strong> as well as <strong>tlast</strong> and
+			<strong>mlast</strong> respectively.</p>
+			
+			<p>Here is a complete list of available perameters and their possible values:</p>
+			<ul>
+				<li><strong>grid</strong> - 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70,
+				75, 80, 85, 90, 95, 100, 33, 66</li>
+				<li><strong>tgrid</strong> - 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70,
+				75, 80, 85, 90, 95, 100, 33, 66</li>
+				<li><strong>mgrid</strong> - 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70,
+				75, 80, 85, 90, 95, 100, 33, 66</li>
+				<li><strong>pre</strong> - 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70,
+				75, 80, 85, 90, 95, 100, 33, 66</li>
+				<li><strong>suf</strong> - 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70,
+				75, 80, 85, 90, 95, 100, 33, 66</li>
+				<li><strong>dfirst</strong> - true, false</li>
+				<li><strong>tfirst</strong> - true, false</li>
+				<li><strong>mfirst</strong> - true, false</li>
+				<li><strong>dlast</strong> - true, false</li>
+				<li><strong>tlast</strong> - true, false</li>
+				<li><strong>mlast</strong> - true, false</li>
+				<li><strong>dhide</strong> - true, false</li>
+				<li><strong>thide</strong> - true, false</li>
+				<li><strong>mhide</strong> - true, false</li>
+			</ul>
+			
+			<h2>Button Shortcodes</h2>
+			<p>There is a simple button shortcode available to use should you
+			wish to link to a specific article, page or use for an external link.
+			Here's a basic example:</p>
+			
+<pre>
+[button]
+
+Your Content... (this is usually the button's label)
+
+[/button]
+</pre>
+		
+			<p>Between the opening and closing tags, you would normally put the
+			button's label (e.g. "View Post"). Here is a more advanced example:</p>
+			
+<pre>
+[button url="http://www.eaxmapleurl.com"]
+
+Your Content... (this is usually the button's label)
+
+[/button]
+</pre>
+
+			<p>This example will link to
+			the URL specified in the <strong>url</strong> peramemter. Here are the
+			complete list of perameters and their possible values:</p>
+			
+			<ul>
+				<li><strong>url</strong> - URL path (i.e. a web address)</li>
+			</ul>
+			
+			<h2>Accordion Shortcode</h2>
+			<p>This shortcode will allow you to display multiple accordions on one page. There is also the option to 
+			make it into a toggle instead. Here's an example:</p>
+			
+<pre>
+[acc title="Accordion Title" open="true" type="toggle"]
+
+Your Content Here...
+
+[/acc]
+</pre>
+		
+			<p>This example will turn the "toggle" mode on and also make it "open" by default. The parameters and values are
+			as follows:</p>
+			<ul>
+				<li><strong>title</strong> - Any string</li>
+				<li><strong>open</strong> - true, false</li>
+				<li><strong>type</strong> - toggle (leave blank for default behaviour)</li>
+			</ul>
+			
+			<h2>Tabs Shortcodes</h2>
+			<p>Tabs need to be grouped together in order to work properly, so this shortcode is a little more complicated.
+			Take this example:</p>
+			
+<pre>
+[tabs names="tab1:tab2:tab3"]
+
+	[tab name="tab1"]
+
+	Content for Tab One...
+
+	[/tab]
+
+	[tab name="tab2"]
+
+	Content for Tab Two...
+
+	[/tab]
+	
+	[tab name="tab3"]
+
+	Content for Tab Three...
+
+	[/tab]
+
+[/tabs]
+</pre>
+		
+			<p>The above code will generate three tabbed areas (tab1, tab2 and tab3), the main thing you need to remember
+			here is that the names in the <strong>names</strong> parameter matches those in each "tab" name and that the
+			names are seperated by a semi-colon (:).</p>
+		
+		</div>
+		<hr>
+		
+		<div id="options" class="section-heading sixteen columns">
+			<h1>J - The Theme Options Panel</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<p>The theme options page is where you will want to be if you wish to edit the main home page of the site.
+			All of the options for each section can be customized here, but first things first, the theme options can be found
+			under <strong>Appearance -> Theme Options</strong>.</p>
+			<img src="images/theme-options.jpg" alt="Theme Options Menu" />
+			
+			<p>Each of the options have a basic explanation about them and how to use them, but here is a brief list of what
+			can be configured:</p>
+			<ul>
+				<li>The Main Headings in each section</li>
+				<li>Background Images for certain sections</li>
+				<li>The Content for each section</li>
+				<li>Upload images for the Gallery</li>
+				<li>Homepage logo and Taglines</li>
+				<li>Homepage layout options</li>
+				<li>Testimonials</li>
+				<li>Contact Section</li>
+				<li>Navigation menu names</li>
+				<li>Footer Text</li>
+				<li>Google Analytics Code</li>
+				<li>Favicons</li>
+				<li>Social Icons</li>
+				<li>Google Font Settings</li>
+				<li>Import and Export</li>
+			</ul>
+
+			<p>There are brief explanations about each part of the site you want to customize at
+			the beginning of each section in the theme options page, so be sure
+			to read those when changing options.</p>
+			
+		</div>
+		<hr>
+		
+		<div id="widgets" class="section-heading sixteen columns">
+			<h1>K - Using the Custom Contact Widget</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+		
+			<p>This Widget will display some introductory text, much like WordPress' text Widget, followed by some
+			contact details including and address, phone number and email address. Simply visit the Widgets page
+			and drag/edit it like you would any other WordPress widget :)</p>
+		
+		</div>
+		<hr>
+		
+		<div id="contact" class="section-heading sixteen columns">
+			<h1>L - Adding a Contact Form</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+		
+			<p>RoadRunners is compatible with the <strong>Contact Form 7</strong> plugin for when you need to add a
+			functional contact form to the main homepage. In order to use this plugin, you must first install it. There are
+			details on how to do this further up the page in the "Install Plugins" section.</p>
+			<p>You may notice that adding a contact form is again, very similar to adding a normal post. Firstly, 
+			navigate your way to the "Contact" page and you'll see that there is a demo contact form already
+			available. You can either modify this, or create an entirely new one. It's completely up to you:</p>
+			<img src="images/contact-01.jpg" alt="Contact Page" />
+			
+			<p>The following screenshot is a form that I built myself for the Demo site of this theme. As you
+			can see, you can combine a mixture of HTML and the tags that are specific to each of the forms
+			fields. To learn more about the tags and how to configure your contact form, please visit the
+			plugins <a href="http://contactform7.com/getting-started-with-contact-form-7/" target="_blank">documentation page</a>.
+			Once you have configured your form, simply copy and paste the shortcode into the <strong>Contact</strong> section of the Theme Options page
+			(the field that says "Contact Form 7 Shortcode").</p>
+			<img src="images/contact-02.jpg" alt="Copy Shortcode" />
+		
+		</div>
+		<hr>
+		
+		<div id="credits" class="section-heading sixteen columns">
+			<h1>M - Sources &amp; Credits</h1><a href="#top">Back to Top</a>
+		</div>
+	
+		<div class="sixteen columns">
+			
+			<h2>CSS, Javascript and jQuery Plugins</h2>
+			<ul>
+				<li><strong>Easing</strong> - (<a href="http://www.gsgd.co.uk/sandbox/jquery/easing/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Fitvids</strong> - (<a href="http://fitvidsjs.com/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Formalize</strong> - (<a href="http://formalize.me/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Slimbox 2</strong> - (<a href="http://www.digitalia.be/software/slimbox2" target="_blank">Visit Site</a>)</li>
+				<li><strong>Font Awesome</strong> - (<a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Animate</strong> - (<a href="http://daneden.github.io/animate.css/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Lettering</strong> - (<a href="http://letteringjs.com/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Textillate</strong> - (<a href="http://jschr.github.io/textillate/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Scroll Reveal</strong> - (<a href="http://julianlloyd.me/scrollreveal/" target="_blank">Visit Site</a>)</li>
+				<li><strong>Unsemantic Grid</strong> - (<a href="http://unsemantic.com/" target="_blank">Visit Site</a>)</li>			
+			</ul>
+			
+			<h2>Options Framework</h2>
+			<ul>
+				<li><strong>Slighly Modified Options Framework (SMOF)</strong> - (<a href="https://github.com/syamilmj/Options-Framework" target="_blank">Visit Site</a>)</li>
+			</ul>
+			
+			<h2>WordPress Plugins</h2>
+			<ul>
+				<li><strong>Breadcrumb Trail</strong> - by <a href="http://wordpress.org/plugins/breadcrumb-trail/" target="_blank">Justin Tadlock</a></li>
+				<li><strong>Contact Form 7</strong> - by <a href="http://wordpress.org/plugins/contact-form-7/" target="_blank">Takayuki Miyoshi</a></li>
+			</ul>
+
+			<h2>Images</h2>
+			<p>Please note that all of the images used in the Demo site are NOT included within
+			the download package. These can be purchased individually from 
+			<a href="http://photodune.net/" target="_blank">Photodune</a>.</p>
+			
+		</div>
+		
+		<hr>
+		
+		<!-- FOOTER Start -->
+		<div class="footer sixteen columns">
+		
+			<p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you
+			if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have
+			a more general question relating to the themes on ThemeForest, you might consider visiting the forums
+			and asking your question in the "Item Discussion" section.</p>
+			
+			<p>Kind Regards,</p>
+			
+			<p><strong>Subatomic Themes</strong>.</p>
+		
+		</div>
+		<!-- FOOTER End -->
+		
+	</div>
+	<!-- MAIN CONTENT End -->
+	
+</body>
+</html>

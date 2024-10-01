@@ -1,0 +1,34 @@
+CHANGELOG:
+
+V1.2.1
+======
+
+ - Fixed: Event options dissapeared after update.
+
+V1.2.0
+======
+ - Added: WPML config files for the theme and plugin.
+ - Added: Custom headers on a per-post basis.
+ - Added: "target" attribute to the [button] shortcode.
+ - Added: Currency symbol selector.
+ - Added: Homepage Layout Sorter (Replaces current select method).
+ - Fixed: Styling issues when a Child Theme is used.
+ - Fixed: Some styling issues on mobile displays.
+ 
+V1.1.1
+======
+
+ - Updated: TGM Plugin Activation Class (XSS Vulnerability).
+
+V1.1.0
+======
+
+ - Added: Child Theme folder.
+ - Added: More theme options available.
+ - Added: Pagination on Artist and Event posts.
+ - Fixed: SoundCloud player embeds were too small.
+ - Updated: Google Fonts library.
+ - Improved: Responsiveness.
+ - Improved: HTML5 and CSS code/validation.
+ - Improved: Validating/sanitizing user input/output.
+ - Improved: Using latest WordPress functions.

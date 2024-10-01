@@ -1,0 +1,22 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="translate">_rr_event_venue</custom-field>
+		<custom-field action="translate">_rr_event_map</custom-field>
+		<custom-field action="translate">_rr_event_date</custom-field>
+		<custom-field action="translate">_rr_event_tickets</custom-field>
+		<custom-field action="translate">_rr_event_price</custom-field>
+		<custom-field action="translate">_rr_event_ticket_url</custom-field>
+		<custom-field action="translate">_rr_artist_formed</custom-field>
+		<custom-field action="translate">_rr_artist_albums</custom-field>
+		<custom-field action="translate">_rr_artist_discography</custom-field>
+		<custom-field action="translate">_rr_artist_upcoming</custom-field>
+	</custom-fields>
+	<custom-types>
+		<custom-type translate="1">rr_events</custom-type>
+		<custom-type translate="1">rr_artists</custom-type>
+	</custom-types>    
+	<taxonomies>
+		<taxonomy translate="1">event_type</taxonomy>
+		<taxonomy translate="1">genres</taxonomy>
+	</taxonomies>   
+</wpml-config>

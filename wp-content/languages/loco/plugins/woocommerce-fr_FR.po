@@ -1,0 +1,4584 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-12 06:34:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WooCommerce - Stable (latest release)\n"
+
+msgid " (%s ago)"
+msgstr " (Il y a %s)"
+
+msgid " (%s)"
+msgstr " (%s)"
+
+msgid "woocommerce"
+msgstr "woocommerce"
+
+msgid "yd"
+msgstr "yd"
+
+msgid "{{attribute /}} {{equals /}} {{value /}}"
+msgstr "{{attribute /}} {{equals /}} {{value /}}"
+
+msgid ""
+"{{authorLink}}%s{{/authorLink}}{{verifiedCustomerIcon/}} reviewed "
+"{{productLink}}%s{{/productLink}}"
+msgstr ""
+"{{authorLink}}%s{{/authorLink}}{{verifiedCustomerIcon/}} examiné "
+"{{productLink}}%s{{/productLink}}"
+
+msgid "{{current /}} of {{total /}}"
+msgstr "{{current /}} sur {{total /}}"
+
+msgid "{{orderLink}}Order #%(orderNumber)s{{/orderLink}} %(customerString)s"
+msgstr ""
+"{{orderLink}}Commande n° %(orderNumber)s{{/orderLink}} %(customerString)s"
+
+msgid "{{strong}}%s{{/strong}} developed by WooCommerce"
+msgstr "{{strong}}%s{{/strong}} développé par WooCommerce"
+
+msgid ""
+"{{strong}}Jetpack{{/strong}} and {{strong}}WooCommerce Tax{{/strong}} can "
+"automate your sales tax calculations for you."
+msgstr ""
+"{{strong}}Jetpack{{/strong}} et {{strong}}WooCommerce Tax{{/strong}} peuvent "
+"automatiser le calcul de vos taxes de vente."
+
+msgid "{{title}}AOV{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}AOV{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Attribute{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Attribut{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Category{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Catégorie{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Country / Region{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Pays / Région{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Coupon Code{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Code promo{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Customer is{{/title}} {{filter /}}"
+msgstr "{{title}}Le client est{{/title}} {{filter /}}"
+
+msgid "{{title}}Email{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Adresse e-mail{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}IP Address{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Adresse IP{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Last active{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Dernière activité{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Name{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Nom{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}No. of Orders{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Nombre de commandes{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Order #{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Commande n°{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Order Status{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Statut de commande{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Product{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Produit{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Refunds{{/title}} {{filter /}}"
+msgstr "{{title}}Remboursements{{/title}} {{filter /}}"
+
+msgid "{{title}}Registered{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Enregistrement{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Tax Rate{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Taux de taxe{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Total Spend{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Dépense totale{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Username{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Nom d’utilisateur{{/title}} {{rule /}} {{filter /}}"
+
+msgid "{{title}}Variation{{/title}} {{rule /}} {{filter /}}"
+msgstr "{{title}}Variante{{/title}} {{rule /}} {{filter /}}"
+
+msgid "Ávila"
+msgstr "Ávila"
+
+msgid "Åland Islands"
+msgstr "Åland Islands"
+
+msgid "Çanakkale"
+msgstr "Çanakkale"
+
+msgid "Çankırı"
+msgstr "Çankırı"
+
+msgid "Çorum"
+msgstr "Çorum"
+
+msgid "Ñeembucú"
+msgstr "Ñeembucú"
+
+msgid "İstanbul"
+msgstr "İstanbul"
+
+msgid "İzmir"
+msgstr "İzmir"
+
+msgid "İçel"
+msgstr "İçel"
+
+msgid "Şanlıurfa"
+msgstr "Şanlıurfa"
+
+msgid "Şırnak"
+msgstr "Şırnak"
+
+msgid "Șoldănești"
+msgstr "Șoldănești"
+
+msgid "Ștefan Vodă"
+msgstr "Stefan Voda"
+
+msgid "— No Change —"
+msgstr "— Aucun changement —"
+
+msgid "— No change —"
+msgstr "— Aucun changement —"
+
+msgid "…"
+msgstr "…"
+
+msgid "🎉 Congrats on adding your first product!"
+msgstr "🎉 Félicitations pour l’ajout de votre premier produit !"
+
+msgid ""
+"🎨 Your store is looking great! Don't forget to continue personalizing it"
+msgstr ""
+" 🎨 Votre boutique a fière allure ! N’oubliez pas de continuer sa "
+"personnalisation"
+
+msgid "🏠 Nice work creating your store's homepage!"
+msgstr ""
+"🏠 Excellent travail de création de la page d’accueil de votre boutique !"
+
+msgid "📦 Shipping is done! Don't worry, you can always change it later"
+msgstr ""
+" 📦 Expédition réalisée ! Ne vous inquiétez pas, vous pourrez toujours le "
+"modifier ultérieurement"
+
+msgid "Your store doesn't have any products."
+msgstr "Votre boutique ne comporte pas de produits."
+
+msgid ""
+"Your store in your pocket. Manage orders, receive sales notifications, and "
+"more. Only with a Jetpack connection."
+msgstr ""
+"Votre boutique à disposition. Gérez les commandes, recevez des notifications "
+"de vente et plus encore. Uniquement avec une connexion Jetpack."
+
+msgid ""
+"Your store is almost ready! To activate services like %s, just connect with "
+"Jetpack."
+msgstr ""
+"Votre boutique est presque terminée! Pour activer des services comme %s, "
+"connectez-vous simplement avec Jetpack ."
+
+msgid ""
+"Your store is configured to serve digital products using \"Redirect only\" "
+"method. This method is deprecated, <a href=\"%s\">please switch to  a "
+"different method instead.</a><br><em>If you use a remote server for "
+"downloadable files (such as Google Drive, Dropbox, Amazon S3), the right "
+"method will automatically be used, so select any of the other options to "
+"make this notice go away.</em>"
+msgstr ""
+"Votre boutique est configurée pour prendre en charge les produits numériques "
+"en mode « Rediriger uniquement ». Ce mode est obsolète, <a href=\"%s\">"
+"veuillez en choisir un autre.</a><br><em>Si vous utilisez un serveur distant "
+"pour les fichiers téléchargeables (par exemple Google Drive, Dropbox ou "
+"Amazon S3), la bonne méthode sera automatiquement appliquée. Sélectionnez "
+"donc l’une des autres options pour faire disparaître cet avis.</em>"
+
+msgid ""
+"Your store is not using HTTPS. <a href=\"%s\" target=\"_blank\">Learn more "
+"about HTTPS and SSL Certificates</a>."
+msgstr ""
+"Votre boutique n’utilise pas HTTPS. <a href=\"%s\" target=\"_blank\">En "
+"savoir plus sur HTTPS et les certificats SSL</a>."
+
+msgid "Your store today"
+msgstr "Votre boutique aujourd’hui"
+
+msgid ""
+"Your store's uploads directory is <a href=\"%1$s\">browsable via the web</a>."
+" We strongly recommend <a href=\"%2$s\">configuring your web server to "
+"prevent directory indexing</a>."
+msgstr ""
+"Le répertoire de téléversements de votre boutique est <a href=\"%1$s\">"
+"navigable par le web</a>. Nous recommandons fortement de <a href=\"%2$s\">"
+"configurer votre serveur web pour empêcher l’indexation</a>."
+
+msgid ""
+"Your subscription expired on %s. Get a new subscription to continue "
+"receiving updates and access to support."
+msgstr ""
+"Votre abonnement a expiré le %s. Réabonnez-vous pour continuer de recevoir "
+"les mises à jour et de bénéficier de l’accès à notre assistance."
+
+msgid ""
+"Your subscription expires in %d days. Enable autorenew to avoid losing "
+"updates and access to support."
+msgstr ""
+"Votre abonnement expire dans %d jours. Activez le renouvellement automatique "
+"pour éviter de perdre les mises à jour et l’accès à l’assistance."
+
+msgid ""
+"Your theme has a woocommerce.php file, you will not be able to override the "
+"woocommerce/archive-product.php custom template since woocommerce.php has "
+"priority over archive-product.php. This is intended to prevent display "
+"issues."
+msgstr ""
+"Votre thème a un fichier woocommerce.php, vous ne serez pas en mesure de "
+"substituer le modèle personnalisé woocommerce/archive-product.php étant "
+"donné que woocommerce.php a la priorité sur archive-product.php. Ceci vise à "
+"prévenir les problèmes d&rsquo;affichage."
+
+msgid "Your theme is being uploaded"
+msgstr "Votre thème est en cours de chargement"
+
+msgid "Your {site_title} account has been created!"
+msgstr "Votre compte sur {site_title} a été créé"
+
+msgid "Your {site_title} order #{order_number} has been partially refunded"
+msgstr ""
+"Votre commande n°{order_number} sur {site_title} a été partiellement "
+"remboursée"
+
+msgid "Your {site_title} order #{order_number} has been refunded"
+msgstr "Votre commande n°{order_number} sur {site_title} a été remboursée"
+
+msgid "Your {site_title} order has been received!"
+msgstr "Votre commande sur {site_title} a été reçue"
+
+msgid "Your {site_title} order is now complete"
+msgstr "Votre commande sur {site_title} est maintenant terminée"
+
+msgid "You’ve fulfilled all your orders"
+msgstr "Vous avez exécuté toutes vos commandes"
+
+msgid "You’ve received the following order from %s:"
+msgstr "Vous avez reçu la commande suivante de %s :"
+
+msgid "Yozgat"
+msgstr "Yozgat"
+
+msgid "Yucatán"
+msgstr "Yucatán"
+
+msgid "Yukon Territory"
+msgstr "Yukon"
+
+msgid "Yumbe"
+msgstr "Yumbe"
+
+msgid "Yunnan / 云南"
+msgstr "Yunnan / 云南"
+
+msgid "ZIP"
+msgstr "Code postal"
+
+msgid "Zacapa"
+msgstr "Zacapa"
+
+msgid "Zacatecas"
+msgstr "Zacatecas"
+
+msgid "Zaire"
+msgstr "Zaïre"
+
+msgid "Zala"
+msgstr "Zala"
+
+msgid "Zambales"
+msgstr "Zambales"
+
+msgid "Zambezi"
+msgstr "Zambèze"
+
+msgid "Zambia"
+msgstr "Zambie"
+
+msgid "Zambian kwacha"
+msgstr "Kwacha zambien"
+
+msgid "Zamboanga Sibugay"
+msgstr "Zamboanga Sibugay"
+
+msgid "Zamboanga del Norte"
+msgstr "Zamboanga du Nord"
+
+msgid "Zamboanga del Sur"
+msgstr "Zamboanga du Sud"
+
+msgid "Zambézia"
+msgstr "Zambézia"
+
+msgid "Zamfara"
+msgstr "Zamfara"
+
+msgid "Zamora"
+msgstr "Zamora"
+
+msgid "Zanjan (زنجان)"
+msgstr "Zanjan (زنجان)"
+
+msgid "Zanzibar North"
+msgstr "Zanzibar North"
+
+msgid "Zanzibar South"
+msgstr "Zanzibar South"
+
+msgid "Zanzibar West"
+msgstr "Zanzibar West"
+
+msgid "Zaragoza"
+msgstr "Saragosse"
+
+msgid "Zero rate"
+msgstr "Taux zéro"
+
+msgid "Zhejiang / 浙江"
+msgstr "Zhejiang / 浙江"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Zip or Postcode of the address being shipped to."
+msgstr "Code postal de l’adresse de livraison."
+
+msgid "Zombo"
+msgstr "Zombo"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Zone ID."
+msgstr "ID de la zone."
+
+msgid "Zone does not exist!"
+msgstr "La zone n’existe pas !"
+
+msgid "Zone name"
+msgstr "Nom de la zone"
+
+msgid "Zone regions"
+msgstr "Composition de la zone"
+
+msgid "Zonguldak"
+msgstr "Zonguldak"
+
+msgid "Zoom in/out"
+msgstr "Zoomer/Dézoomer"
+
+msgid "Zou"
+msgstr "Zou"
+
+msgid "Zug"
+msgstr "Zoug"
+
+msgid "Zürich"
+msgstr "Zürich"
+
+msgid "[%1$s] %2$s: %3$s WooCommerce log message"
+msgstr "[%1$s] %2$s : %3$s message de journal WooCommerce"
+
+msgid "Theme."
+msgstr "Thème."
+
+msgid "There are currently no logs to view."
+msgstr "Il n&rsquo;y a actuellement aucun log à afficher."
+
+msgid "There are currently no products available to display."
+msgstr "Il n’y a actuellement aucun produit à afficher."
+
+msgid "There are no currencies matching these parameters."
+msgstr "Aucune devise ne correspond à ces paramètres."
+
+msgid "There are no locations matching these parameters."
+msgstr "Aucun emplacement ne correspond à ces paramètres."
+
+msgid "There are no notes yet."
+msgstr "Il n’y a pas encore de note."
+
+msgid ""
+"There are no payment methods available. This may be an error on our side. "
+"Please contact us if you need any help placing your order."
+msgstr ""
+"Aucun moyen de paiement disponible. L’erreur vient peut-être de notre côté. "
+"Contactez-nous si vous avez besoin d’aide pour passer votre commande."
+
+msgid "There are no product reviews yet."
+msgstr "Il n&rsquo;y a pas encore d&rsquo;avis produit."
+
+msgid "There are no reviews yet."
+msgstr "Il n’y a pas encore d’avis."
+
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Aucun mode d’expédition disponible. Assurez-vous que l’adresse que vous avez "
+"saisie est correcte ou contactez-nous si vous avez besoin d’aide."
+
+msgid ""
+"There are not enough %s in stock. Please reduce the quantities in your cart."
+msgstr ""
+"Il n’y a pas assez de %s en stock. Veuillez réduire les quantités dans votre "
+"panier."
+
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+"Il y a quelques problèmes avec les articles dans votre panier. Veuillez "
+"retourner sur la page du panier et résolvez ces problèmes avant de commander."
+
+msgid ""
+"There are three ways to add your products: you can <strong>create products "
+"manually, import them at once via CSV file</strong>, or <strong>migrate them "
+"from another service</strong>.<br/><br/>"
+msgstr ""
+"Trois méthodes permettent d’ajouter des produits : vous pouvez <strong>créer "
+"les produits manuellement, les importer d’une traite par l’intermédiaire "
+"d’un fichier CSV</strong>, ou <strong>les migrer depuis un autre "
+"service</strong>.<br/><br/>"
+
+msgid ""
+"There are too many %s in the cart. Only 1 can be purchased. Please reduce "
+"the quantity in your cart."
+msgstr ""
+"Il y a trop de %s dans le panier. 1 seul peut être acheté. Veuillez réduire "
+"la quantité dans votre panier."
+
+msgid ""
+"There are too many %s in the cart. Only 1 of each can be purchased. Please "
+"reduce the quantities in your cart."
+msgstr ""
+"Il y a trop de %s dans le panier. 1 seul de chaque peut être acheté. "
+"Veuillez réduire les quantités dans votre panier."
+
+msgid ""
+"There are too many concurrent batches, but the run is forced to continue."
+msgstr ""
+"Nombre de lots concurrents trop élevé, mais l’exécution doit continuer."
+
+msgid "There are too many concurrent batches."
+msgstr "Nombre de lots concurrents trop élevé."
+
+msgid "There is a problem with your cart"
+msgstr "Problème avec votre panier"
+
+msgid "There is no card on a customer that is being charged."
+msgstr "Il n’y a pas de carte sur un compte en cours de facturation."
+
+msgid "There is no data to export for the given request."
+msgstr "Il n’existe pas de données à exporter pour la demande concernée."
+
+msgid ""
+"There is not enough %s in stock. Please reduce the quantity in your cart."
+msgstr ""
+"Il n’y a pas assez de %s en stock. Veuillez réduire la quantité dans votre "
+"panier."
+
+msgid "There was a failure fetching this action"
+msgstr "Il y a eu un échec lors de la récupération de l’action."
+
+msgid "There was a failure fetching this action: %s"
+msgstr ""
+"Une défaillance est survenue lors de la récupération de cette action : %s"
+
+msgid "There was a failure scheduling the next instance of this action: %s"
+msgstr ""
+"Une défaillance est survenue lors de la planification de l’instance suivante "
+"de cette action : %s"
+
+msgid "There was a problem activating some of the requested plugins."
+msgstr ""
+"Un problème est survenu lors de l’activation de certaines des extensions "
+"demandées."
+
+msgid ""
+"There was a problem checking out. Please try again. If the problem persists, "
+"please get in touch with us so we can assist."
+msgstr ""
+"Un problème est survenu lors de la validation de commande. Veuillez "
+"réessayer. Si le problème persiste, contactez-nous pour obtenir de l’aide."
+
+msgid "There was a problem deleting your previous data."
+msgstr ""
+"Un problème est survenu lors de la suppression de vos données précédentes."
+
+msgid "There was a problem exporting your %s Report. Please try again."
+msgstr ""
+"Un problème est survenu lors de l’exportation de votre rapport %s. Veuillez "
+"réessayer."
+
+msgid "There was a problem finishing the setup wizard"
+msgstr "Un problème est survenu à la fin de l’assistant de configuration"
+
+msgid "There was a problem installing some of the requested plugins."
+msgstr ""
+"Un problème est survenu lors de l’installation de certaines des extensions "
+"demandées."
+
+msgid "There was a problem rebuilding your report data."
+msgstr ""
+"Un problème est survenu lors de la reconstruction des données de votre "
+"rapport."
+
+msgid "There was a problem saving your payment settings"
+msgstr ""
+"Un problème est survenu lors de l’enregistrement de vos réglages de paiement"
+
+msgid ""
+"There was a problem saving your payment settings through the onboarding, "
+"please fill the fields in manually."
+msgstr ""
+"Un problème est survenu lors de l’enregistrement de vos paramètres de "
+"paiement pendant l’intégration. Veuillez renseigner les champs manuellement."
+
+msgid "There was a problem saving your payment settings."
+msgstr ""
+"Un problème est survenu lors de l’enregistrement de vos réglages de paiement."
+
+msgid "There was a problem saving your store details"
+msgstr ""
+"Un problème est survenu lors de l’enregistrement des détails relatifs à "
+"votre boutique"
+
+msgid "There was a problem saving your store location"
+msgstr ""
+"Un problème est survenu lors de l’enregistrement de la localisation de votre "
+"boutique"
+
+msgid "There was a problem selecting your store theme"
+msgstr ""
+"Un problème est survenu lors de la sélection du thème de votre boutique"
+
+msgid "There was a problem skipping the setup wizard"
+msgstr ""
+"Un problème est survenu lorsque l’assistant de configuration a été ignoré"
+
+msgid "There was a problem stopping your current import."
+msgstr "Un problème est survenu lors de l’arrêt de votre importation en cours."
+
+msgid "There was a problem updating the credentials."
+msgstr ""
+"Un problème est survenu lors de la mise à jour de vos identifiants de "
+"connexion."
+
+msgid "There was a problem updating your business details"
+msgstr ""
+"Un problème est survenu lors de la mise à jour des détails relatifs à votre "
+"activité"
+
+msgid "There was a problem updating your industries"
+msgstr ""
+"Un problème est survenu lors de la mise à jour de vos secteurs d’activité"
+
+msgid "There was a problem updating your preferences"
+msgstr "Un problème est survenu lors de la mise à jour de vos préférences"
+
+msgid "There was a problem updating your product types"
+msgstr ""
+"Un problème est survenu lors de la mise à jour de vos types de produits"
+
+msgid "There was a problem updating your settings."
+msgstr "Un problème est survenu lors de la mise à jour de vos réglages."
+
+msgid "There was a problem updating your tax settings"
+msgstr "Un problème est survenu lors de la mise à jour de vos réglages de taxe"
+
+msgid ""
+"There was a problem with the Paypal onboarding setup, please fill the fields "
+"in manually."
+msgstr ""
+"Un problème est survenu avec la configuration d’intégration de Paypal. "
+"Veuillez renseigner les champs manuellement."
+
+msgid "There was a problem with the provided %s:"
+msgstr "Un problème est survenu avec le %s fourni :"
+
+msgid "There was a problem with your payment option."
+msgstr "Un problème est survenu avec votre option de paiement."
+
+msgid "There was a problem with your shipping option."
+msgstr "Un problème est survenu avec votre option de livraison."
+
+msgid "There was an error calling %s"
+msgstr "Il y a une erreur en appelant %s"
+
+msgid "There was an error calling this tool. There is no callback present."
+msgstr ""
+"Il y a eu une erreur lors de l’appel à cet outil. Il n’y a pas de retour."
+
+msgid "There was an error communicating with the WooCommerce Payments plugin."
+msgstr ""
+"Une erreur est survenue lors de la communication avec l’extension "
+"WooCommerce Payments."
+
+msgid "There was an error connecting to Square."
+msgstr "Une erreur est survenue lors de la connexion à Square."
+
+msgid ""
+"There was an error connecting to Square. Please try again or skip to connect "
+"later in store settings."
+msgstr ""
+"Une erreur est survenue lors de la connexion à Square. Veuillez réessayer ou "
+"ignorer pour vous connecter ultérieurement aux réglages de la boutique."
+
+msgid ""
+"There was an error connecting to WooCommerce Payments. Please try again or "
+"connect later in store settings."
+msgstr ""
+"Une erreur est survenue lors de la connexion à WooCommerce Payments. "
+"Réessayez ou connectez-vous plus tard dans les réglages de la boutique."
+
+msgid "There was an error connecting to WooCommerce.com. Please try again."
+msgstr ""
+"Une erreur est survenue lors de la connexion à WooCommerce.com. Veuillez "
+"réessayer."
+
+msgid "There was an error getting your inbox. Please try again."
+msgstr ""
+"Une erreur est survenue lors de l’obtention de votre boîte de réception. "
+"Veuillez réessayer."
+
+msgid "There was an error getting your low stock products. Please try again."
+msgstr ""
+"Une erreur est survenue lors de l’obtention des produits dont le stock est "
+"faible. Veuillez réessayer."
+
+msgid "There was an error getting your orders. Please try again."
+msgstr ""
+"Une erreur est survenue lors de l’obtention de vos commandes. Veuillez "
+"réessayer."
+
+msgid "There was an error getting your reviews. Please try again."
+msgstr ""
+"Une erreur est survenue lors de l’obtention des avis. Veuillez réessayer."
+
+msgid "There was an error getting your stats. Please try again."
+msgstr ""
+"Une erreur est survenue lors de l’obtention de vos statistiques. Veuillez "
+"réessayer."
+
+msgid "There was an error importing some of the sample products"
+msgstr ""
+"Une erreur est survenue lors de l’importation de certains des produits de "
+"démonstration"
+
+msgid "There was an error loading installed extensions."
+msgstr "Une erreur est survenue lors du chargement des extensions installées."
+
+msgid "There was an error loading recommended extensions."
+msgstr ""
+"Une erreur est survenue lors du chargement des extensions recommandées."
+
+msgid "There was an error loading the WooCommerce.com Helper API."
+msgstr ""
+"Une erreur est survenue lors du chargement de l’API de WooCommerce.com "
+"Helper."
+
+msgid "There was an error loading the content."
+msgstr "Une erreur est survenue lors du chargement du contenu."
+
+msgid "There was an error loading the reviews."
+msgstr "Une erreur est survenue lors du chargement des avis."
+
+msgid "There was an error registering the payment method with id '%s': "
+msgstr ""
+"Il y a eu une erreur lors de l’enregistrement de la méthode de paiement avec "
+"l’identifiant %s :"
+
+msgid "There was an error running the action scheduler: %s"
+msgstr ""
+"Une erreur est survenue lors de l’exécution du planificateur d’actions : %s"
+
+msgid "There was an error saving your settings. Please try again."
+msgstr ""
+"Une erreur est survenue lors de l’enregistrement de vos réglages. Veuillez "
+"réessayer."
+
+msgid "There was an error trying to activate the extension."
+msgstr ""
+"Une erreur est survenue lors de la tentative d’activation de l’extension."
+
+msgid ""
+"There was an error whilst rendering the cart block. If this problem "
+"continues, try re-creating the block."
+msgstr ""
+"Une erreur est survenue lors du rendu du bloc de panier. Si le problème "
+"persiste, essayez de recréer le bloc."
+
+msgid ""
+"There was an error whilst rendering the checkout block. If this problem "
+"continues, try re-creating the block."
+msgstr ""
+"Une erreur est survenue lors du rendu du bloc de validation de commande. Si "
+"le problème persiste, essayez de recréer le bloc."
+
+msgid "There was an error with an item in your cart."
+msgstr "Une erreur est survenue avec un article dans votre panier."
+
+msgid ""
+"There was an error with this payment method. Please verify it's configured "
+"correctly."
+msgstr ""
+"Une erreur est survenue avec ce moyen de paiement. Vérifiez qu’il est "
+"configuré correctement."
+
+msgid "There was an issue loading the report endpoints"
+msgstr ""
+"Une erreur est survenue lors du chargement des points de terminaison du "
+"rapport"
+
+msgid ""
+"There’s nothing quite like entrepreneurship! We put together a blog post "
+"series — titled From Idea to First Customer — with all the tips, resources, "
+"and tools to inspire a great idea, empower you to execute it, and lead to "
+"your very first sale."
+msgstr ""
+"Il n’y a rien de tel que l’entreprenariat ! Nous avons élaboré une série "
+"d’articles de blog (From Idea to First Customer) regroupant des informations "
+"complètes (conseils, ressources et outils) pour booster votre inspiration, "
+"vous pousser à passer à l’action et vous guider jusqu’à votre toute première "
+"vente."
+
+msgid ""
+"These are regions inside this zone. Customers will be matched against these "
+"regions."
+msgstr ""
+"Ce sont les régions à l’intérieur de cette zone. Les clients seront mis en "
+"correspondance avec ces régions."
+
+msgid "These are the attributes that will be pre-selected on the frontend."
+msgstr "Ce sont les attributs qui seront pré-sélectionnés sur la boutique."
+
+msgid ""
+"These costs can optionally be added based on the <a href=\"%s\">product "
+"shipping class</a>."
+msgstr ""
+"Ces coûts basés sur la <a href=\"%s\">classe d’expédition produit</a> "
+"peuvent être ajoutés (facultatif)."
+
+msgid "These details are required to receive payments via bank transfer"
+msgstr ""
+"Ces détails sont requis pour pouvoir recevoir des paiements par virement "
+"bancaire."
+
+msgid ""
+"These options let you change the appearance of the WooCommerce checkout."
+msgstr ""
+"Ces options vous permettent de modifier l’apparence de la page de validation "
+"de commande de WooCommerce."
+
+msgid ""
+"These pages need to be set so that WooCommerce knows where to send users to "
+"checkout."
+msgstr ""
+"Ces pages doivent être définies pour que WooCommerce sache où envoyer les "
+"utilisateurs pour commander."
+
+msgid ""
+"These rates are extra shipping options with additional costs (based on the "
+"flat rate)."
+msgstr ""
+"Ces taux sont des extras d’options d’expédition avec coûts additionnels "
+"(basés sur le forfait)."
+
+msgid "Thessaly"
+msgstr "Thessalie"
+
+msgid "They'll appear in the top level of the navigation for quick access"
+msgstr ""
+"Ils apparaîtront dans le niveau supérieur de la navigation pour un accès "
+"rapide"
+
+msgid "This %s cannot be deleted"
+msgstr "%s ne peut être supprimé"
+
+msgid ""
+"This action cannot be reversed. Are you sure you wish to erase personal data "
+"from the selected orders?"
+msgstr ""
+"Cette action est irréversible. Confirmez-vous que vous souhaitez supprimer "
+"vos données personnelles des commandes sélectionnées ?"
+
+msgid ""
+"This block displays products from selected tags. In order to preview this "
+"you'll first need to create a product and assign it some tags."
+msgstr ""
+"Ce bloc affiche les produits correspondants aux étiquettes sélectionnées. "
+"Pour en afficher un aperçu, vous devez au préalable créer un produit et "
+"l’affecter à des étiquettes."
+
+msgid ""
+"This block displays products from selected tags. Select at least one tag to "
+"display its products."
+msgstr ""
+"Ce bloc affiche les produits correspondants aux étiquettes sélectionnées. "
+"Sélectionner au moins une étiquette pour afficher ses produits."
+
+msgid ""
+"This block lists reviews for a selected product. %s doesn't have any reviews "
+"yet, but they will show up here when it does."
+msgstr ""
+"Ce bloc énumère les avis sur un produit sélectionné. %s ne possède pas "
+"encore d’avis mais ces derniers apparaîtront ici lorsqu’ils auront été "
+"ajoutés."
+
+msgid ""
+"This block lists reviews for products from selected categories. The selected "
+"categories do not have any reviews yet, but they will show up here when they "
+"do."
+msgstr ""
+"Ce bloc énumère les avis sur les produits à partir des catégories "
+"sélectionnées. Les catégories sélectionnées ne possèdent pas encore d’avis "
+"mais ces derniers apparaîtront ici lorsqu’ils auront été ajoutés."
+
+msgid ""
+"This block may not be compatible with <em>all</em> checkout extensions and "
+"integrations."
+msgstr ""
+"Ce bloc n’est peut-être pas compatible avec <em>toutes</em> les extensions "
+"ou intégrations de validation des commandes."
+
+msgid ""
+"This block shows a list of all product reviews. Your store does not have any "
+"reviews yet, but they will show up here when it does."
+msgstr ""
+"Ce bloc présente une liste de tous les avis sur le produit. Votre boutique "
+"ne possède pas encore d’avis, mais ces derniers apparaîtront ici lorsqu’ils "
+"auront été ajoutés."
+
+msgid ""
+"This block shows on-sale products. There are currently no discounted "
+"products in your store."
+msgstr ""
+"Ce bloc affiche les produits en vente. Il n’y a actuellement aucun produit à "
+"prix réduit dans votre boutique."
+
+msgid ""
+"This block shows product categories for your store. To use it, you'll first "
+"need to create a product and assign it to a category."
+msgstr ""
+"Ce bloc présente les catégories de produit pour votre boutique. Pour "
+"l’utiliser, vous devez au préalable créer un produit et l’assigner à une "
+"catégorie."
+
+msgid "This controls how stock quantities are displayed on the frontend."
+msgstr "Ceci détermine la manière dont le stock est affiché sur le site."
+
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Ceci détermine la description que les utilisateurs verront durant la "
+"commande."
+
+msgid "This controls the position of the currency symbol."
+msgstr "Cela détermine la position du symbole de devise."
+
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Cela détermine le titre que les utilisateurs verront durant la commande."
+
+msgid ""
+"This controls what currency prices are listed at in the catalog and which "
+"currency gateways will take payments in."
+msgstr ""
+"Ceci détermine quelle devise est listée dans le catalogue et quelle devise "
+"de passerelle sera utilisée pour le paiement."
+
+msgid "This controls what unit you will define lengths in."
+msgstr "Cela détermine dans quelle unité vous définirez les longueurs."
+
+msgid "This controls what unit you will define weights in."
+msgstr "Cela détermine dans quelle unité vous définirez les poids."
+
+msgid "This controls which shipping address is used by default."
+msgstr "Ceci détermine quelle adresse de livraison est utilisée par défaut."
+
+msgid "This coupon has expired."
+msgstr "Ce code promo est expiré."
+
+msgid "This data will be deleted in %s."
+msgstr "Cette date sera supprimée dans %s."
+
+msgid "This email address is already registered."
+msgstr "Cette adresse de messagerie est déjà enregistrée."
+
+msgid ""
+"This field allows you to set the maximum spend (subtotal) allowed when using "
+"the coupon."
+msgstr ""
+"Ce champ vous permet de définir le montant maximum (sous-total) autorisé "
+"lors de l’utilisation du code promo."
+
+msgid ""
+"This field allows you to set the minimum spend (subtotal) allowed to use the "
+"coupon."
+msgstr ""
+"Ce champ vous permet de définir le montant minimum (sous-total) autorisé à "
+"utiliser le code promo."
+
+msgid "This field is required"
+msgstr "Champ obligatoire"
+
+msgid "This function should not be called before plugins_loaded."
+msgstr "Cette fonction ne doit pas être appelée avant plugins_loaded."
+
+msgid "This function should not be called before woocommerce_init."
+msgstr "Cette fonction ne doit pas être appelée avant woocommerce_init."
+
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr ""
+"Ceci est une boutique de démonstration pour test &mdash; aucune commande ne "
+"sera honorée."
+
+msgid "This is a featured product"
+msgstr "C&rsquo;est un produit mis en avant"
+
+msgid ""
+"This is an order notification sent to customers containing order details "
+"after an order is placed on-hold."
+msgstr ""
+"Ceci est une notification de commande envoyée aux clients après qu&rsquo;une "
+"commande soit placée en attente et contenant les détails de la commande."
+
+msgid ""
+"This is an order notification sent to customers containing order details "
+"after payment."
+msgstr ""
+"Ceci est une notification de commande envoyée aux clients après le paiement "
+"et contenant les détails de la commande."
+
+msgid "This is not your download link."
+msgstr "Ceci n&rsquo;est pas votre lien de téléchargement."
+
+msgid ""
+"This is the URL or absolute path to the file which customers will get access "
+"to. URLs entered here should already be encoded."
+msgstr ""
+"L’URL ou le chemin absolu au fichier auquel les clients auront accès. Les "
+"URLs saisies ici doivent déjà être encodées."
+
+msgid ""
+"This is the WooCommerce shop page. The shop page is a special archive that "
+"lists your products. <a href=\"%s\">You can read more about this here</a>."
+msgstr ""
+"Il s’agit de la page boutique WooCommerce. La page boutique est une archive "
+"spéciale qui répertorie vos produits. <a href=\"%s\">Vous pouvez en savoir "
+"plus ici</a>."
+
+msgid ""
+"This is the attachment ID, or image URL, used for placeholder images in the "
+"product catalog. Products with no image will use this."
+msgstr ""
+"ID de pièce jointe ou URL d’image utilisé pour les paramètres fictifs des "
+"images dans le catalogue de produits. Les produits sans image l’utiliseront."
+
+msgid ""
+"This is the default category and it cannot be deleted. It will be "
+"automatically assigned to products with no category."
+msgstr ""
+"Il s’agit de la catégorie par défaut. Vous ne pouvez pas la supprimer. Elle "
+"sera automatiquement attribuée aux produits sans catégorie."
+
+msgid "This is the name of the download shown to the customer."
+msgstr "Le nom du téléchargement affiché au client."
+
+msgid "This is the name of the zone for your reference."
+msgstr "C’est le nom de la zone pour votre référence."
+
+msgid ""
+"This is the sum of the \"Tax rows\" shipping tax amount within your orders."
+msgstr ""
+"Ceci est la somme des montants taxe de livraison « Lignes de taxe » de vos "
+"commandes. "
+
+msgid "This is the sum of the \"Tax rows\" tax amount within your orders."
+msgstr ""
+"Ceci est la somme des montants des taxes « Lignes de taxe » de vos commandes."
+
+msgid "This is the sum of the 'Order total' field within your orders."
+msgstr ""
+"Ceci est la somme du champ &laquo;&nbsp;Total commande&nbsp;&raquo; de vos "
+"commandes."
+
+msgid "This is the sum of the 'Shipping total' field within your orders."
+msgstr "Ceci est la somme du champ « Total livraison » de vos commandes."
+
+msgid ""
+"This is the sum of the order totals after any refunds and excluding shipping "
+"and taxes."
+msgstr ""
+"Il s’agit de la somme des totaux de commande après remboursement et ne "
+"comprenant pas livraison et les taxes."
+
+msgid ""
+"This is the sum of the order totals after any refunds and including shipping "
+"and taxes."
+msgstr ""
+"Il s’agit de la somme des totaux de commande après remboursement et "
+"comprenant livraison et les taxes."
+
+msgid "This is the total tax for the rate (shipping tax + product tax)."
+msgstr "Taxe totale pour le taux (taxe livraison + taxe produit)."
+
+msgid "This is where store orders are stored."
+msgstr "C’est là où sont stockées les commandes de la boutique."
+
+msgid ""
+"This is where you can add new coupons that customers can use in your store."
+msgstr ""
+"Voici où vous pouvez ajouter de nouveaux codes promo que vos clients peuvent "
+"utiliser dans votre boutique."
+
+msgid "This is where you can add new products to your store."
+msgstr ""
+"Ceci est l&rsquo;endroit où vous pouvez ajouter de nouveaux produits dans "
+"votre boutique."
+
+msgid ""
+"This is where your business is located. Tax rates and shipping rates will "
+"use this address."
+msgstr ""
+"Indique où se trouve votre entreprise. Cette adresse sera utilisée pour les "
+"taux de taxe et les frais de port."
+
+msgid ""
+"This is your products main body of content. Here you should describe your "
+"product in detail."
+msgstr ""
+"C&rsquo;est l&rsquo;endroit principal où placer le contenu de vos produits. "
+"C&rsquo;est ici que vous décrivez votre produit en détail."
+
+msgid ""
+"This key is invalid or has already been used. Please reset your password "
+"again if needed."
+msgstr ""
+"Cette clé n’est pas valide ou a déjà été utilisée. Veuillez réinitialiser "
+"votre mot de passe si nécessaire."
+
+msgid "This lets you choose which products are part of this group."
+msgstr "Cela vous permet de choisir les produits qui font partie de ce groupe."
+
+msgid ""
+"This method is deprecated in 2.6.0 and will be removed in future versions - "
+"we recommend disabling it and instead setting up a new rate within your <a "
+"href=\"%s\">Shipping zones</a>."
+msgstr ""
+"Ce mode est déprécié dans la 2.6.0 et sera supprimé dans les versions "
+"futures, nous vous recommandons de le désactiver et à la place de définir un "
+"nouveau taux au sein de vos <a href=\"%s\">Zones de livraison</a>."
+
+msgid "This method should not be called before plugins_loaded."
+msgstr "Cette méthode ne doit pas être appelée avant plugins_loaded."
+
+msgid "This month"
+msgstr "Ce mois"
+
+msgid ""
+"This option determines a customers default location. The MaxMind GeoLite "
+"Database will be periodically downloaded to your wp-content directory if "
+"using geolocation."
+msgstr ""
+"Cette option détermine un emplacement par défaut des clients. La base de "
+"données GeoLite de MaxMind sera périodiquement téléchargée dans votre "
+"répertoire wp-content si vous utilisez la géolocalisation."
+
+msgid "This option determines which address is used to calculate tax."
+msgstr ""
+"Cette option détermine quelle adresse est utilisée pour le calcul de taxe."
+
+msgid ""
+"This option is important as it will affect how you input prices. Changing it "
+"will not update existing products."
+msgstr ""
+"Cette option est importante car elle affecte la façon dont vous saisissez "
+"les tarifs. La modifier ne mettra pas à jour des produits existant."
+
+msgid "This option lets you limit which countries you are willing to sell to."
+msgstr ""
+"Cette option vous permet de limiter les pays sur lesquels vous souhaitez "
+"vendre."
+
+msgid ""
+"This option will delete ALL of your tax rates, use with caution. This action "
+"cannot be reversed."
+msgstr ""
+"Cette option supprimera TOUS vos taux de taxe, à utiliser avec prudence. "
+"Cette action est irréversible."
+
+msgid ""
+"This order cannot be paid for. Please contact us if you need assistance."
+msgstr ""
+"Cette commande ne peut pas être payée. Veuillez nous contacter si vous avez "
+"besoin d&rsquo;assistance."
+
+msgid "This order is no longer editable."
+msgstr "Cette commande n&rsquo;est plus modifiable."
+
+msgid "This order note cannot be deleted"
+msgstr "Cette commande ne peut être supprimée"
+
+msgid ""
+"This order&rsquo;s status is &ldquo;%s&rdquo;&mdash;it cannot be paid for. "
+"Please contact us if you need assistance."
+msgstr ""
+"L&rsquo;état de cette commande est &ldquo;%s&rdquo;&mdash; et ne peut être "
+"finalisée. Veuillez nous contacter si vous avez besoin d&rsquo;assistance."
+
+msgid ""
+"This password reset key is for a different user account. Please log out and "
+"try again."
+msgstr ""
+"Cette clé de réinitialisation de mot de passe est pour un utilisateur "
+"différent. Veuillez vous déconnecter et essayer à nouveau."
+
+msgid "This payment gateway is not available."
+msgstr "Cette passerelle de paiement n’est pas disponible."
+
+msgid "This payment method was successfully set as your default."
+msgstr "Ce moyen de paiement a bien été défini comme moyen par défaut."
+
+msgid "This product cannot be added to the cart."
+msgstr "Impossible d’ajouter ce produit au panier."
+
+msgid ""
+"This product does not support the block based add to cart form. A link to "
+"the product page will be shown instead."
+msgstr ""
+"Ce produit ne prend pas en charge le formulaire Ajouter au panier basé sur "
+"un bloc. Un lien vers la page produit s’affichera à la place."
+
+msgid ""
+"This product has produced sales and may be linked to existing orders. Are "
+"you sure you want to delete it?"
+msgstr ""
+"Ce produit a engendré des ventes et est peut être lié à des ventes "
+"existantes. Êtes-vous sûr de vouloir le supprimer ?"
+
+msgid "This product is awesome, I love it!"
+msgstr "Ce produit est génial, je l’adore !"
+
+msgid "This product is currently out of stock and cannot be purchased."
+msgstr "Ce produit est actuellement en rupture de stock, aucun achat possible."
+
+msgid "This product is currently out of stock and unavailable."
+msgstr "Ce produit est actuellement en rupture et indisponible."
+
+msgid "This product is protected and cannot be purchased."
+msgstr "Ce produit est protégé par mot de passe et ne pas être acheté."
+
+msgid ""
+"This product type requires a paid extension.\n"
+"We'll add this to a cart so that\n"
+"you can purchase and install it later."
+msgstr ""
+"Ce type de produit requiert une extension payante.\n"
+"Nous l’ajouterons au panier pour que\n"
+"vous puissiez l’acheter et l’installer ultérieurement."
+
+msgid ""
+"This report link has expired. %1$sClick here to view the filtered report%2$s."
+msgstr "Ce lien a expiré. %1$sCliquer ici pour voir le rapport filtré%2$s."
+
+msgid "This resource cannot be created."
+msgstr "Cette ressource ne peut pas être créée."
+
+msgid ""
+"This sample language includes the basics around what personal data your "
+"store may be collecting, storing and sharing, as well as who may have access "
+"to that data. Depending on what settings are enabled and which additional "
+"plugins are used, the specific information shared by your store will vary. "
+"We recommend consulting with a lawyer when deciding what information to "
+"disclose on your privacy policy."
+msgstr ""
+"Ce language accessible inclut les bases sur les données personnelles que "
+"votre boutique peut collecter, stocker et partager, et en plus qui peut "
+"avoir accès aux données. En fonction de vos réglages et quels extensions "
+"vous utilisez, les informations partagées peuvent varier. Nous recommandons "
+"de consulter un avocat au moment de décider quels information divulguer dans "
+"votre politique de confidentialité."
+
+msgid ""
+"This section controls the display of your website privacy policy. The "
+"privacy notices below will not show up unless a %s is set."
+msgstr ""
+"Cette section contrôle l’affichage de la politique de confidentialité de "
+"votre site Web. Les notifications de confidentialité ci-après ne "
+"s’afficheront pas à moins qu’une %s soit définie."
+
+msgid ""
+"This section lets you customize the WooCommerce emails. <a href=\"%s\" "
+"target=\"_blank\">Click here to preview your email template</a>."
+msgstr ""
+"Cette section vous permet de personnaliser les e-mails WooCommerce. <a "
+"href=\"%s\" target=\"_blank\">Cliquez ici pour prévisualiser votre modèle "
+"d&rsquo;e-mail</a>."
+
+msgid ""
+"This section shows any files that are overriding the default WooCommerce "
+"template pages."
+msgstr ""
+"Cette section affiche tous les fichiers qui remplacent les modèles de pages "
+"WooCommerce par défaut."
+
+msgid "This section shows information about this status report."
+msgstr "Cette section contient des informations sur ce rapport d’état."
+
+msgid "This section shows scheduled action counts."
+msgstr "Cette section montre le nombre d’actions planifiées."
+
+msgid ""
+"This sets the base page of your shop - this is where your product archive "
+"will be."
+msgstr ""
+"Ceci détermine la page de départ de votre boutique - c&rsquo;est l&rsquo;"
+"emplacement où votre archive de produits sera."
+
+msgid "This sets the decimal separator of displayed prices."
+msgstr "Cela détermine le séparateur de décimales pour les tarifs affichés."
+
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr "Cela détermine le nombre de décimales pour les tarifs affichés."
+
+msgid "This sets the thousand separator of displayed prices."
+msgstr "Cela détermine le séparateur de milliers pour les tarifs affichés."
+
+msgid "This setting determines which shop pages products will be listed on."
+msgstr ""
+"Ce réglage détermine les pages sur lesquelles sont listés les produits."
+
+msgid "This setting does not apply to guest purchases."
+msgstr "Ce réglage ne s&rsquo;applique pas aux achats d&rsquo;invité."
+
+msgid "This shipping method does not have any settings to configure."
+msgstr "Ce mode d’expédition n’a aucun réglage à configurer."
+
+msgid ""
+"This site is experiencing difficulties with this payment method. Please "
+"contact the owner of the site for assistance."
+msgstr ""
+"Ce site rencontre des difficultés avec ce moyen de paiement. Contactez le "
+"propriétaire du site pour obtenir de l’aide."
+
+msgid ""
+"This subscription has expired. Contact the owner to <strong>renew</strong> "
+"the subscription to receive updates and support."
+msgstr ""
+"Cet abonnement a expiré. Veuillez le <strong>renouveler</strong> pour "
+"recevoir les mises à jour et le support."
+
+msgid ""
+"This subscription has expired. Please <strong>renew</strong> to receive "
+"updates and support."
+msgstr ""
+"Cet abonnement a expiré. Veuillez <strong>renouveler</strong> pour recevoir "
+"des mises à jour et un support."
+
+msgid ""
+"This subscription is expiring soon. Please <strong>renew</strong> to "
+"continue receiving updates and support."
+msgstr ""
+"Cet abonnement expire bientôt. Veuillez le <strong>renouveler</strong> pour "
+"continuer à recevoir les mises à jour et le support."
+
+msgid ""
+"This template has been overridden by your theme and can be found in: %s."
+msgstr ""
+"Ce modèle a été outrepassé par votre thème et peut être trouvé dans&nbsp;: "
+"%s."
+
+msgid "This text will be shown on the button linking to the external product."
+msgstr "Ce texte sera visible dans le bouton de lien vers le produit externe."
+
+msgid "This theme does not support WooCommerce."
+msgstr "Ce thème ne prend pas en charge WooCommerce."
+
+msgid ""
+"This tool allows you to generate and download a CSV file containing a list "
+"of all products."
+msgstr ""
+"Cet outil vous permet de générer et télécharger un fichier CSV contenant une "
+"liste de tous les produits."
+
+msgid ""
+"This tool allows you to import (or merge) product data to your store from a "
+"CSV or TXT file."
+msgstr ""
+"Cet outil vous permet d’importer (ou de fusionner) des données de produit "
+"dans votre boutique à partir d’un fichier CSV ou TXT."
+
+msgid ""
+"This tool populates historical analytics data by processing customers and "
+"orders created prior to activating WooCommerce Admin."
+msgstr ""
+"Cet outil renseigne les données de statistiques historiques en traitant les "
+"clients et les commandes créés avant l’activation de WooCommerce Admin."
+
+msgid "This tool will clear ALL expired transients from WordPress."
+msgstr "Cet outil va nettoyer TOUS les transients expirés de WordPress."
+
+msgid "This tool will clear the product/shop transients cache."
+msgstr "Cet outil effacera le cache des fichiers temporaires produit/boutique."
+
+msgid ""
+"This tool will delete all customer session data from the database, including "
+"current carts and saved carts in the database."
+msgstr ""
+"Cet outil supprimera toutes les données de session client de la base de "
+"données, y compris les paniers en cours et les paniers enregistrés dans la "
+"base de données."
+
+msgid "This tool will delete all variations which have no parent."
+msgstr "Cet outil va supprimer toutes les variations sans parent."
+
+msgid ""
+"This tool will delete expired download permissions and permissions with 0 "
+"remaining downloads."
+msgstr ""
+"Cet outil va supprimer les droits de téléchargements expirés et les droits "
+"avec aucun téléchargement restant."
+
+msgid "This tool will empty the template cache."
+msgstr "Cet outil videra le cache de modèles."
+
+msgid ""
+"This tool will install all the missing WooCommerce pages. Pages already "
+"defined and set up will not be replaced."
+msgstr ""
+"Cet outil installera toutes les pages WooCommerce manquantes. Les pages déjà "
+"définies et paramétrées ne seront pas remplacées."
+
+msgid ""
+"This tool will recount product terms - useful when changing your settings in "
+"a way which hides products from the catalog."
+msgstr ""
+"Cet outil recomptera les termes de produit - utile lorsque vous modifiez vos "
+"réglages de manière à masquer les produits du catalogue."
+
+msgid ""
+"This tool will regenerate product lookup table data. This process may take a "
+"while."
+msgstr ""
+"Cet outil va regénérer les données de table de consultation de produit. Ce "
+"traitement peut durer quelques temps."
+
+msgid ""
+"This tool will reset the admin, customer and shop_manager roles to default. "
+"Use this if your users cannot access all of the WooCommerce admin pages."
+msgstr ""
+"Cet outil réinitialise les rôles administrateur, client et gestionnaire de "
+"boutique aux valeurs par défaut. À utiliser si vos utilisateurs ne peuvent "
+"plus accéder aux pages d’administration de WooCommerce."
+
+msgid ""
+"This tool will reset the cached values used in WooCommerce Analytics. If "
+"numbers still look off, try %1$sReimporting Historical Data%2$s."
+msgstr ""
+"Cet outil réinitialisera les valeurs mises en cache utilisées dans "
+"WooCommerce Analytics. Si les chiffres semblent toujours manquants, essayez "
+"de %1$sRéimporter les données historiques%2$s."
+
+msgid ""
+"This tool will update your WooCommerce database to the latest version. "
+"Please ensure you make sufficient backups before proceeding."
+msgstr ""
+"Cet outil mettra à jour votre base de données WooCommerce à la dernière "
+"version. Veuillez vous assurer d’avoir une sauvegarde avant de commencer."
+
+msgid ""
+"This video tutorial will help you go through the process of adding your "
+"first product in WooCommerce."
+msgstr ""
+"Ce didacticiel vidéo vous aidera à ajouter votre premier produit dans "
+"WooCommerce."
+
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+"Indique comment votre nom apparaîtra dans la section relative au compte et "
+"dans les avis"
+
+msgid "This will change the stock status of all variations."
+msgstr "Cela changera l’état du stock de toutes les variations."
+
+msgid "This will give \"%1$s\" %2$s access which will allow it to:"
+msgstr "Cela vous donnera un accès « %1$s » %2$s qui permettra de :"
+
+msgid ""
+"This will regenerate all shop thumbnails to match your theme and/or image "
+"settings."
+msgstr ""
+"Toutes les miniatures de la boutique seront régénérées pour s’adapter à "
+"votre thème et/ou aux paramètres des images."
+
+msgid ""
+"This zone is <b>optionally</b> used for regions that are not included in any "
+"other shipping zone."
+msgstr ""
+"Cette zone est <b>éventuellement</b> utilisée pour les régions qui ne sont "
+"incluses dans aucune autre zone de livraison."
+
+msgid "Thousand separator"
+msgstr "Séparateur milliers"
+
+msgid ""
+"Thousand separator for the currency which can be used to format returned "
+"prices."
+msgstr ""
+"Séparateur de milliers de la devise qui peut être utilisé pour formater les "
+"prix retournés."
+
+msgid "Thousand separator."
+msgstr "Séparateur de milliers."
+
+msgid "Thousands separator for displayed prices in this country."
+msgstr "Séparateur des milliers pour l’affichage des prix dans ce pays."
+
+msgid "Thumbnail"
+msgstr "Miniature"
+
+msgid "Thumbnail URL."
+msgstr "URL de la miniature."
+
+msgid "Thumbnail cropping"
+msgstr "Recadrage de miniature"
+
+msgid "Thumbnail regeneration has been scheduled to run in the background."
+msgstr ""
+"La régénération des miniatures a été programmée pour s’exécuter en arrière-"
+"plan."
+
+msgid ""
+"Thumbnail regeneration is running in the background. Depending on the amount "
+"of images in your store this may take a while."
+msgstr ""
+"La régénération des miniatures est exécutée en arrière-plan. En fonction de "
+"la quantité d’images que contient votre boutique, cette action peut prendre "
+"du temps."
+
+msgid "Thumbnail sizes for responsive images."
+msgstr "Tailles des miniatures pour les images responsive."
+
+msgid "Thumbnail srcset for responsive images."
+msgstr "Srcset des miniatures pour les images responsive."
+
+msgid "Thumbnail width"
+msgstr "Largeur de miniature"
+
+msgid "Thurgau"
+msgstr "Thurgovie"
+
+msgid "Tianjin / 天津"
+msgstr "Tianjin / 天津"
+
+msgid "Tiaret"
+msgstr "Tiaret"
+
+msgid "Tibet / 西藏"
+msgstr "Tibet / 西藏"
+
+msgid "Ticino"
+msgstr "Tessin"
+
+msgid "Tierra del Fuego"
+msgstr "Terre de Feu"
+
+msgid "Time interval to use for buckets in the returned data."
+msgstr ""
+"Intervalle de temps à appliquer aux compartiments dans les données "
+"retournées."
+
+msgid "Timestamp"
+msgstr "Horodatage"
+
+msgid "Timiș"
+msgstr "Timiș"
+
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+msgid "Tindouf"
+msgstr "Tindouf"
+
+msgid "Tipasa"
+msgstr "Tipasa"
+
+msgid "Tipperary"
+msgstr "Tipperary"
+
+msgid "Tissemsilt"
+msgstr "Tissemsilt"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Title - alphabetical"
+msgstr "Titre - alphabétique"
+
+msgid "Title of the note."
+msgstr "Titre de la note."
+
+msgid "Tizi Ouzou"
+msgstr "Tizi Ouzou"
+
+msgid "Tlaxcala"
+msgstr "Tlaxcala"
+
+msgid "Tlemcen"
+msgstr "Tlemcen"
+
+msgid "To allow logging, make %1$s writable or define a custom %2$s."
+msgstr ""
+"Pour permettre l&rsquo;enregistrement de journaux, rendez %1$s accessible en "
+"écriture ou définissez un %2$s personnalisé."
+
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"<a href=\"%2$s\">cancel and return to %1$s</a>"
+msgstr ""
+"Pour se connecter à %1$s vous devez être connecté. Connectez-vous à votre "
+"boutique ci-dessous ou <a href=\"%2$s\">annulez et retournez à %1$s</a>"
+
+msgid "To do's, tips, and insights for your business"
+msgstr "Choses à faire, conseils et tendances pour votre activité"
+
+msgid "To edit this order change the status back to \"Pending\""
+msgstr "Pour modifier cette commande, revenez à l’état « En attente »"
+
+msgid ""
+"To enable this update you need to <strong>activate</strong> this "
+"subscription."
+msgstr ""
+"Pour permettre cette mise à jour, vous devez <strong>activer</strong> cet "
+"abonnement."
+
+msgid ""
+"To enable this update you need to <strong>purchase</strong> a new "
+"subscription."
+msgstr ""
+"Pour activer cette mise à jour vous devez <strong>acheter</strong> un nouvel "
+"abonnement."
+
+msgid ""
+"To get you started, here are seven ways to boost your sales and avoid "
+"getting drowned out by similar, mass-produced products competing for the "
+"same buyers."
+msgstr ""
+"Pour vous lancer, voici sept façons de dynamiser vos ventes et d’éviter "
+"d’être noyé par des produits similaires fabriqués en série et en concurrence "
+"pour les mêmes acheteurs."
+
+msgid ""
+"To make sure you never get that sinking \"what did I forget\" feeling, we've "
+"put together the essential pre-launch checklist."
+msgstr ""
+"Pour ne jamais ressentir cette sensation d’avoir oublié quelque chose, nous "
+"avons conçu une liste de contrôle reprenant les points essentiels avant "
+"lancement."
+
+msgid ""
+"To manipulate product variations you should use the /products/&lt;"
+"product_id&gt;/variations/&lt;id&gt; endpoint."
+msgstr ""
+"Pour manipuler les variations de produit, vous devez utiliser le point de "
+"terminaison /produits/&lt;product_id&gt;/variations/&lt;id&gt;."
+
+msgid ""
+"To opt out, leave this box unticked. Your store remains untracked, and no "
+"data will be collected. Read about what usage data is tracked at: %s."
+msgstr ""
+"Ne cochez pas cette case si vous ne souhaitez pas y adhérer. Votre boutique "
+"ne sera pas suivie et aucune donnée ne sera collectée. Découvrez à quoi sert "
+"le suivi des données ici : %s."
+
+msgid ""
+"To override and edit this email template copy %1$s to your theme folder: "
+"%2$s."
+msgstr ""
+"Pour écraser et modifier ce modèle d’e-mail, copiez %1$s dans le dossier de "
+"votre thème : %2$s."
+
+msgid ""
+"To receive updates and support for this extension, you need to <strong>"
+"purchase</strong> a new subscription or consolidate your extensions to one "
+"connected account by <strong><a href=\"%1$s\" title=\"Sharing Docs\">"
+"sharing</a> or <a href=\"%2$s\" title=\"Transferring Docs\">transferring</a>"
+"</strong> this extension to this connected account."
+msgstr ""
+"Pour recevoir les mises à jour et le support pour cette extension, vous "
+"devez <strong>acheter</strong> un nouvel abonnement ou consolider vos "
+"extensions sur un même compte en <strong><a href=\"%s\" "
+"title=\"Documentation sur le partage\">partageant</a> ou <a href=\"%s\" "
+"title=\"Documentation sur le transfert\">transferrant</a></strong> cette "
+"extension vers ce compte connecté."
+
+msgid "To set your password, visit the following address: "
+msgstr "Pour initialiser votre mot de passe, visitez l’adresse suivante :"
+
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"Pour suivre votre commande veuillez saisir votre ID de commande dans la "
+"boite ci-dessous et cliquer le bouton « Suivre ». Il vous a été donné sur "
+"votre reçu et dans l’e-mail de confirmation que vous avez du recevoir."
+
+msgid "Tocantins"
+msgstr "Tocantins"
+
+msgid "Tochigi"
+msgstr "Tochigi"
+
+msgid "Today"
+msgstr "Aujourd’hui"
+
+msgid "Toggle &quot;Downloadable&quot;"
+msgstr "Basculer &quot;Téléchargeable&quot;"
+
+msgid "Toggle &quot;Enabled&quot;"
+msgstr "Basculer &quot;Activé&quot;"
+
+msgid "Toggle &quot;Manage stock&quot;"
+msgstr "Basculer &quot;Gestion de stock&quot;"
+
+msgid "Toggle &quot;Virtual&quot;"
+msgstr "Basculer &quot;Virtuel&quot;"
+
+msgid "Toggle featured"
+msgstr "Basculer en mise en avant"
+
+msgid "Toggle fullscreen"
+msgstr "Basculer en plein écran"
+
+msgid "Toggle panel:"
+msgstr "Ouvrir/fermer le bloc :"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tokat"
+msgstr "Tokat"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Token"
+msgstr "Jeton"
+
+msgid "Tokushima"
+msgstr "Tokushima"
+
+msgid "Tokyo"
+msgstr "Tokyo"
+
+msgid "Toledo"
+msgstr "Toledo"
+
+msgid "Tolna"
+msgstr "Tolna"
+
+msgid "Tomorrow"
+msgstr "Demain"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tongan pa&#x2bb;anga"
+msgstr "Pa&#x2bb;anga tongien"
+
+msgid "Tool description."
+msgstr "Description de l’outil."
+
+msgid "Tool does not exist."
+msgstr "L&rsquo;outil n&rsquo;existe pas."
+
+msgid "Tool name."
+msgstr "Nom de l’outil."
+
+msgid "Tool ran."
+msgstr "Outil exécuté."
+
+msgid "Tool return message."
+msgstr "Message de retour de l&rsquo;outil."
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Top Categories - Items Sold"
+msgstr "Meilleures catégories - Articles vendus"
+
+msgid "Top Coupons - Number of Orders"
+msgstr "Meilleurs codes promo - Nombre de commandes"
+
+msgid "Top Customers - Total Spend"
+msgstr "Meilleurs clients - Dépense totale"
+
+msgid "Top Products - Items Sold"
+msgstr "Meilleurs produits - Articles vendus"
+
+msgid "Top Rated Products"
+msgstr "Produits les mieux notés"
+
+msgid "Top earners"
+msgstr "Meilleurs revenus"
+
+msgid "Top freebies"
+msgstr "Meilleurs produits gratuits"
+
+msgid "Top rated products"
+msgstr "Produits les mieux notés"
+
+msgid "Top sellers"
+msgstr "Meilleures ventes"
+
+msgid "Topic"
+msgstr "Sujet"
+
+msgid "Torino"
+msgstr "Torino"
+
+msgid "Tororo"
+msgstr "Tororo"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total %d"
+msgstr "%d au total"
+
+msgid "Total Database Size"
+msgstr "Taille totale de la base de données"
+
+msgid "Total Net Sales of all items sold."
+msgstr "Ventes nettes totales des articles vendus."
+
+msgid "Total Sales"
+msgstr "Total des ventes"
+
+msgid "Total Sales."
+msgstr "Total des ventes."
+
+msgid "Total Spend"
+msgstr "Dépense totale"
+
+msgid "Total Tax"
+msgstr "Taxe totale"
+
+msgid "Total amount for this fee."
+msgstr "Montant total de ces frais."
+
+msgid "Total amount spent."
+msgstr "Montant total dépensé."
+
+msgid "Total amounts provided using the smallest unit of the currency."
+msgstr ""
+"Montants totaux fournis en utilisant la plus petite unité de la devise."
+
+msgid "Total available to refund"
+msgstr "Total disponible pour le remboursement"
+
+msgid "Total charged for shipping."
+msgstr "Total facturé pour la livraison."
+
+msgid "Total charged for taxes."
+msgstr "Total facturé pour les taxes."
+
+msgid "Total discount amount for the order."
+msgstr "Montant total de remise pour la commande."
+
+msgid "Total discount applied by this coupon."
+msgstr "Remise totale appliquée par ce code promo."
+
+msgid "Total discount from applied coupons."
+msgstr "Remise totale des codes promo appliqués."
+
+msgid "Total discount tax amount for the order."
+msgstr "Montant total de remise de taxe pour la commande."
+
+msgid "Total distinct customers."
+msgstr "Nombre total de comptes distincts."
+
+msgid "Total number of purchases."
+msgstr "Nombre total d&rsquo;achats."
+
+msgid "Total of coupons used."
+msgstr "Total de coupons utilisés."
+
+msgid "Total of items purchased."
+msgstr "Total des articles achetés."
+
+msgid "Total of orders placed."
+msgstr "Total des commandes passées."
+
+msgid "Total of refunded orders."
+msgstr "Total des commandes remboursées."
+
+msgid "Total of returns."
+msgstr "Total des retours."
+
+msgid "Total of shipping."
+msgstr "Total des expéditions."
+
+msgid "Total of taxes."
+msgstr "Taxes totales."
+
+msgid "Total post count."
+msgstr "Nombre total des articles."
+
+msgid "Total price of any applied fees."
+msgstr "Prix total des frais appliqués."
+
+msgid "Total price of items in the cart."
+msgstr "Prix total des articles dans le panier."
+
+msgid ""
+"Total price of shipping. If shipping has not been calculated, a null "
+"response will be sent."
+msgstr ""
+"Prix total de la livraison. Si les frais d’expédition n’ont pas été calculés,"
+" renvoie une valeur nulle."
+
+msgid "Total price the customer will pay."
+msgstr "Prix total payé par la personne."
+
+msgid "Total sales"
+msgstr "Total des ventes"
+
+msgid "Total sales minus shipping and tax."
+msgstr "Total des ventes diminué de la livraison et des taxes."
+
+msgid "Total shipping"
+msgstr "Total livraison"
+
+msgid "Total shipping amount for the order."
+msgstr "Montant total de livraison pour la commande."
+
+msgid "Total shipping tax amount for the order."
+msgstr "Montant total de taxe de livraison pour la commande."
+
+msgid "Total spend."
+msgstr "Dépense totale."
+
+msgid "Total tax"
+msgstr "Taxes totale"
+
+msgid "Total tax amount for this fee."
+msgstr "Montant total des taxes de ces frais."
+
+msgid "Total tax applied to items and shipping."
+msgstr "Taxe totale appliquée aux articles et à la livraison."
+
+msgid "Total tax on fees."
+msgstr "Taxe totale sur les frais."
+
+msgid "Total tax on items in the cart."
+msgstr "Taxe totale sur les articles dans le panier."
+
+msgid ""
+"Total tax on shipping. If shipping has not been calculated, a null response "
+"will be sent."
+msgstr ""
+"Taxe totale sur la livraison. Si les frais d’expédition n’ont pas été "
+"calculés, renvoie une valeur nulle."
+
+msgid "Total tax removed due to discount applied by this coupon."
+msgstr ""
+"Taxe totale supprimée en raison de la remise appliquée par ce code promo."
+
+msgid "Total tax removed due to discount from applied coupons."
+msgstr "Taxe totale supprimée en raison de remise des codes promo appliqués."
+
+msgid "Total tax."
+msgstr "Taxe totale."
+
+msgid "Total weight (in grams) of all products in the cart."
+msgstr "Poids total (en grammes) de tous les produits dans le panier."
+
+msgid "Total:"
+msgstr "Total :"
+
+msgid "Totals"
+msgstr "Totaux"
+
+msgid "Totals data."
+msgstr "Ensemble des données."
+
+msgid "Totals."
+msgstr "Totaux."
+
+msgid "Totonicapán"
+msgstr "Totonicapán"
+
+msgid "Tottori"
+msgstr "Tottori"
+
+msgid "Town / City"
+msgstr "Ville"
+
+msgid "Town / City / Post Office"
+msgstr "Ville / Bureau de poste"
+
+msgid "Town / District"
+msgstr "Ville / Quartier"
+
+msgid "Town / Village"
+msgstr "Ville"
+
+msgid "Toyama"
+msgstr "Toyama"
+
+msgid "Trabzon"
+msgstr "Trabzon"
+
+msgid "Track"
+msgstr "Suivre"
+
+msgid "Track your store performance on mobile"
+msgstr "Suivre les performances de votre boutique sur mobile"
+
+msgid "Trang"
+msgstr "Trang"
+
+msgid "Trans Nzoia"
+msgstr "Trans Nzoia"
+
+msgid "Transaction ID"
+msgstr "ID de transaction"
+
+msgid "Transfer existing products to your new store — just import a CSV file."
+msgstr ""
+"Transférez les produits existants vers votre nouvelle boutique. Il vous "
+"suffit d&rsquo;importer un fichier CSV."
+
+msgid "Transnistrian ruble"
+msgstr "Rouble transnistrien"
+
+msgid "Trapani"
+msgstr "Trapani"
+
+msgid "Trash"
+msgstr "Corbeille"
+
+msgid "Trashed"
+msgstr "Dans la poubelle"
+
+msgid "Trat"
+msgstr "Trat"
+
+msgid "Trelawny"
+msgstr "Trelawny"
+
+msgid "Trento"
+msgstr "Trento"
+
+msgid "Treviso"
+msgstr "Tr&eacute;vise"
+
+msgid "Trieste"
+msgstr "Trieste"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinité-et-Tobago"
+
+msgid "Trinidad and Tobago dollar"
+msgstr "Dollar de Trinité et Tobago"
+
+msgid "Tripura"
+msgstr "Tripura"
+
+msgid "True if backorders are allowed past stock availability."
+msgstr ""
+"Vrai si les nouvelles commandes sont autorisées après la disponibilité des "
+"stocks."
+
+msgid ""
+"True if the cart meets the criteria for showing shipping costs, and rates "
+"have been calculated and included in the totals."
+msgstr ""
+"Vrai si le panier répond aux critères d’affichage des coûts d’expédition et "
+"si les frais ont été calculés et ajoutés au total."
+
+msgid ""
+"True if the cart needs payment. False for carts with only free products and "
+"no shipping costs."
+msgstr ""
+"Vrai si le panier nécessite un paiement. Faux pour les paniers avec "
+"uniquement des produits gratuits et sans frais de port."
+
+msgid ""
+"True if the cart needs shipping. False for carts with only digital goods or "
+"stores with no shipping methods set-up."
+msgstr ""
+"Vrai si le panier doit être expédié. Faux pour les paniers ne contenant que "
+"des articles numériques ou les boutiques ne proposant pas de mode "
+"d’expédition."
+
+msgid "True if the product is on backorder."
+msgstr "Vrai si le produit est en réapprovisionnement."
+
+msgid "True if this attribute is used by product variations."
+msgstr "Vrai si cet attribut est utilisé par les variantes de produit."
+
+msgid ""
+"True if this is the rate currently selected by the customer for the cart."
+msgstr ""
+"Vrai s’il s’agit des frais actuellement sélectionnés par la personne pour le "
+"panier."
+
+msgid "True the prices included tax during checkout."
+msgstr "Affiche les tarifs TTC lors de la commande."
+
+msgid "Try the new way to get paid"
+msgstr "Découvrez la nouvelle façon de se faire payer"
+
+msgid "Tucumán"
+msgstr "Tucumán"
+
+msgid "Tulcea"
+msgstr "Tulcea"
+
+msgid "Tumbes"
+msgstr "Tumbes"
+
+msgid "Tunceli"
+msgstr "Tunceli"
+
+msgid "Tunisia"
+msgstr "Tunisie"
+
+msgid "Tunisian dinar"
+msgstr "Dinar tunisien"
+
+msgid "Turkana"
+msgstr "Turkana"
+
+msgid "Turkey"
+msgstr "Turquie"
+
+msgid "Turkish lira"
+msgstr "Lire turque"
+
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+msgid "Turkmenistan manat"
+msgstr "Manat turkmène"
+
+msgid "Turks and Caicos Islands"
+msgstr "Îles Turques et Caïques"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Two columns"
+msgstr "Deux colonnes"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Type of attribute."
+msgstr "Type d&rsquo;attribut."
+
+msgid "Type of interval."
+msgstr "Type d’intervalle."
+
+msgid "Type of note."
+msgstr "Type de note."
+
+msgid "Type of setting."
+msgstr "Type de réglage."
+
+msgid "Type to search for a category"
+msgstr "Saisir une catégorie à rechercher"
+
+msgid "Type to search for a coupon"
+msgstr "Saisir un code promo à rechercher"
+
+msgid "Type to search for a customer"
+msgstr "Saisir un client à rechercher"
+
+msgid "Type to search for a product"
+msgstr "Saisir un produit à rechercher"
+
+msgid "Type to search for a variation"
+msgstr "Saisir une variante à rechercher"
+
+msgid "Types of products sold."
+msgstr "Types de produits vendus."
+
+msgid "Tébessa"
+msgstr "Tébessa"
+
+msgid "URL query to persist across links."
+msgstr "Requête URL persistante à travers les liens."
+
+msgid ""
+"URL to an image you want to show in the email header. Upload images using "
+"the media uploader (Admin > Media)."
+msgstr ""
+"URL d&rsquo;une image que vous souhaitez afficher dans l&rsquo;entête de "
+"l&rsquo;e-mail. Mettez en ligne les images depuis l&rsquo;outil de mise en "
+"ligne des médias (Administration > Médias)."
+
+msgid "URL to edit the order"
+msgstr "URL de modification de la commande"
+
+msgid "URL where the webhook payload is delivered."
+msgstr "URL sur laquelle la connexion du crochet Web est délivrée."
+
+msgid "US domestic zone = All US states = Flat rate shipping"
+msgstr ""
+"Zone nationale France = Tous les départements de France = Expédition "
+"forfaitaire"
+
+msgctxt "US state of Georgia"
+msgid "Georgia"
+msgstr "Géorgie"
+
+msgid "UTA Găgăuzia"
+msgstr "UTA Găgăuzia"
+
+msgid "UTC DateTime when the coupon expires."
+msgstr "DateTime UTC de l&rsquo;expiration du code promo."
+
+msgid "Uasin Gishu"
+msgstr "Uasin Gishu"
+
+msgid "Ubon Ratchathani"
+msgstr "Ubon Ratchathani"
+
+msgid "Ucayali"
+msgstr "Ucayali"
+
+msgid "Udine"
+msgstr "Udine"
+
+msgid "Udon Thani"
+msgstr "Udon Thani"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ugandan shilling"
+msgstr "Shilling ougandais"
+
+msgid ""
+"Uh oh... There was a problem during the Jetpack and WooCommerce Shipping & "
+"Tax install. Please try again."
+msgstr ""
+"Il y a eu un problème lors de l’installation de Jetpack et de WooCommerce "
+"Shipping et Tax. Veuillez essayer à nouveau."
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Ukrainian hryvnia"
+msgstr "Hryvnia ukrainienne"
+
+msgid "Unable to %s the plugin. Refresh the page and try again."
+msgstr "Impossible de %s l’extension. Actualisez la page et essayez à nouveau."
+
+msgid "Unable to accept more than %s items for this request."
+msgstr "Impossible d&rsquo;accepter plus de %s articles pour cette requête."
+
+msgid "Unable to add payment method to your account."
+msgstr "Impossible d’ajouter le moyen de paiement au compte."
+
+msgid "Unable to claim actions. Database error."
+msgstr "Impossible de demander des actions. Erreur de la base de données."
+
+msgid "Unable to create order"
+msgstr "Impossible de créer la commande"
+
+msgid "Unable to create order."
+msgstr "Impossible de créer la commande."
+
+msgid "Unable to detect the Action Scheduler package."
+msgstr "Impossible de détecter le package du planificateur d’actions."
+
+msgid "Unable to detect the Blocks package."
+msgstr "Impossible de détecter le package Blocks."
+
+msgid "Unable to detect the REST API package."
+msgstr "Impossible de détecter le package REST API."
+
+msgid "Unable to detect the WC Admin package."
+msgstr "Impossible de détecter le package WC Admin."
+
+msgid "Unable to get cart data from the API."
+msgstr "Impossible d’obtenir les données du panier de la part de l’API."
+
+msgid "Unable to insert download log entry in database."
+msgstr ""
+"Impossible d’insérer l’entrée de journal de téléchargement dans la base de "
+"données."
+
+msgid "Unable to mark failure on action %s. Database error."
+msgstr ""
+"Impossible de marquer l’échec de l’action %s. Erreur de la base de données."
+
+msgid ""
+"Unable to process this payment, please try again or use alternative method."
+msgstr ""
+"Impossible de traiter ce paiement, réessayez ou utilisez un autre moyen."
+
+msgid "Unable to reduce stock for item %s."
+msgstr "Impossible de réduire le stock de l’élément %s."
+
+msgid "Unable to remove source migrated action %s"
+msgstr "Impossible de supprimer la migration de l’action source %s"
+
+msgid "Unable to restore stock for item %s."
+msgstr "Impossible de restaurer le stock de l’élément %s."
+
+msgid "Unable to retrieve cart."
+msgstr "Impossible de récupérer le panier."
+
+msgid ""
+"Unable to retrieve database information. Usually, this is not a problem, and "
+"it only means that your install is using a class that replaces the WordPress "
+"database class (e.g., HyperDB) and WooCommerce is unable to get database "
+"information."
+msgstr ""
+"Impossible de récupérer les informations de la base de données. Ce n’est "
+"généralement pas un problème. Cela signifie simplement que votre "
+"installation utilise une classe qui remplace la classe de base de données de "
+"WordPress (par exemple, HyperDB) et que WooCommerce ne peut pas obtenir "
+"d’informations sur la base de données."
+
+msgid "Unable to save action."
+msgstr "Impossible d’enregistrer l’action."
+
+msgid "Unable to unlock claim %s. Database error."
+msgstr ""
+"Impossible de déverrouiller la demande %s. Erreur de la base de données."
+
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr ""
+"Impossible de déverrouiller la demande d’action %s. Erreur de la base de "
+"données."
+
+msgid "Unable to use image \"%s\"."
+msgstr "Impossible d’utiliser l’image « %s »."
+
+msgid "Uncropped"
+msgstr "Non recadrée"
+
+msgid "Understanding the status report"
+msgstr "Comprendre le rapport système"
+
+msgid "Undo"
+msgstr "Annuler"
+
+msgid "Undo?"
+msgstr "Annuler ?"
+
+msgid ""
+"Unfortunately <strong>we do not ship %s</strong>. Please enter an "
+"alternative shipping address."
+msgstr ""
+"Malheureusement <strong>nous ne livrons pas %s</strong>. Veuillez saisir une "
+"adresse de livraison alternative."
+
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+"Malheureusement votre commande ne peut être traitée car la banque ou le "
+"commerçant d’origine a refusé votre transaction. Veuillez effectuer une "
+"nouvelle tentative d’achat."
+
+msgid "Ungheni"
+msgstr "Ungheni"
+
+msgid "Unidentified action %s"
+msgstr "Action %s non identifiée"
+
+msgid "Unique ID for the Note Action."
+msgstr "ID unique de l’action de note."
+
+msgid "Unique ID for the Note."
+msgstr "ID unique de la note."
+
+msgid "Unique ID for the instance."
+msgstr "ID unique pour l’instance."
+
+msgid "Unique ID for the resource."
+msgstr "ID unique pour la ressource."
+
+msgid "Unique ID for the zone."
+msgstr "ID unique pour la zone."
+
+msgid "Unique coupons count."
+msgstr "Nombre de codes promo uniques."
+
+msgid "Unique identifier (key) for the cart item to update."
+msgstr "Identifiant (clé) unique de l’article de panier à mettre à jour."
+
+msgid "Unique identifier (key) for the cart item."
+msgstr "Identifiant (clé) unique de l’article de panier."
+
+msgid "Unique identifier for the attribute of the terms."
+msgstr "Identifiant unique pour l’attribut des termes."
+
+msgid "Unique identifier for the attribute."
+msgstr "Identifiant unique pour l’attribut."
+
+msgid "Unique identifier for the coupon within the cart."
+msgstr "Identifiant unique du code promo dans le panier."
+
+msgid "Unique identifier for the fee within the cart."
+msgstr "Identifiant unique des frais dans le panier."
+
+msgid "Unique identifier for the item within the cart."
+msgstr "Identifiant unique de l’article placé dans le panier."
+
+msgid "Unique identifier for the object."
+msgstr "Identifiant unique pour l&rsquo;objet."
+
+msgid "Unique identifier for the product that the review belongs to."
+msgstr "ID unique du produit auquel l’avis se réfère."
+
+msgid "Unique identifier for the product."
+msgstr "ID unique pour le produit."
+
+msgid "Unique identifier for the resource."
+msgstr "Identifiant unique pour la ressource."
+
+msgid "Unique identifier for the variable product."
+msgstr "Identifiant unique pour le produit variable."
+
+msgid "Unique identifier for the variation."
+msgstr "Identifiant unique pour la variation."
+
+msgid "Unique identifier for the webhook."
+msgstr "Identifiant unique pour le crochet Web."
+
+msgid "Unique identifier."
+msgstr "Identifiant unique."
+
+msgid "Unique slug for the resource."
+msgstr "Slug unique pour la ressource."
+
+msgid ""
+"Unique slug/reference for the attribute; must be no more than 28 characters."
+msgstr ""
+"Identifiant/Référence unique pour l’attribut, doit avoir au plus 28 "
+"caractères."
+
+msgid "Unique transaction ID."
+msgstr "ID unique de transaction."
+
+msgid "United Arab Emirates"
+msgstr "Émirats Arabes Unis"
+
+msgid "United Arab Emirates dirham"
+msgstr "Dirham des Emirats Arabes Unis"
+
+msgid "United Kingdom (UK)"
+msgstr "Royaume-Uni (UK)"
+
+msgid "United States (US)"
+msgstr "Etats-Unis (USA)"
+
+msgid "United States (US) Minor Outlying Islands"
+msgstr "Îles Mineures éloignées des États-Unis"
+
+msgid "United States (US) dollar"
+msgstr "Dollar américain"
+
+msgid "Units in stock"
+msgstr "Quantité en stock"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Unknown product filename."
+msgstr "Nom de fichier de produit inconnu."
+
+msgid "Unknown request method."
+msgstr "Méthode de requête inconnue."
+
+msgid "Unknown status found for action."
+msgstr "Statut d’action inconnu détecté."
+
+msgid "Unlimited"
+msgstr "Illimitée"
+
+msgid "Unlimited usage"
+msgstr "Utilisation illimitée"
+
+msgid "Unpaid order cancelled - time limit reached."
+msgstr "Commande impayée annulée - temps limite atteint."
+
+msgid "Unregistered Statuses"
+msgstr "États non enregistrés"
+
+msgid "Unserializing instances of this class is forbidden."
+msgstr "La désérialisation des instances de classe est interdite."
+
+msgid "Unsupported request method"
+msgstr "Méthode de demande non supportée"
+
+msgid "Up %d%% from %s"
+msgstr "Hausse de %d%% à partir de %s"
+
+msgid "Up %f%% from %s"
+msgstr "Hausse de %f%% par rapport à %s"
+
+msgid "Up to %s"
+msgstr "Jusqu’à %s"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Update %s"
+msgstr "Actualiser %s"
+
+msgid "Update Available"
+msgstr "Mise à jour disponible"
+
+msgid "Update WooCommerce Database"
+msgstr "Mettre à jour la base de données WooCommerce"
+
+msgid "Update cart"
+msgstr "Mettre à jour le panier"
+
+msgid "Update category"
+msgstr "Mettre à jour la catégorie"
+
+msgid "Update country / region"
+msgstr "Mettre à jour le pays/région"
+
+msgid "Update database"
+msgstr "Mettre à jour la base de données"
+
+msgid "Update existing products"
+msgstr "Mettre à jour les produits existants"
+
+msgid "Update now"
+msgstr "Mettre à jour maintenant"
+
+msgid ""
+"Update required: WooCommerce will soon require PHP version %1$s and "
+"WordPress version %2$s or newer."
+msgstr ""
+"Mise à jour obligatoire : WooCommerce va prochainement exiger la version "
+"%1$s de PHP et la version %2$s de WordPress ou supérieures."
+
+msgid "Update required: WooCommerce will soon require PHP version %s or newer."
+msgstr ""
+"Mise à jour obligatoire : WooCommerce va prochainement exiger la version %s "
+"de PHP ou supérieure."
+
+msgid ""
+"Update required: WooCommerce will soon require WordPress version %s or newer."
+msgstr ""
+"Mise à jour obligatoire : WooCommerce va prochainement exiger la version %s "
+"de WordPress ou supérieure."
+
+msgid "Update shipping class"
+msgstr "Actualiser la classe d’expédition"
+
+msgid "Update status event failed."
+msgstr "Échec de l’évènement mise à jour de l’état."
+
+msgid "Update stock"
+msgstr "Mettre à jour le stock"
+
+msgid "Update tag"
+msgstr "Mettre à jour l’étiquette"
+
+msgid "Update totals"
+msgstr "Mise à jour des totaux"
+
+msgid ""
+"Update your theme to the latest version. If no update is available contact "
+"your theme author asking about compatibility with the current WooCommerce "
+"version."
+msgstr ""
+"Mettez à jour votre thème vers la dernière version. Si aucune mise à jour "
+"n’est disponible, contactez l’auteur du thème pour vous renseigner sur la "
+"compatibilité de ce dernier avec la version actuelle de WooCommerce."
+
+msgid "Updated"
+msgstr "Mis à jour"
+
+msgid "Updated at"
+msgstr "Actualisé le"
+
+msgid "Updating database"
+msgstr "Mise à jour de la base de données"
+
+msgid "Updating product review failed."
+msgstr "La mise à jour de l&rsquo;avis produit a échoué."
+
+msgid "Updating review failed."
+msgstr "Échec de la mise à jour de l’avis."
+
+msgid "Updating review status failed."
+msgstr "Échec de la mise à jour de l’état de l’avis."
+
+msgid "Upgrade"
+msgstr "Mise à niveau"
+
+msgid "Upload CSV file"
+msgstr "Téléverser un fichier CSV"
+
+msgid "Upload a logo"
+msgstr "Mettre en ligne un logo"
+
+msgid "Upload a new file"
+msgstr "Téléverser un nouveau fichier"
+
+msgid "Upload a theme"
+msgstr "Mettre en ligne un thème"
+
+msgid "Upload an image"
+msgstr "Téléverser une image"
+
+msgid "Upload file and import"
+msgstr "Téléverser le fichier et importer"
+
+msgid ""
+"Upload or assign an image to your product here. This image will be shown in "
+"your store's catalog."
+msgstr ""
+"Téléversez ou assignez une image à votre produit ici. Cette image sera "
+"affichée dans le catalogue de votre boutique."
+
+msgid "Upload/Add image"
+msgstr "Téléverser/Ajouter image"
+
+msgid "Uploaded theme."
+msgstr "Thème mis en ligne."
+
+msgid "Uploaded to this product"
+msgstr "Téléversé sur ce produit"
+
+msgid "Uploading theme"
+msgstr "Chargement du thème"
+
+msgid "Upper East"
+msgstr "Upper East"
+
+msgid "Upper West"
+msgstr "Upper West"
+
+msgid "Upsells"
+msgstr "Produits suggérés"
+
+msgid ""
+"Upsells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
+"Les produits suggérés sont des produits que vous recommandez à la place de "
+"ceux actuellement vus, par exemple, les produits qui sont plus rentables, de "
+"meilleure qualité ou plus chers."
+
+msgid "Uri"
+msgstr "Uri"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uruguayan peso"
+msgstr "Peso uruguayen"
+
+msgid "Usage / Limit"
+msgstr "Usage / Limite"
+
+msgid "Usage Tracking"
+msgstr "Suivi d’utilisation"
+
+msgid "Usage limit per coupon"
+msgstr "Limite d’utilisation par code"
+
+msgid "Usage limit per user"
+msgstr "Limite d’utilisation par utilisateur"
+
+msgid "Usage limits"
+msgstr "Limites d’utilisation"
+
+msgid "Usage restriction"
+msgstr "Restriction d’usage"
+
+msgid ""
+"Use <code>[qty]</code> for the number of items, <br/><code>[cost]</code> for "
+"the total cost of items, and <code>[fee percent=\"10\" min_fee=\"20\" "
+"max_fee=\"\"]</code> for percentage based fees."
+msgstr ""
+"Utilisez <code>[qty]</code> pour le nombre d&rsquo;articles,<br/><code>[cost]"
+"</code> pour le coût total des articles et <code>[fee percent=\"10\" "
+"min_fee=\"20\" max_fee=\"\"]</code> pour les frais sur la base de "
+"pourcentage."
+
+msgid ""
+"Use WP Query arguments to modify the response; private query vars require "
+"appropriate authorization."
+msgstr ""
+"Utiliser les arguments de WP Query pour modifier la réponse; les variables "
+"de requête privée requiert une autorisation appropriée."
+
+msgid ""
+"Use WooCommerce Shipping (powered by WooCommerce Services & Jetpack) to save "
+"time at the post office by printing your shipping labels at home."
+msgstr ""
+"Utilisez WooCommerce Shipping (propulsé par WooCommerce Services et Jetpack) "
+"pour gagner du temps à la poste en imprimant vos étiquettes d’expédition à "
+"domicile."
+
+msgid "Use a new payment method"
+msgstr "Utiliser un nouveau moyen de paiement"
+
+msgid "Use a template to add physical, digital, and variable products"
+msgstr ""
+"Utiliser un modèle pour ajouter des produits physiques, numériques et "
+"variables."
+
+msgid "Use another payment method."
+msgstr "Utilisez un autre moyen de paiement."
+
+msgid "Use as product image"
+msgstr "Utiliser comme image produit"
+
+msgid "Use image"
+msgstr "Utiliser l’image"
+
+msgid "Use previous column mapping preferences?"
+msgstr "Utiliser les précédentes préférences d’association de colonne ?"
+
+msgid "Use same address for billing"
+msgstr "Utiliser la même adresse pour la facturation"
+
+msgid "Used for variations"
+msgstr "Utilisé pour les variations"
+
+msgid "Used-up download permissions"
+msgstr "Droits de téléchargement déjà utilisés."
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "User ID for the downloader."
+msgstr "ID utilisateur du téléchargeur."
+
+msgid "User ID of user who created the refund."
+msgstr "ID de l’utilisateur qui a créé le remboursement."
+
+msgid "User ID who owns the order. 0 for guests."
+msgstr "ID utilisateur propriétaire de la commande. 0 pour les invités."
+
+msgid "User ID."
+msgstr "ID utilisateur."
+
+msgid "User Name"
+msgstr "Nom d’utilisateur"
+
+msgid "User accounts are required to use these features."
+msgstr ""
+"Des comptes d’utilisateur sont requis pour utiliser ces fonctionnalités."
+
+msgid "User agent of the customer."
+msgstr "User agent du client."
+
+msgid "User email"
+msgstr "Adresse e-mail de l’utilisateur"
+
+msgid "User is missing."
+msgstr "L&rsquo;utilisateur est manquant."
+
+msgid "User name of the downloader."
+msgstr "Nom d’utilisateur du téléchargeur."
+
+msgctxt "User role"
+msgid "Customer"
+msgstr "Client"
+
+msgctxt "User role"
+msgid "Shop manager"
+msgstr "Gestionnaire de boutique"
+
+msgid "User&#8217;s WooCommerce access to purchased downloads data."
+msgstr "Les données d’accès aux téléchargements WooCommerce de l’utilisateur."
+
+msgid "User&#8217;s WooCommerce customer data."
+msgstr "Les données de l’utilisateur client WooCommerce."
+
+msgid "User&#8217;s WooCommerce orders data."
+msgstr "Les données de commande WooCommerce de l’utilisateur."
+
+msgid "User&#8217;s WooCommerce payment tokens data."
+msgstr "Les données de jetons de paiement WooCommerce de l’utilisateur."
+
+msgid "User&#8217;s WooCommerce purchased downloads data."
+msgstr "Les données de téléchargements WooCommerce de l’utilisateur."
+
+msgid "Username"
+msgstr "Identifiant"
+
+msgid "Username is required."
+msgstr "Identifiant obligatoire."
+
+msgid "Username isn't editable."
+msgstr "L’identifiant n’est pas modifiable."
+
+msgid "Username or email"
+msgstr "Identifiant ou e-mail"
+
+msgid "Username or email address"
+msgstr "Identifiant ou adresse de messagerie"
+
+msgid "Username."
+msgstr "Nom d’utilisateur."
+
+msgid "Username: %s"
+msgstr "Identifiant : %s"
+
+msgid ""
+"Users will need to spend this amount to get free shipping (if enabled above)."
+msgstr ""
+"Les clients auront besoin de dépenser cette somme pour obtenir l’expédition "
+"gratuite (si activée ci-dessus)."
+
+msgid "Utah"
+msgstr "Utah"
+
+msgid "Uthai Thani"
+msgstr "Uthai Thani"
+
+msgid "Utilities"
+msgstr "Outils"
+
+msgid "Uttar Pradesh"
+msgstr "Uttar Pradesh"
+
+msgid "Uttaradit"
+msgstr "Uttaradit"
+
+msgid "Uttarakhand"
+msgstr "Uttarakhand"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "Uzbekistani som"
+msgstr "Som ouzbékistan"
+
+msgid "Uíge"
+msgstr "Uíge"
+
+msgid "Uşak"
+msgstr "Uşak"
+
+msgid "VAT"
+msgstr "TVA"
+
+msgid "Valais"
+msgstr "Valais"
+
+msgid "Valencia"
+msgstr "Valence"
+
+msgid ""
+"Validation error: PayPal IPN response from a different email address (%s)."
+msgstr ""
+"Erreur de validation : réponse de Paypal IPN depuis un e-mail différent (%s)."
+
+msgid "Validation error: PayPal amounts do not match (amt %s)."
+msgstr ""
+"Erreur de validation : les montants Paypal ne correspondent pas (mt %s)."
+
+msgid "Validation error: PayPal amounts do not match (gross %s)."
+msgstr ""
+"Erreur de validation : les montants Paypal ne correspondent pas (brut %s)."
+
+msgid "Validation error: PayPal currencies do not match (code %s)."
+msgstr "Erreur de validation : les devises ne correspondent pas (code %s)."
+
+msgid "Valladolid"
+msgstr "Valladolid"
+
+msgid "Value (required)"
+msgstr "Valeur (nécessaire)"
+
+msgid "Value of the coupon."
+msgstr "Valeur du code promo."
+
+msgid "Value of the metadata."
+msgstr "Valeur des métadonnées."
+
+msgid ""
+"Value of the stat. Returns null if the stat does not exist or cannot be "
+"loaded."
+msgstr ""
+"Valeur de la statistique. Retourne la valeur null si la statistique n’existe "
+"pas ou n’est pas chargeable."
+
+msgid "Value(s)"
+msgstr "Valeur(s)"
+
+msgid "Valverde"
+msgstr "Valverde"
+
+msgid "Van"
+msgstr "Van"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Vanuatu vatu"
+msgstr "Vatu du Vanuatu"
+
+msgid "Varese"
+msgstr "Varese"
+
+msgid ""
+"Variable is for more complex products such as t-shirts with multiple sizes."
+msgstr ""
+"Le produit variable est pour les produits plus complexes tels que des tee-"
+"shirts en différentes tailles. "
+
+msgid "Variable product"
+msgstr "Produit variable"
+
+msgid ""
+"Variable products are a powerful product type that lets you offer a set of "
+"variations on a product, with control over prices, stock, image and more for "
+"each variation. They can be used for a product like a shirt, where you can "
+"offer a large, medium and small and in different colors."
+msgstr ""
+"Les produits variables sont un type de produit puissant qui vous permet de "
+"proposer un ensemble de variantes d’un produit avec contrôle des prix, du "
+"stock, de l’image et plus pour chaque variante. Vous pouvez l’appliquer à un "
+"produit comme une chemise, disponible en plusieurs tailles et dans "
+"différentes couleurs."
+
+msgid "Variation #%1$s of %2$s"
+msgstr "Variation n°%1$s sur %2$s"
+
+msgid "Variation ID, if applicable."
+msgstr "ID de la variation, si applicable."
+
+msgid "Variation ID."
+msgstr "ID de la variation."
+
+msgid "Variation ID:"
+msgstr "ID variation :"
+
+msgid "Variation URL."
+msgstr "URL de la variation."
+
+msgid "Variation attribute name."
+msgstr "Nom de l’attribut de la variante."
+
+msgid "Variation attribute value."
+msgstr "Valeur de l’attribut de la variation."
+
+msgid ""
+"Variation cannot be imported: Missing parent ID or parent does not exist yet."
+msgstr ""
+"La variation ne peut pas être importée : l’ID parent est manquant ou le "
+"parent n’existe pas encore."
+
+msgid ""
+"Variation cannot be imported: Parent product cannot be a product variation"
+msgstr ""
+"La variation ne peut pas être importée : le produit parent ne peut pas être "
+"une variation de produit"
+
+msgid "Variation description."
+msgstr "Description de la variation."
+
+msgid "Variation dimensions."
+msgstr "Dimensions de la variation."
+
+msgid "Variation height (%s)."
+msgstr "Hauteur de la variation (%s)."
+
+msgid "Variation image data."
+msgstr "Données d’image de variation."
+
+msgid "Variation length (%s)."
+msgstr "Longueur de la variation (%s)."
+
+msgid "Variation menu order (determines position in the list of variations)"
+msgstr ""
+"Ordre du menu variation (détermine la position dans la liste des variations)"
+
+msgid "Variation price (required)"
+msgstr "Variation prix (requis)"
+
+msgid "Variation regular price."
+msgstr "Tarif régulier de la variation."
+
+msgid "Variation sale price."
+msgstr "Tarif promo de la variation."
+
+msgid "Variation status."
+msgstr "État de la variation."
+
+msgid "Variation weight (%s)."
+msgstr "Poids de la variation (%s)."
+
+msgid "Variation width (%s)."
+msgstr "Largeur de la variation (%s)."
+
+msgid "Variations"
+msgstr "Variations"
+
+msgid ""
+"Variations (and their attributes) that do not have prices will not be shown "
+"in your store."
+msgstr ""
+"Les variantes (et leurs attributs) sans prix ne s’afficheront pas sur votre "
+"boutique."
+
+msgid "Variations detailed reports."
+msgstr "Rapports détaillés sur les variantes."
+
+msgid "Varna"
+msgstr "Varna"
+
+msgid "Vas"
+msgstr "Vas"
+
+msgid "Vaslui"
+msgstr "Vaslui"
+
+msgid "Vatican"
+msgstr "Vatican"
+
+msgid "Vaud"
+msgstr "Vaud"
+
+msgid "Veliko Tarnovo"
+msgstr "Veliko Tarnovo"
+
+msgid "Venezia"
+msgstr "Venise"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Venezuelan bol&iacute;var"
+msgstr "Bolívar vénézuélien"
+
+msgid "Veracruz"
+msgstr "Veracruz"
+
+msgid "Verbano-Cusio-Ossola"
+msgstr "Verbano-Cusio-Ossola"
+
+msgid "Vercelli"
+msgstr "Vercelli"
+
+msgid "Verified buyer"
+msgstr "Acheteur vérifié"
+
+msgid "Verified owner"
+msgstr "Client confirmé"
+
+msgid "Verify base database tables"
+msgstr "Vérifier les tables de la base de données de base"
+
+msgid "Verify database"
+msgstr "Vérifier la base de données"
+
+msgid "Verify if all base database tables are present."
+msgstr ""
+"Vérifiez si toutes les tables de base de données de base sont présentes."
+
+msgid "Verifying database... One or more tables are still missing: "
+msgstr ""
+"Vérification de la base de données en cours… Une ou plusieurs tables sont "
+"toujours manquantes :"
+
+msgid "Vermont"
+msgstr "Vermont"
+
+msgid "Verona"
+msgstr "V&eacute;rone"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version %s is <strong>available</strong>."
+msgstr "La version %s est <strong>disponible</strong>."
+
+msgid ""
+"Version %s is <strong>available</strong>. To enable this update you need to "
+"<strong>purchase</strong> a new subscription."
+msgstr ""
+"La version %s est <strong>disponible</strong>. Pour activer cette mise à "
+"jour vous devez <strong>commander</strong> un nouvel abonnement."
+
+msgid "Version of WooCommerce which last updated the order."
+msgstr "Version de WooCommerce qui a mis à jour la commande."
+
+msgid "Version:"
+msgstr "Version :"
+
+msgid "Very difficult"
+msgstr "Très difficile"
+
+msgid "Very easy"
+msgstr "Très simple"
+
+msgid "Very poor"
+msgstr "Très mauvais"
+
+msgid "Veszprém"
+msgstr "Veszprém"
+
+msgid "Vibo Valentia"
+msgstr "Vibo Valentia"
+
+msgid "Vicenza"
+msgstr "Vicenza"
+
+msgid "Victoria"
+msgstr "Victoria"
+
+msgid "Vidin"
+msgstr "Vidin"
+
+msgid "Vientiane"
+msgstr "Vientiane"
+
+msgid "Vientiane Province"
+msgstr "Province de Vientiane"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr "Dong Vietnamien"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "View &amp; Customize"
+msgstr "Voir et personnaliser"
+
+msgid "View Action"
+msgstr "Voir l’action"
+
+msgid "View Orders"
+msgstr "Voir les commandes"
+
+msgid "View Product"
+msgstr "Afficher le produit"
+
+msgid "View WooCommerce API docs"
+msgstr "Voir les documentations de l’API WooCommerce"
+
+msgid "View WooCommerce documentation"
+msgstr "Voir la documentation WooCommerce"
+
+msgid "View WooCommerce settings"
+msgstr "Voir les réglages WooCommerce"
+
+msgid "View affected templates"
+msgstr "Voir les modèles concernés"
+
+msgid "View and manage coupons"
+msgstr "Voir et gérer les codes promo"
+
+msgid "View and manage customers"
+msgstr "Voir et gérer les clients"
+
+msgid "View and manage orders and sales reports"
+msgstr "Voir et gérer les commandes et les rapports de vente"
+
+msgid "View and manage products"
+msgstr "Voir et gérer les produits"
+
+msgid "View cart"
+msgstr "Voir le panier"
+
+msgid "View coupon"
+msgstr "Voir le code promo"
+
+msgid "View coupons"
+msgstr "Voir les codes promo"
+
+msgid "View customers"
+msgstr "Voir les clients"
+
+msgid "View detailed stats"
+msgstr "Afficher des statistiques détaillées"
+
+msgid "View import log"
+msgstr "Afficher le journal d&rsquo;importation"
+
+msgid "View more Storefront child themes"
+msgstr "Voir plus de thèmes enfants pour Storefront"
+
+msgid "View my store"
+msgstr "Voir ma boutique"
+
+msgid "View order"
+msgstr "Voir la commande"
+
+msgid "View order: %s"
+msgstr "Voir commande : %s"
+
+msgid "View orders"
+msgstr "Afficher les commandes"
+
+msgid "View orders and sales reports"
+msgstr "Voir les commandes et les rapports de vente"
+
+msgid "View other orders &rarr;"
+msgstr "Afficher les autres commandes &rarr;"
+
+msgid "View product"
+msgstr "Voir produit"
+
+msgid "View products"
+msgstr "Voir les produits"
+
+msgid "View products in the &ldquo;%s&rdquo; group"
+msgstr "Voir les produits dans le groupe &ldquo;%s&rdquo;"
+
+msgid "View progress &rarr;"
+msgstr "Voir la progression &rarr;"
+
+msgid "View progress →"
+msgstr "Voir la progression →"
+
+msgid "View report"
+msgstr "Voir le rapport"
+
+msgid "View tax rates"
+msgstr "Voir les taux de taxe"
+
+msgid "View template"
+msgstr "Voir le modèle"
+
+msgid "View/Edit"
+msgstr "Voir/Modifier"
+
+msgid "Viewing products"
+msgstr "Affichage des produits"
+
+msgid "Views"
+msgstr "Vues"
+
+msgid "Vihiga"
+msgstr "Vihiga"
+
+msgid "Virgin Islands (British)"
+msgstr "Virgin Islands (British)"
+
+msgid "Virgin Islands (US)"
+msgstr "Virgin Islands (US)"
+
+msgid "Virginia"
+msgstr "Virginia"
+
+msgid "Virtual"
+msgstr "Virtuel"
+
+msgid "Virtual products"
+msgstr "Produits virtuels"
+
+msgid "Virtual products are intangible and are not shipped."
+msgstr "Les produits virtuels sont incorporels et ne sont pas expédiés."
+
+msgid "Visa"
+msgstr "Visa"
+
+msgid "Visibility"
+msgstr "Visibilité"
+
+msgid "Visibility in catalog"
+msgstr "Visibilité dans le catalogue"
+
+msgid "Visible on the product page"
+msgstr "Visible sur la page produit"
+
+msgid "Visit %s admin area:"
+msgstr "Visiter la zone d’administration %s :"
+
+msgid "Visit Dashboard"
+msgstr "Se rendre sur le Tableau de bord"
+
+msgid "Visit Store"
+msgstr "Visiter la boutique"
+
+msgid ""
+"Visit WooCommerce.com to learn more about <a href=\"%1$s\" target=\"_blank\">"
+"getting started</a>."
+msgstr ""
+"Consultez le site WooCommerce.com pour savoir comment bien <a href=\"%1$s\" "
+"target=\"_blank\">démarrer</a>."
+
+msgid "Visit community forums"
+msgstr "Visiter les forums de la communauté"
+
+msgid "Visit plugin homepage"
+msgstr "Visiter la page de l’extension"
+
+msgid "Visit premium customer support"
+msgstr "Visitez le forum support des clients premium"
+
+msgid "Visit the theme marketplace"
+msgstr "Consulter la bibliothèque de thèmes"
+
+msgid "Visitors"
+msgstr "Visiteurs"
+
+msgid "Visually highlight a product category and encourage prompt action."
+msgstr ""
+"Mettez visuellement en valeur une catégorie de produits et encouragez une "
+"action rapide."
+
+msgid "Visually highlight a product or variation and encourage prompt action"
+msgstr ""
+"Mettre visuellement en valeur un produit ou une variante et encourager une "
+"action rapide"
+
+msgid "Visually highlight a product or variation and encourage prompt action."
+msgstr ""
+"Mettez visuellement en valeur un produit ou un écart et encouragez une "
+"action rapide."
+
+msgid "Viterbo"
+msgstr "Viterbo"
+
+msgid "Volta"
+msgstr "Volta"
+
+msgid "Vrancea"
+msgstr "Vrancea"
+
+msgid "Vratsa"
+msgstr "Vratsa"
+
+msgid "Vâlcea"
+msgstr "Vâlcea"
+
+msgid "WC database version."
+msgstr "Version de la base de données WC."
+
+msgid "WP REST API Integration v%d"
+msgstr "Intégration WP API REST v%d"
+
+msgid "Waikato"
+msgstr "Waikato"
+
+msgid "Wajir"
+msgstr "Wajir"
+
+msgid "Wakayama"
+msgstr "Wakayama"
+
+msgid "Wake Island"
+msgstr "Wake Island"
+
+msgid "Wakiso"
+msgstr "Wakiso"
+
+msgid "Wallis and Futuna"
+msgstr "Wallis et Futuna"
+
+msgid "Warm hat for winter"
+msgstr "Bonnet chaud pour l’hiver"
+
+msgid "Warning"
+msgstr "Avertissement"
+
+msgid "Washington"
+msgstr "Washington"
+
+msgid "Watch the webinar"
+msgstr "Regarder le webinaire"
+
+msgid "Watch tutorial"
+msgstr "Regarder le didacticiel"
+
+msgid "Waterford"
+msgstr "Waterford"
+
+msgid ""
+"We accept payments through PayPal. When processing payments, some of your "
+"data will be passed to PayPal, including information required to process or "
+"support the payment, such as the purchase total and billing information."
+msgstr ""
+"Nous acceptons les paiements par PayPal. Lors du traitement des paiements, "
+"certains données seront transmises à PayPal, incluant l’information "
+"obligatoires à l’exécution du paiement, tel que le montant total ou les "
+"informations de facturation."
+
+msgid ""
+"We are currently working on improving our cart and checkout blocks to "
+"provide merchants with the tools and customization options they need."
+msgstr ""
+"Nous travaillons actuellement sur l’amélioration de nos blocs de panier et "
+"de validation de commande, afin de fournir aux marchands les outils et les "
+"options de personnalisation dont ils ont besoin."
+
+msgid ""
+"We collect information about you during the checkout process on our store."
+msgstr ""
+"Nous collectons des informations lors de la validation de commande sur notre "
+"boutique."
+
+msgid ""
+"We generally store information about you for as long as we need the "
+"information for the purposes for which we collect and use it, and we are not "
+"legally required to continue to keep it. For example, we will store order "
+"information for XXX years for tax and accounting purposes. This includes "
+"your name, email address and billing and shipping addresses."
+msgstr ""
+"Nous stockons généralement vos informations aussi longtemps que nous en "
+"avons besoin pour l’usage pour lequel nous les collectons et utilisons, et "
+"nous ne sommes pas obligés légalement de continuer à les conserver. Par "
+"exemple, nous stockons les informations de commande pour XXX années pour les "
+"taxes et la comptabilité. Ceci inclut votre nom, e-mail et adresses de "
+"facturation et livraison."
+
+msgid "We have finished processing your order."
+msgstr "Nous avons terminé de traiter votre commande."
+
+msgid "We hope to see you again soon."
+msgstr "Au plaisir de vous revoir prochainement sur notre boutique."
+
+msgid "We look forward to fulfilling your order soon."
+msgstr "Nous comptons exécuter votre commande sous peu."
+
+msgid "We look forward to seeing you soon."
+msgstr "Au plaisir de vous revoir prochainement sur notre boutique."
+
+msgid ""
+"We noticed that there was a problem during the Jetpack and WooCommerce "
+"Shipping & Tax install. Please try again and enjoy all the advantages of "
+"having the plugins connected to your store! Sorry for the inconvenience. The "
+"\"Jetpack\" and \"WooCommerce Shipping & Tax\" plugins will be installed & "
+"activated for free."
+msgstr ""
+"Il y a eu un problème lors de l’installation de Jetpack et de WooCommerce "
+"Shipping & Tax. Veuillez essayer à nouveau et profitez de tous les avantages "
+"d’avoir les extensions connectées à votre boutique ! Les extensions Jetpack "
+"et WooCommerce Shipping & Tax seront installées et activées gratuitement."
+
+msgid ""
+"We recently introduced the new navigation for a more intuitive and improved "
+"user experience. Now that you've had some time to give it a try, let us know "
+"how this will impact your store."
+msgstr ""
+"Nous avons récemment mis en œuvre le nouveau système de navigation pour "
+"proposer une expérience utilisateur plus intuitive et améliorée. Maintenant "
+"que vous avez pu faire le test, indiquez-nous quel sera l’impact au niveau "
+"de votre boutique."
+
+msgid "We recommend Storefront, the <em>official</em> WooCommerce theme."
+msgstr "Nous recommandons Storefront, le thème WooCommerce <em>officiel</em>."
+
+msgid "We recommend enhancing your store with these free extensions"
+msgstr ""
+"Nous vous recommandons ces extensions gratuites pour améliorer votre "
+"boutique."
+
+msgid ""
+"We recommend reviewing our <a>expanding list</a> of compatible extensions "
+"prior to using this block on a live store."
+msgstr ""
+"Nous vous invitons à consulter notre <a>liste (que nous étoffons "
+"régulièrement)</a> d’extensions compatibles avant d’utiliser ce bloc dans "
+"une boutique en ligne."
+
+msgid ""
+"We recommend using PHP version 7.2 or above for greater performance and "
+"security."
+msgstr ""
+"Nous recommandons d’utiliser PHP 7.2 ou supérieur pour optimiser les "
+"performances et la sécurité."
+
+msgid ""
+"We recommend using ShipStation to save time at the post office by printing "
+"your shipping labels at home. Try ShipStation free for 30 days."
+msgstr ""
+"Nous vous recommandons d’utiliser ShipStation pour gagner du temps au bureau "
+"de poste en imprimant vos étiquettes de livraison chez vous. Essayez "
+"ShipStation gratuitement pendant 30 jours."
+
+msgid ""
+"We recommend using ShipStation to save time at the post office by printing "
+"your shipping labels at home. Try ShipStation free for 30 days. {{link}}"
+"Learn more{{/link}}."
+msgstr ""
+"Nous vous recommandons d’utiliser ShipStation pour gagner du temps au bureau "
+"de poste en imprimant vos étiquettes d’expédition chez vous. Essayez "
+"ShipStation gratuitement pendant 30 jours {{link}}En savoir plus{{/link}}."
+
+msgid ""
+"We share information with third parties who help us provide our orders and "
+"store services to you; for example --"
+msgstr ""
+"Nous partageons des données avec des tiers qui nous aident à gérer nos "
+"commandes et services de la boutique; par exemple --"
+
+msgid ""
+"We show contextual suggestions for official extensions that may be helpful "
+"to your store."
+msgstr ""
+"Nous présentons des suggestions contextuelles pour les extensions "
+"officielles qui pourraient être utiles à votre boutique."
+
+msgid "We strongly recommend creating a backup of your site before updating."
+msgstr ""
+"Nous vous recommandons fortement de créer une sauvegarde de votre site avant "
+"d’exécuter la mise à jour."
+
+msgid ""
+"We want to make eCommerce and this process of getting started as easy as "
+"possible for you. Watch this webinar to get tips on how to have our store up "
+"and running in a breeze."
+msgstr ""
+"Nous souhaitons que l’eCommerce et cette procédure de lancement soient aussi "
+"simples que possible pour vous. Regardez ce webinaire pour obtenir des "
+"conseils vous permettant de lancer facilement votre boutique."
+
+msgid "We were unable to find any results based on your search."
+msgstr "Aucun résultat ne correspond à votre recherche."
+
+msgid "We were unable to process your order, please try again."
+msgstr ""
+"Nous n&rsquo;avons pas pu traiter votre commande, veuillez essayer de "
+"nouveau."
+
+msgid "We will also store comments or reviews, if you choose to leave them."
+msgstr ""
+"Nous stockons aussi les commentaires ou avis, si vous choisissez d’en "
+"envoyer."
+
+msgid ""
+"We'd love to know if you are just getting started or you already have a "
+"business in place."
+msgstr ""
+"Nous aimerions savoir si vous venez juste de commencer ou si votre activité "
+"est déjà bien installée."
+
+msgid "We'll use %1$s for product weight and %2$s for product dimensions."
+msgstr ""
+"Nous utiliserons %1$s pour le poids des produits et %2$s pour leurs "
+"dimensions."
+
+msgid "We'll use this email to send you details and updates about your order."
+msgstr ""
+"Nous utiliserons cet e-mail pour vous envoyer des détails et des mises à "
+"jour concernant votre commande."
+
+msgid "We're here for help"
+msgstr "Nous sommes là pour vous aider"
+
+msgid ""
+"We're here for you - get tips, product updates and inspiration straight to "
+"your email box"
+msgstr ""
+"Nous sommes là pour vous, obtenir des astuces, mises à jour de produits et "
+"inspirations directement dans votre boîte e-mail"
+
+msgid ""
+"We're here for you — get tips, product updates, and inspiration straight to "
+"your mailbox."
+msgstr ""
+"Nous sommes à votre disposition. Profitez de conseils, de mises à jour des "
+"produits et de sources d'inspiration directement dans votre boîte de "
+"messagerie."
+
+msgid ""
+"We're introducing the new navigation for a more intuitive and improved user "
+"experience. We'd like to hear your thoughts and first impressions."
+msgstr ""
+"Nous mettons en œuvre le nouveau système de navigation pour proposer une "
+"expérience utilisateur plus intuitive et améliorée. Nous aimerions connaître "
+"votre opinion et vos premières impressions."
+
+msgid ""
+"We've created two Shipping Zones - for %s and for the rest of the world. "
+"Below you can set Flat Rate shipping costs for these Zones or offer Free "
+"Shipping."
+msgstr ""
+"Nous avons créé deux zones de livraison : pour %s et pour le reste du monde. "
+"Vous trouverez ci-après des frais d’expédition fixes pour ces zones ou "
+"l’offre d’expédition gratuite."
+
+msgid ""
+"We've designed your navigation and home screen to help you focus on the "
+"things that matter most in managing your online store."
+msgstr ""
+"La navigation et l’écran d’accueil ont été conçus pour réunir les aspects "
+"les plus importants de la gestion de votre boutique en ligne."
+
+msgid ""
+"We've designed your navigation and home screen to help you focus on the "
+"things that matter most in managing your online store. {{link}}Learn "
+"more{{/link}} about these changes – or explore on your own."
+msgstr ""
+"La navigation et l’écran d’accueil ont été conçus pour réunir les aspects "
+"les plus importants de la gestion de votre boutique en ligne. {{link}}En "
+"savoir plus{{/link}} sur ces modifications, ou les découvrir par vous-même."
+
+msgid ""
+"We've made things simpler and easier to manage moving forward. From now on "
+"you can manage all your WooCommerce purchases directly from the Extensions "
+"menu within the WooCommerce plugin itself. <a href=\"%s\">View and manage</a>"
+" your extensions now."
+msgstr ""
+"Nous avons rendu les choses plus simples et plus faciles à gérer. Désormais, "
+"vous pouvez gérer tous vos achats WooCommerce directement depuis le menu "
+"Extensions de WooCommerce. <a href=\"%s\">Affichez et gérez</a> vos "
+"extensions maintenant."
+
+msgid "Webhook actions"
+msgstr "Actions crochet Web"
+
+msgid "Webhook created on %s"
+msgstr "Crochet Web créé le %s"
+
+msgctxt "Webhook created on date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+msgid "Webhook created successfully."
+msgstr "Crochet Web créé avec succès."
+
+msgid "Webhook data"
+msgstr "Données crochet Web"
+
+msgid ""
+"Webhook delivery URL must be a valid URL starting with http:// or https://"
+msgstr ""
+"L’URL du crochet web délivrée doit être une URL valide commençant par http:"
+"// ou https://"
+
+msgid ""
+"Webhook delivery URL must be a valid URL starting with http:// or https://."
+msgstr ""
+"L’URL délivrée du crochet web doit être une URL valide commençant par http:"
+"// ou https://."
+
+msgid "Webhook delivery URL."
+msgstr "URL de livraison du crochet web."
+
+msgid "Webhook event."
+msgstr "Événement crochet Web."
+
+msgid "Webhook resource."
+msgstr "Ressource crochet Web."
+
+msgid "Webhook status must be valid."
+msgstr "L’état du crochet web doit être valide."
+
+msgid "Webhook status."
+msgstr "État du webhook."
+
+msgid "Webhook topic is required and must be valid."
+msgstr "Le sujet du crochet Web est nécessaire et doit être valide."
+
+msgid "Webhook topic must be valid."
+msgstr "Le sujet du crochet Web doit être valide."
+
+msgid "Webhook topic unknown. Please select a valid topic."
+msgstr "Sujet de crochet Web inconnu. Veuillez sélectionner un sujet valide."
+
+msgid "Webhook topic."
+msgstr "Sujet crochet Web."
+
+msgid "Webhook updated successfully."
+msgstr "Crochet Web mis à jour avec succès."
+
+msgid "Webhooks"
+msgstr "Crochets Web"
+
+msgid ""
+"Webhooks are event notifications sent to URLs of your choice. They can be "
+"used to integrate with third-party services which support them."
+msgstr ""
+"Les crochets Web sont des notifications d’événements envoyées aux URLs de "
+"votre choix. Ils peuvent être utilisés pour intégrer des services de tiers "
+"qui les supportent."
+
+msgid "Webhooks do not support trashing."
+msgstr "Les crochets Web ne supportent pas la suppression."
+
+msgid "Week of %B %-d, %Y"
+msgstr "Semaine de %B %-d, %Y"
+
+msgid "Week to Date"
+msgstr "Semaine date à date"
+
+msgid "Week to date"
+msgstr "Semaine en cours"
+
+msgid "Week(s)"
+msgstr "Semaine(s)"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Weight (%s)"
+msgstr "Poids (%s)"
+
+msgid "Weight in decimal form"
+msgstr "Poids au format décimal"
+
+msgid "Weight unit"
+msgstr "Unité de poids"
+
+msgid "Welcome to"
+msgstr "Bienvenue dans"
+
+msgid "Welcome to WooCommerce"
+msgstr "Bienvenue sur WooCommerce"
+
+msgid "Welcome to the store"
+msgstr "Bienvenue dans la boutique"
+
+msgid "Welcome to your WooCommerce store’s online HQ!"
+msgstr ""
+"Bienvenue dans le tableau de bord de votre boutique en ligne WooCommerce !"
+
+msgid "Welcome to your new store management experience"
+msgstr "Bienvenue dans notre nouvelle expérience de gestion de boutique."
+
+msgid "Welcome to {site_title}"
+msgstr "Bienvenue sur {site_title}"
+
+msgid "Wellington"
+msgstr "Wellington"
+
+msgid "West African CFA franc"
+msgstr "Franc CFA ouest-africain"
+
+msgid "West Azarbaijan (آذربایجان غربی)"
+msgstr "West Azarbaijan (آذربایجان غربی)"
+
+msgid "West Bengal"
+msgstr "Bengale-Occidental"
+
+msgid "West Coast"
+msgstr "West Coast"
+
+msgid "West Greece"
+msgstr "Grèce occidentale"
+
+msgid "West Macedonia"
+msgstr "Macédoine occidentale"
+
+msgid "West Pokot"
+msgstr "West Pokot"
+
+msgid "West Virginia"
+msgstr "West Virginia"
+
+msgid "Western"
+msgstr "Ouest"
+
+msgid "Western Australia"
+msgstr "Western Australia"
+
+msgid "Western Cape"
+msgstr "Cap-Occidental"
+
+msgid "Western North"
+msgstr "Western North"
+
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+msgid "Westmeath"
+msgstr "Westmeath"
+
+msgid "Westmoreland"
+msgstr "Westmoreland"
+
+msgid "Wexford"
+msgstr "Wexford"
+
+msgid ""
+"We’ll add some products that will make it easier to see what your store "
+"looks like"
+msgstr ""
+"Nous ajouterons quelques produits pour vous donner un meilleur aperçu de ce "
+"à quoi ressemble votre boutique"
+
+msgid ""
+"We’ll also use cookies to keep track of cart contents while you’re browsing "
+"our site."
+msgstr ""
+"Nous utilisons des cookies pour suivre les contenus du panier pendant que "
+"vous naviguez sur notre site."
+
+msgid ""
+"We’re introducing a new navigation for a more intuitive and improved user "
+"experience. You can enable the beta version of the new experience in the "
+"Advanced Settings. Enable it now for your store."
+msgstr ""
+"Nous introduisons une nouvelle navigation pour une expérience utilisateur "
+"plus intuitive et améliorée. Vous pouvez activer la version bêta de la "
+"nouvelle expérience dans les paramètres avancés. Activez-le maintenant pour "
+"votre boutique."
+
+msgid "What ZIP/post codes are available for local delivery?"
+msgstr "Quels sont les codes postaux disponibles pour une livraison locale ?"
+
+msgid "What ZIP/post codes are available for local pickup?"
+msgstr "Quels sont les codes postaux disponibles pour un retrait en boutique ?"
+
+msgid "What currency do you accept payments in?"
+msgstr "Quelles devises de paiement acceptez-vous ?"
+
+msgid ""
+"What currency prices are listed at in the catalog and which currency "
+"gateways will take payments in."
+msgstr ""
+"Ceci détermine quelle devise est listée dans le catalogue et quelle devise "
+"de passerelle sera utilisée pour le paiement."
+
+msgid ""
+"What fee do you want to charge for local delivery, disregarded if you choose "
+"free. Leave blank to disable."
+msgstr ""
+"Quels frais voulez-vous facturer pour la livraison locale, ignorez si vous "
+"choisissez gratuit. Laissez vide pour désactiver."
+
+msgid "What is PayPal?"
+msgstr "Qu’est-ce que PayPal ?"
+
+msgid "What is the platform name?"
+msgstr "Comment s’appelle la plateforme ?"
+
+msgid "What running the tool will do."
+msgstr "Ce que l’exécution de l’outil va faire."
+
+msgid "What type of products do you plan to sell?"
+msgstr "Quel type de produit envisagez-vous de vendre ?"
+
+msgid "What type of products will be listed?"
+msgstr "Quel type de produits sera listé ?"
+
+msgid "What we collect and store"
+msgstr "Ce que nous collectons et stockons"
+
+msgid "What we share with others"
+msgstr "Ce que nous partageons avec d’autres"
+
+msgid "What would you like to charge for flat rate shipping?"
+msgstr "Quels sont les frais d’expédition forfaitaires ?"
+
+msgid "What's your current annual revenue?"
+msgstr "Quel est votre revenu annuel actuel ?"
+
+msgid ""
+"When applying multiple coupons, apply the first coupon to the full price and "
+"the second coupon to the discounted price and so on."
+msgstr ""
+"Lors de l&rsquo;application de codes promo, appliquer le premier code promo "
+"au plein tarif, le deuxième code promo au tarif remisé et ainsi de suite."
+
+msgid "When creating an account, automatically generate an account password"
+msgstr ""
+"Lors de la création d’un compte, générer automatiquement un mot de passe "
+"pour le compte"
+
+msgid ""
+"When creating an account, automatically generate an account username for the "
+"customer based on their name, surname or email"
+msgstr ""
+"Lors de la création d’un compte, générer automatiquement un identifiant pour "
+"le client, à partir de leur nom ou leur adresse de messagerie"
+
+msgid ""
+"When handling an %s, should access to downloadable files be revoked and "
+"download logs cleared?"
+msgstr ""
+"Lors du traitement d’une %s, les accès aux fichiers téléchargeables doivent-"
+"ils être révoqués et les journaux de téléchargement vidés ?"
+
+msgid ""
+"When handling an %s, should personal data within orders be retained or "
+"removed?"
+msgstr ""
+"Lors du traitement d’une %s, les données personnelles dans les commandes "
+"doivent-elles être maintenues ou supprimées ?"
+
+msgid ""
+"When limiting response using after/before, which date column to compare "
+"against."
+msgstr ""
+"Lorsque la réponse est restreinte suivant la valeur avant/après, indiquez la "
+"colonne de date de comparaison."
+
+msgid ""
+"When product stock reaches this amount the stock status will change to \"out "
+"of stock\" and you will be notified via email. This setting does not affect "
+"existing \"in stock\" products."
+msgstr ""
+"Lorsque le stock atteindra cette quantité, l’état de stock changera à « en "
+"rupture de stock » et vous serez notifié par e-mail. Ce réglage n’affectera "
+"pas les produits « en stock » existants."
+
+msgid ""
+"When product stock reaches this amount you will be notified by email. It is "
+"possible to define different values for each variation individually. The "
+"shop default value can be set in Settings > Products > Inventory."
+msgstr ""
+"Lorsque le stock atteindra cette valeur, vous recevrez une notification par "
+"e-mail. It is possible to define different values for each variation "
+"individually. The shop default value can be set in Settings > Produits > "
+"Inventaire."
+
+msgid "When product stock reaches this amount you will be notified via email."
+msgstr "Lorsque le stock atteindra cette valeur vous serez notifié par e-mail."
+
+msgid "When true, email a link to download the export to the requesting user."
+msgstr ""
+"Lorsque la valeur est vraie, un lien de téléchargement de l’exportation est "
+"envoyé par e-mail au demandeur."
+
+msgid "When true, the payment gateway API is used to generate the refund."
+msgstr ""
+"Lorsque vrai, l’API de passerelle de paiement est utilisée pour générer le "
+"remboursement."
+
+msgid ""
+"When variation stock reaches this amount you will be notified by email. The "
+"default value for all variations can be set in the product Inventory tab. "
+"The shop default value can be set in Settings > Products > Inventory."
+msgstr ""
+"Lorsque le stock de variantes atteindra cette valeur, vous recevrez une "
+"notification par e-mail. The default value for all variations can be set in "
+"the product Inventory tab. The shop default value can be set in Settings > "
+"Produits > Inventaire."
+
+msgid ""
+"When you are finished editing your product, hit the \"Publish\" button to "
+"publish your product to your store."
+msgstr ""
+"Lorsque vous avez terminé de saisir votre produit, cliquez le bouton &laquo;"
+"&nbsp;Publier&nbsp;&raquo; pour publier votre produit sur votre boutique."
+
+msgid ""
+"When you purchase from us, we’ll ask you to provide information including "
+"your name, billing address, shipping address, email address, phone number, "
+"credit card/payment details and optional account information like username "
+"and password. We’ll use this information for purposes, such as, to:"
+msgstr ""
+"Quand vous achetez sur notre site web, nous vous demanderons de fournir des "
+"informations incluant votre nom, adresse de facturation, adresse de "
+"livraison, adresse de messagerie, numéro de téléphone, données de paiement / "
+"carte bancaire et éventuellement les données du compte tel que l’identifiant "
+"et le mot de passe. Ces informations seront utilisées pour :"
+
+msgid "When you receive a new order, it will appear here."
+msgstr "Lorsque vous recevrez une nouvelle commande, elle apparaîtra ici."
+
+msgid "Where is your store based?"
+msgstr "Où est située votre boutique ?"
+
+msgid "Whether or not a user can request to be reminded about the note."
+msgstr "Indique si un utilisateur peut demander un rappel concernant la note."
+
+msgid "Whether or not the profile was completed."
+msgstr "Indique si oui ou non le profil a été complété."
+
+msgid "Whether or not the profile was skipped."
+msgstr "Indique si oui ou non le profil a été ignoré."
+
+msgid ""
+"Whether or not the store was connected to WooCommerce.com during the "
+"extension flow."
+msgstr ""
+"Indique si oui ou non la boutique a été connectée à WooCommerce.com pendant "
+"le flux d’extension."
+
+msgid "Whether or not this is a compound rate."
+msgstr "S’il s’agit ou non d’un taux composé."
+
+msgid "Whether or not this store was setup for a client."
+msgstr "Indique si oui ou non cette boutique a été configurée pour un client."
+
+msgid "Whether or not this tax rate also gets applied to shipping."
+msgstr "Si ce taux de taxe s’applique ou non à l’expédition."
+
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Si vous avez ou non WordPress multisite activé."
+
+msgid "Whether the product is visible in the catalog"
+msgstr "Si le produit est visible dans le catalogue"
+
+msgid "Whether to bypass trash and force deletion."
+msgstr "Si la corbeille doit être contournée et la suppression forcée."
+
+msgid "Whether to create a new user account as part of order processing."
+msgstr "Créer ou non un compte utilisateur dans le processus de commande."
+
+msgid "Whether to hide resources not assigned to any products."
+msgstr "S&rsquo;il faut masquer les ressources affectées à aucun produit."
+
+msgid "Which Payment Option is Right for Me?"
+msgstr "Quelle option de paiement me convient le mieux ?"
+
+msgid "Which columns should be exported?"
+msgstr "Quelles colonnes devraient être exportées ?"
+
+msgid "Which platform is the store using?"
+msgstr "Quelle plateforme la boutique utilise-t-elle ?"
+
+msgid "Which product category should be exported?"
+msgstr "Quelle catégorie de produit devrait être exportée ?"
+
+msgid "Which product types should be exported?"
+msgstr "Quels types de produits devraient être exportés ?"
+
+msgid "While you visit our site, we’ll track:"
+msgstr "Pendant votre visite du site, nous suivons :"
+
+msgid "Who on our team has access"
+msgstr "Qui de notre équipe a accès aux données"
+
+msgid "Wicklow"
+msgstr "Wicklow"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "Width (%s)"
+msgstr "Largeur (%s)"
+
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgid ""
+"With WooCommerce Shipping and Jetpack you can save time at the Post Office "
+"by printing your shipping labels at home"
+msgstr ""
+"WooCommerce Shipping et Jetpack vous permettent de gagner du temps au bureau "
+"de poste en imprimant vos étiquettes d’expédition chez vous."
+
+msgid ""
+"With WooCommerce Shipping you can Print shipping labels from your "
+"WooCommerce dashboard at the lowest USPS rates."
+msgstr ""
+"WooCommerce Shipping vous permet d’imprimer des étiquettes d’expédition "
+"depuis votre tableau de bord WooCommerce aux tarifs USPS les plus bas."
+
+msgid ""
+"With our blocks, you can select and display products, categories, filters, "
+"and more virtually anywhere on your site — no need to use shortcodes or edit "
+"lines of code. Learn more about how to use each one of them."
+msgstr ""
+"Nos blocs vous permettent de sélectionner et d’afficher des produits, "
+"catégories, filtres et plus encore, pratiquement partout sur votre site. Pas "
+"besoin d’utiliser des codes courts ni de modifier des lignes de code. En "
+"savoir plus sur l’utilisation de chacun de ces blocs."
+
+msgid ""
+"With the release of WooCommerce 4.0, these reports are being replaced. There "
+"is a new and better Analytics section available for users running WordPress "
+"5.3+. Head on over to the <a href=\"%1$s\">WooCommerce Analytics</a> or "
+"learn more about the new experience in the <a href=\"https://docs."
+"woocommerce.com/document/woocommerce-analytics/\" target=\"_blank\">"
+"WooCommerce Analytics documentation</a>."
+msgstr ""
+"Dans WooCommerce 4.0, ces rapports sont remplacés. Une nouvelle section "
+"Statistiques est disponible pour les utilisateurs de WordPress 5.3+. Rendez-"
+"vous sur la page <a href=\"%1$s\">WooCommerce Analytics</a> ou découvrez la "
+"nouvelle expérience en détail dans la <a href=\"https://docs.woocommerce."
+"com/document/woocommerce-analytics/\" target=\"_blank\">documentation de "
+"WooCommerce Analytics</a>."
+
+msgid "Wix"
+msgstr "Wix"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid ""
+"WooCommerce %1$s table creation failed. Does the %2$s user have CREATE "
+"privileges on the %3$s database?"
+msgstr ""
+"Échec de la création de la table %1$s de WooCommerce. L’utilisateur %2$s "
+"dispose-t-il de privilèges CREATE sur la base de données %3$s ?"
+
+msgid "WooCommerce &rsaquo; Setup Wizard"
+msgstr "WooCommerce &rsaquo; Assistant de configuration"
+
+msgid "WooCommerce + Jetpack"
+msgstr "WooCommerce + Jetpack"
+
+msgid ""
+"WooCommerce API. Use a consumer key in the username field and a consumer "
+"secret in the password field."
+msgstr ""
+"API WooCommerce. Utilisez une clé client dans le champ identifiant et un "
+"secret client dans le champ mot de passe."
+
+msgid "WooCommerce Admin"
+msgstr "WooCommerce Admin"
+
+msgid ""
+"WooCommerce Admin development mode requires the %1$s constant to be defined "
+"and true in your %2$s file. Otherwise you are loading the admin package from "
+"WooCommerce core."
+msgstr ""
+"Le mode développement de WooCommerce Admin nécessite que la constante %1$s "
+"soit définie sur true dans votre fichier %2$s. Sinon, vous chargez le "
+"package d’administration depuis le noyau WooCommerce."
+
+msgid "WooCommerce Admin icon"
+msgstr "Icône de WooCommerce Admin"
+
+msgid "WooCommerce Admin package"
+msgstr "Package WooCommerce Admin"
+
+msgid ""
+"WooCommerce Blocks development mode requires files to be built. From the "
+"plugin directory, run %1$s to install dependencies, %2$s to build the files "
+"or %3$s to build the files and watch for changes."
+msgstr ""
+"Le mode de développement de WooCommerce Blocks requiert la création de "
+"fichiers. Dans le répertoire de l’extension, exécutez %1$s pour installer "
+"les dépendances, %2$s pour créer les fichiers ou %3$s pour créer les "
+"fichiers et afficher les modifications."
+
+msgid ""
+"WooCommerce Blocks development mode requires the %1$s constant to be defined "
+"and true in your %2$s file. Otherwise you are loading the blocks package "
+"from WooCommerce core."
+msgstr ""
+"Le mode développement de WooCommerce Blocks nécessite que la constante %1$s "
+"soit définie sur True dans votre fichier %2$s. Sinon, vous chargez le "
+"package de blocs depuis le noyau WooCommerce."
+
+msgid "WooCommerce Blocks package"
+msgstr "Package WooCommerce Blocks"
+
+msgid ""
+"WooCommerce Blocks requires a more recent version of WordPress and has been "
+"paused. Please update WordPress to continue enjoying WooCommerce Blocks."
+msgstr ""
+"Les blocs WooCommerce requièrent une version plus récente de WordPress et "
+"ont été interrompus. Veuillez mettre à jour WordPress pour continuer à "
+"profiter des blocs WooCommerce."
+
+msgid "WooCommerce Cart Page"
+msgstr "Page du panier WooCommerce"
+
+msgid "WooCommerce Checkout Page"
+msgstr "Page de validation de commande WooCommerce"
+
+msgid "WooCommerce Customer Data"
+msgstr "Données relatives aux clients WooCommerce"
+
+msgid "WooCommerce Customer Downloads"
+msgstr "Téléchargements des clients WooCommerce"
+
+msgid "WooCommerce Customer Orders"
+msgstr "Commandes des clients WooCommerce"
+
+msgid "WooCommerce Customer Payment Tokens"
+msgstr "Jetons de paiement des clients WooCommerce"
+
+msgid "WooCommerce Docs"
+msgstr "Documentation WooCommerce"
+
+msgid "WooCommerce Endpoint"
+msgstr "Point de terminaison WooCommerce"
+
+msgid "WooCommerce Endpoints"
+msgstr "Terminaisons WooCommerce"
+
+msgid "WooCommerce Extensions"
+msgstr "Extensions pour WooCommerce"
+
+msgid "WooCommerce Helper"
+msgstr "WooCommerce Helper"
+
+msgid "WooCommerce Home"
+msgstr "Accueil de WooCommerce"
+
+msgid "WooCommerce Network Orders"
+msgstr "Commandes passées sur le réseau WooCommerce"
+
+msgid "WooCommerce Onboarding"
+msgstr "WooCommerce Onboarding"
+
+msgid "WooCommerce PayFast"
+msgstr "WooCommerce PayFast"
+
+msgid "WooCommerce PayFast Gateway"
+msgstr "WooCommerce PayFast Gateway"
+
+msgid "WooCommerce PayPal"
+msgstr "WooCommerce PayPal"
+
+msgid "WooCommerce PayPal Checkout Gateway"
+msgstr "WooCommerce PayPal Checkout Gateway"
+
+msgid "WooCommerce Payments"
+msgstr "WooCommerce Payments"
+
+msgid "WooCommerce Payments FAQs"
+msgstr "FAQ sur WooCommerce Payments"
+
+msgid "WooCommerce Payments Start Up Guide"
+msgstr "Guide de démarrage de WooCommerce Payments"
+
+msgid "WooCommerce Payments connected successfully."
+msgstr "WooCommerce Payments a bien été connecté."
+
+msgid "WooCommerce Product Elements"
+msgstr "Éléments des produits WooCommerce"
+
+msgid "WooCommerce REST API package"
+msgstr "Package WooCommerce REST API"
+
+msgid "WooCommerce Recent Reviews"
+msgstr "Avis récents WooCommerce"
+
+msgid "WooCommerce Services"
+msgstr "Services WooCommerce"
+
+msgid "WooCommerce Services icon"
+msgstr "Icône WooCommerce Services"
+
+msgid "WooCommerce Setup"
+msgstr "Configuration de WooCommerce"
+
+msgid "WooCommerce ShipStation Gateway"
+msgstr "WooCommerce ShipStation Gateway"
+
+msgid "WooCommerce Shipping"
+msgstr "WooCommerce Shipping"
+
+msgid "WooCommerce Shipping & Tax"
+msgstr "WooCommerce Shipping & Tax"
+
+msgid "WooCommerce Shipping setup and configuration"
+msgstr "Définition et configuration de WooCommerce Shipping"
+
+msgid "WooCommerce Square"
+msgstr "WooCommerce Square"
+
+msgid "WooCommerce Status"
+msgstr "État de WooCommerce"
+
+msgid "WooCommerce Stripe"
+msgstr "WooCommerce Stripe"
+
+msgid "WooCommerce Stripe Gateway"
+msgstr "WooCommerce Stripe Gateway"
+
+msgid ""
+"WooCommerce Subscriptions allows you to introduce a variety of subscriptions "
+"for physical or virtual products and services. Create product-of-the-month "
+"clubs, weekly service subscriptions or even yearly software billing packages."
+" Add sign-up fees, offer free trials, or set expiration periods."
+msgstr ""
+"WooCommerce Subscriptions vous permet d’intégrer divers abonnements pour des "
+"produits physiques ou virtuels et des services. Créez des clubs de produit "
+"du mois, des abonnements hebdomadaires à des services ou même des forfaits "
+"de facturation de logiciels annuels. Ajoutez des frais d’abonnement, offrez "
+"des essais gratuits ou définissez des périodes d’expiration."
+
+msgid "WooCommerce action names associated with the webhook."
+msgstr "Noms d&rsquo;action WooCommerce associés avec le crochet Web."
+
+msgid ""
+"WooCommerce can accept both online and offline payments. <a href=\"%s\" "
+"target=\"_blank\">Additional payment methods</a> can be installed later."
+msgstr ""
+"WooCommerce peut accepter les paiements en ligne et hors ligne. <a "
+"href=\"%s\" target=\"_blank\">Des moyens de paiement additionnels</a> "
+"peuvent être installées ultérieurement."
+
+msgid "WooCommerce database update"
+msgstr "Mise à jour de données WooCommerce"
+
+msgid ""
+"WooCommerce database update complete. Thank you for updating to the latest "
+"version!"
+msgstr ""
+"Mise à jour des données WooCommerce effectuée. Merci d’avoir installé la "
+"dernière version !"
+
+msgid "WooCommerce database update done"
+msgstr "Mise à jour de la base de données de WooCommerce effectuée"
+
+msgid "WooCommerce database update in progress"
+msgstr "Mise à jour de la base de données de WooCommerce en cours"
+
+msgid "WooCommerce database update required"
+msgstr "Mise à jour de base de données WooCommerce obligatoire"
+
+msgid "WooCommerce database version"
+msgstr "Version de la base de données WooCommerce "
+
+msgid "WooCommerce eWAY Gateway"
+msgstr "WooCommerce eWAY Gateway"
+
+msgid "WooCommerce endpoints"
+msgstr "Terminaisons WooCommerce"
+
+msgid "WooCommerce extensions"
+msgstr "Extensions de WooCommerce"
+
+msgid ""
+"WooCommerce has been updated! To keep things running smoothly, we have to "
+"update your database to the newest version."
+msgstr ""
+"WooCommerce a été mis à jour ! Pour garder un fonctionnement fluide, nous "
+"devons mettre à jour la base de données à la dernière version."
+
+msgid "WooCommerce is updating product data in the background"
+msgstr "WooCommerce met à jour les données de produit en arrière-plan"
+
+msgid ""
+"WooCommerce is updating the database in the background. The database update "
+"process may take a little while, so please be patient."
+msgstr ""
+"WooCommerce met à jour la base de données en arrière-plan. Le traitement de "
+"la mise à jour peut prendre un peu de temps, soyez patients."
+
+msgid "WooCommerce knowledge base"
+msgstr "Base de connaissances WooCommerce"
+
+msgid "WooCommerce pages"
+msgstr "Pages WooCommerce"
+
+msgid "WooCommerce pages."
+msgstr "Pages WooCommerce."
+
+msgid ""
+"WooCommerce plugins may use this method of communication when checking for "
+"plugin updates."
+msgstr ""
+"Les extensions WooCommerce peuvent utiliser cette méthode de communication "
+"lors de la vérification de mises à jour."
+
+msgid "WooCommerce products (CSV)"
+msgstr "Produits WooCommerce (CSV)"
+
+msgid "WooCommerce settings"
+msgstr "Réglages WooCommerce"
+
+msgid "WooCommerce status"
+msgstr "État de WooCommerce"
+
+msgid "WooCommerce support"
+msgstr "Supporte WooCommerce"
+
+msgid "WooCommerce tax rates (CSV)"
+msgstr "WooCommerce taux de taxe (CSV)"
+
+msgid "WooCommerce transients"
+msgstr "WooCommerce transients"
+
+msgid "WooCommerce version"
+msgstr "Version de WooCommerce"
+
+msgid "WooCommerce version."
+msgstr "Version de WooCommerce."
+
+msgid ""
+"WooCommerce will match a customer to a single zone using their shipping "
+"address and present the shipping methods within that zone to them."
+msgstr ""
+"WooCommerce va faire correspondre un client à une zone en se basant sur son "
+"adresse de livraison et lui présenter les modes d’expédition de cette zone."
+
+msgid ""
+"WooCommerce will run under this version of PHP, however, it has reached end "
+"of life. We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr ""
+"WooCommerce utilisera cette version PHP bien qu’elle soit en fin de vie. "
+"Nous recommandons d’utiliser PHP 7.2 ou supérieur pour optimiser les "
+"performances et la sécurité."
+
+msgid ""
+"WooCommerce will run under this version of PHP, however, some features such "
+"as geolocation are not compatible. Support for this version will be dropped "
+"in the next major release. We recommend using PHP version 7.2 or above for "
+"greater performance and security."
+msgstr ""
+"WooCommerce utilisera cette version PHP bien que certaines fonctionnalités "
+"comme la géolocalisation ne soient pas compatibles. La prise en charge de "
+"cette version sera abandonnée dans la prochaine version majeure. Nous "
+"recommandons d’utiliser PHP version 7.2 ou supérieur pour optimiser les "
+"performances et la sécurité."
+
+msgid "WooCommerce.com"
+msgstr "WooCommerce.com"
+
+msgid "WooCommerce.com Subscriptions %s"
+msgstr "Abonnements à WooCommerce.com %s"
+
+msgid "WooCommerce.com Usage Tracking Documentation"
+msgstr "Document de suivi de l’utilisation de WooCommerce.com"
+
+msgid "WooCommerce.com support"
+msgstr "Assistance WooCommerce.com"
+
+msgid ""
+"Woohoo, %1$s was your record day for sales! Net Sales was %2$s beating the "
+"previous record of %3$s set on %4$s."
+msgstr ""
+"Excellent, le %1$s est un jour de ventes record ! Les ventes nettes "
+"dépassent de %2$s le précédent record de %3$s du %4$s."
+
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "mots"
+
+msgid "WordPress Dashboard"
+msgstr "Tableau de Bord WordPress"
+
+msgid "WordPress Pennant"
+msgstr "WordPress Pennant"
+
+msgid "WordPress address (URL)"
+msgstr "Adresse (URL) de WordPress "
+
+msgid "WordPress cron"
+msgstr "Cron de WordPress "
+
+msgid "WordPress debug mode"
+msgstr "Mode de débogage de WordPress "
+
+msgid "WordPress environment"
+msgstr "Environnement WordPress"
+
+msgid "WordPress language."
+msgstr "Langue de WordPress."
+
+msgid "WordPress memory limit"
+msgstr "Limite de mémoire de WordPress"
+
+msgid "WordPress memory limit."
+msgstr "Limite de mémoire de WordPress."
+
+msgid "WordPress multisite"
+msgstr "WordPress multisite "
+
+msgid "WordPress requirements"
+msgstr "Exigences de WordPress"
+
+msgid "WordPress version"
+msgstr "Version de WordPress "
+
+msgid "WordPress version."
+msgstr "Version de WordPress."
+
+msgid "WordPress.org project"
+msgstr "Projet WordPress.org"
+
+msgid "Would you like to add the following paid features to your store now?"
+msgstr ""
+"Voulez-vous ajouter les fonctionnalités payantes suivantes à votre boutique "
+"maintenant ?"
+
+msgid "Write"
+msgstr "Écriture"
+
+msgid "Write a short welcome message here"
+msgstr "Rédiger un bref message de bienvenue ici"
+
+msgid "Write title…"
+msgstr "Rédiger le titre…"
+
+msgid "Wyoming"
+msgstr "Wyoming"
+
+msgid "X-Accel-Redirect/X-Sendfile"
+msgstr "X-Accel-Redirect/X-Sendfile"
+
+msgid "X-WC-Store-API-Nonce is invalid."
+msgstr "X-WC-Store-API-Nonce n’est pas valide."
+
+msgid "Xaisomboun"
+msgstr "Xaisomboun"
+
+msgid "Xiangkhouang"
+msgstr "Xiangkhouang"
+
+msgid "Xinjiang / 新疆"
+msgstr "Xinjiang / 新疆"
+
+msgid "Yala"
+msgstr "Yala"
+
+msgid "Yalova"
+msgstr "Yalova"
+
+msgid "Yamagata"
+msgstr "Yamagata"
+
+msgid "Yamaguchi"
+msgstr "Yamaguchi"
+
+msgid "Yamanashi"
+msgstr "Yamanashi"
+
+msgid "Yambol"
+msgstr "Yambol"
+
+msgid "Yards"
+msgstr "Yards"
+
+msgid "Yasothon"
+msgstr "Yasothon"
+
+msgid "Yazd (یزد)"
+msgstr "Yazd (یزد)"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Year to Date"
+msgstr "Année jusqu’à aujourd’hui"
+
+msgid "Year(s)"
+msgstr "Année(s)"
+
+msgid "Yellow"
+msgstr "Jaune"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Yemeni rial"
+msgstr "Rial yéménite"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Yes please"
+msgstr "Oui, merci"
+
+msgid "Yes please!"
+msgstr "Oui, s’il vous plait !"
+
+msgid "Yes, I own a different store powered by WooCommerce"
+msgstr "Oui, je possède une autre boutique propulsée par WooCommerce"
+
+msgid "Yes, I will enter prices inclusive of tax"
+msgstr "Oui, je saisirai les tarifs TTC"
+
+msgid "Yes, I'm sure"
+msgstr "Oui, je suis sûr"
+
+msgid "Yes, count me in!"
+msgstr "Oui, vous pouvez compter sur moi !"
+
+msgid "Yes, export all custom meta"
+msgstr "Oui, exporter toutes les métas personnalisées"
+
+msgid "Yes, in person at physical stores and/or events"
+msgstr "Oui, en personne dans des magasins physiques et/ou lors d’événements"
+
+msgid "Yes, on another platform"
+msgstr "Oui, sur une autre plateforme"
+
+msgid "Yes, on another platform and in person at physical stores and/or events"
+msgstr ""
+"Oui, sur une autre plateforme et en personne dans des magasins physiques "
+"et/ou lors d’événements"
+
+msgid "Yesterday"
+msgstr "Hier"
+
+msgid "Yobe"
+msgstr "Yobe"
+
+msgid ""
+"You are paying for a guest order. Please continue with payment only if you "
+"recognize this order."
+msgstr ""
+"Vous êtes en train de payer une commande invité. Veuillez continuer avec le "
+"paiement uniquement si vous reconnaissez cette commande."
+
+msgid ""
+"You can add multiple shipping methods within this zone. Only customers "
+"within the zone will see them."
+msgstr ""
+"Vous pouvez ajouter plusieurs modes d’expédition dans cette zone. Seuls les "
+"clients au sein de la zone les verront."
+
+msgid "You can also:"
+msgstr "Vous pouvez également :"
+
+msgid "You can manually run queued updates here."
+msgstr ""
+"Vous pouvez exécuter manuellement les mises à jour de la file d’attente ici."
+
+msgid ""
+"You can now favorite your extensions to pin them in the top level of the "
+"navigation."
+msgstr ""
+"Vous pouvez désormais ajouter vos extensions à vos favoris pour les épingler "
+"au niveau supérieur de la navigation."
+
+msgid "You can only have 1 %s in your cart."
+msgstr "Vous pouvez seulement avoir 1 %s dans votre panier."
+
+msgid ""
+"You can optionally \"tag\" your products here. Tags are a method of labeling "
+"your products to make them easier for customers to find."
+msgstr ""
+"Vous pouvez « étiqueter » vos produits ici. Les étiquettes sont une méthode "
+"d’étiquetage de vos produits pour les rendre plus faciles à trouver pour les "
+"clients."
+
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+"Vous ne pouvez ajouter &quot;%s&quot; au panier car nous n’en avons plus en "
+"stock."
+
+msgid ""
+"You cannot add a new payment method so soon after the previous one. Please "
+"wait for %d second."
+msgid_plural ""
+"You cannot add a new payment method so soon after the previous one. Please "
+"wait for %d seconds."
+msgstr[0] ""
+"Vous ne pouvez pas ajouter un nouveau moyen de paiement aussi rapidement "
+"après le précédent. Veuillez patienter %d seconde."
+msgstr[1] ""
+"Vous ne pouvez pas ajouter un nouveau moyen de paiement aussi rapidement "
+"après le précédent. Veuillez patienter %d secondes."

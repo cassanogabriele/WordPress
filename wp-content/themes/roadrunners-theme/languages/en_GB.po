@@ -1,0 +1,2361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RoadRunners\n"
+"POT-Creation-Date: 2015-03-10 21:06-0000\n"
+"PO-Revision-Date: 2015-03-10 21:07-0000\n"
+"Last-Translator: Dan <subatomicdan@gmail.com>\n"
+"Language-Team: Subatomic Themes <http://themeforest.net/user/"
+"SubatomicThemes>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../admin/assets/js\n"
+"X-Poedit-SearchPathExcluded-1: ../js\n"
+
+#: ../404.php:24
+msgid "404"
+msgstr ""
+
+#: ../404.php:25
+msgid ""
+"Oops! Whatever it was you were looking for, can't seem to be found! Why not "
+"try a quick search..."
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:28
+msgid "Warning - This options panel will not work properly without Javascript!"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/front-end/options.php:78
+msgid "Built using the Slightly Modified Theme Options Framework (SMOF)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:105
+msgid "Default Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:106
+msgid "Rearranged Layout 01"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:107
+msgid "Rearranged Layout 02"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:108
+msgid "Minimal Layout 01"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:109
+msgid "Minimal Layout 02"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:110
+msgid "No Artists"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:111
+msgid "Custom Only"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:122
+msgid "Select a Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:840
+#: ../admin/functions/functions.options.php:843
+msgid "Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:846
+msgid ""
+"<h3>Welcome to RoadRunners</h3>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>Hi there! Welcome to the RoadRunners Theme Options "
+"panel. If you need to \n"
+"\t\t\t\t\t\t\t\t\t\t\tplay around with sliders or fiddle with switches, then "
+"this is the place to be!\n"
+"\t\t\t\t\t\t\t\t\t\t\tYou can alter many of the themes settings here that "
+"are not already part of the WordPress\n"
+"\t\t\t\t\t\t\t\t\t\t\toptions core. These options include changing colour "
+"schemes, uploading logos and\n"
+"\t\t\t\t\t\t\t\t\t\t\tcustomizing each section of the Homepage. If you are "
+"new to this kind of thing, you may want\n"
+"\t\t\t\t\t\t\t\t\t\t\tto view the Theme Documentation first for more "
+"detailed instructions on how to \n"
+"\t\t\t\t\t\t\t\t\t\t\tconfigure settings. But if you consider yourself to be "
+"some kind of \"WordPress Ninja\",\n"
+"\t\t\t\t\t\t\t\t\t\t\tthen please don't let me get in your way :) Have fun!</"
+"p><p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:864
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:867
+msgid "General Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:870
+msgid ""
+"<h3>General Settings</h3><p>All the site's basic features can be configured "
+"here, such as\n"
+"\t\t\t\t\t\t\t\t\t\t\tthe primary colour, blog title and certain other "
+"features that don't belong in\n"
+"\t\t\t\t\t\t\t\t\t\t\tany other sub menu.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:876
+msgid "Primary Colour"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:877
+msgid ""
+"Choose a colour to set as the site's primary colour. Note that this does not "
+"apply to the page dividers that have the orange colour in by default, since "
+"these are images, they will have to be amended manually."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:882
+msgid "Enable the Back-to-top Button"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:883
+msgid ""
+"This button appears in the bottom right corner of the page and allows you to "
+"scroll back to the top when clicked."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:886
+#: ../admin/functions/functions.options.php:1113
+#: ../admin/functions/functions.options.php:1675
+#: ../admin/functions/functions.options.php:1738
+msgid "Enabled"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:887
+#: ../admin/functions/functions.options.php:1114
+#: ../admin/functions/functions.options.php:1676
+#: ../admin/functions/functions.options.php:1739
+msgid "Disabled"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:890
+msgid "Inner Page Header Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:891
+msgid "Upload an image to use for the header background on sub-pages."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:896
+msgid "Blog Page Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:897
+msgid ""
+"Enter the name of the page to be displayed if the blog template is used on "
+"the front page."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:907
+msgid "Site Header Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:910
+msgid "Site Header Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:913
+msgid ""
+"<h3>Site Header Settings</h3><p>In this section\n"
+"\t\t\t\t\t\t\t\t\t\t\tyou can upload a logo, resize it, and position it "
+"however you see fit.\n"
+"\t\t\t\t\t\t\t\t\t\t\tThis logo will only show up in the subpages (inner "
+"pages). To upload a logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tfor the home page, go to the \"Home Page Settings\" "
+"tab.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:920
+msgid "Upload a Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:921
+msgid ""
+"Upload a logo to use for the site's Page Header.<br /><br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small><em><strong>TIP:</strong> Use a logo that's "
+"around double\n"
+"\t\t\t\t\t\t\t\t\t\t\tthe original size for displaying on retina devices "
+"like the iPad or iPhone. You\n"
+"\t\t\t\t\t\t\t\t\t\t\tcan use the height field below to adjust the size.</"
+"em><small>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:929
+msgid "Logo's Height in Pixels"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:930
+msgid ""
+"Use this option to adjust the height of the logo in pixels. This is useful "
+"if the logo has been optimized for retina displays."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:935
+msgid "Alt Text for the Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:936
+#: ../admin/functions/functions.options.php:1498
+msgid "Enter some alternate text for the logo (Optional)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:941
+msgid "Logo's distance from the TOP in pixels"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:942
+msgid ""
+"Use the slider to set the logo's distance from the <strong>top</strong> of "
+"the page."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:950
+msgid "Logo's distance from the LEFT in pixels"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:951
+msgid ""
+"Use the slider to set the logo's distance from the <strong>left</strong> "
+"side of the page."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:959
+msgid "WordPress Custom Menu"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:960
+msgid ""
+"Check this option to enable a custom menu for the main navigation. This will "
+"override any settings below. Custom menus can be configured in "
+"<strong>Appearance > Menus</strong>."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:965
+msgid "Navigation Menu Names"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:966
+msgid "Enter a name for the \"Home\" tab."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:971
+msgid "Enter a name for the \"About Us\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:976
+msgid "Enter a name for the \"Events\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:981
+msgid "Enter a name for the \"Artists\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:986
+msgid "Enter a name for the \"Custom Content\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:991
+msgid "Enter a name for the \"Gallery\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:996
+msgid "Enter a name for the \"Blog\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1001
+msgid "Enter a name for the \"Contact\" section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1011
+msgid "Site Footer Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1014
+msgid "Site Footer Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1017
+msgid ""
+"<h3>Site Footer Settings</h3><p>In this area, you can configure\n"
+"\t\t\t\t\t\t\t\t\t\t\tthings that would normally appear at the bottom of "
+"each page\n"
+"\t\t\t\t\t\t\t\t\t\t\tof the site, such as Google Analytics code and footer "
+"text.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1023
+msgid "Footer Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1024
+msgid ""
+"Upload an image to use as the background in the site's footer area. The "
+"recommended width for this image should be <strong>1920</strong> pixels but "
+"the height can be flexible."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1029
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1030
+msgid ""
+"If you are using Google Analytics, you can insert the code here.<br /><br /"
+"><small><em><strong>NOTE:</strong> Please enter the Javascript code WITHOUT "
+"the &lt;script&gt; tags as the theme will do this for you.</em></small>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1035
+msgid "Bottom Footer Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1036
+msgid ""
+"Enter the text to be displayed at the very bottom of each page. <a>, "
+"<strong>, and <em> tags are allowed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1046
+msgid "Favicon Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1049
+msgid "Favicon Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1052
+msgid ""
+"<h3>Favicon Settings</h3><p>You can use these options to upload favicons for "
+"your\n"
+"\t\t\t\t\t\t\t\t\t\t\tsite. These can range from various sizes depending on "
+"if you want to support\n"
+"\t\t\t\t\t\t\t\t\t\t\tretina displays. They should also ideally be in PNG "
+"format. If you'd like to use the old fashion favicon.ico, you should\n"
+"\t\t\t\t\t\t\t\t\t\t\tupload an ICO version to your website's root directory."
+"</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1059
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1060
+msgid "Upload an image to use for the site's main Favicon."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1065
+msgid "Upload Apple Touch Icon (32x32)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1066
+msgid ""
+"Upload an image to use for display on Apple devices (iPhone, iPad etc..)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1071
+msgid "Upload Apple Touch Icon (72x72)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1072
+msgid ""
+"Upload an image to use for display on Apple devices with retina displays "
+"(newer versions of iPhone, iPad etc..)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1077
+msgid "Upload Apple Touch Icon (114x114)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1078
+msgid ""
+"Upload an image to use for display on Apple devices with even higher "
+"resolution displays."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1088
+msgid "Icon Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1091
+msgid "Icon Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1094
+msgid ""
+"<h3>Icon Settings</h3><p>The header on the home page has a group of icons\n"
+"\t\t\t\t\t\t\t\t\t\t\tthat can be used for almost any purpose, like social "
+"icons. The first field to edit is\n"
+"\t\t\t\t\t\t\t\t\t\t\tthe name of the icon. This theme uses the <strong>Font "
+"Awesome</strong> glyph icon set. For a complete\n"
+"\t\t\t\t\t\t\t\t\t\t\tlist of available glyphs, the \n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://fortawesome.github.io/Font-Awesome/"
+"cheatsheet/\" target=\"_blank\">Font Awesome Cheatsheet</a> is where you'll "
+"find 'em.\n"
+"\t\t\t\t\t\t\t\t\t\t\tThe second field to edit is the URL where the icon "
+"will link to. So, for example,\n"
+"\t\t\t\t\t\t\t\t\t\t\tyou may want to have a Facebook icon that links to "
+"your Facebook page. Well, to do this\n"
+"\t\t\t\t\t\t\t\t\t\t\tyou would have:</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>facebook - in the first text field</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>https://www.facebook.com/yourusername - in the "
+"second text field</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>Note that you only need to enter the last part of "
+"the icon name, so \"fa-twitter\" would\n"
+"\t\t\t\t\t\t\t\t\t\t\tonly need to be \"twitter\" (without the quotes).</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1109
+msgid "Open links in a new Window"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1110
+msgid "You can use this option to enable the links to open in a new window."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1117
+msgid "Icon 01"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1118
+#: ../admin/functions/functions.options.php:1129
+#: ../admin/functions/functions.options.php:1140
+#: ../admin/functions/functions.options.php:1151
+#: ../admin/functions/functions.options.php:1162
+#: ../admin/functions/functions.options.php:1173
+#: ../admin/functions/functions.options.php:1184
+#: ../admin/functions/functions.options.php:1195
+msgid "Font Awesome Icon Glyph"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1123
+#: ../admin/functions/functions.options.php:1134
+#: ../admin/functions/functions.options.php:1145
+#: ../admin/functions/functions.options.php:1156
+#: ../admin/functions/functions.options.php:1167
+#: ../admin/functions/functions.options.php:1178
+#: ../admin/functions/functions.options.php:1189
+#: ../admin/functions/functions.options.php:1200
+msgid "Icon URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1128
+msgid "Icon 02"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1139
+msgid "Icon 03"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1150
+msgid "Icon 04"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1161
+msgid "Icon 05"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1172
+msgid "Icon 06"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1183
+msgid "Icon 07"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1194
+msgid "Icon 08"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1210
+#: ../admin/functions/functions.options.php:1213
+msgid "Font Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1216
+msgid ""
+"<h3>Font Settings</h3><p>Here you can configure the fonts that are \n"
+"\t\t\t\t\t\t\t\t\t\t\tused throughout the theme. This theme uses the Google "
+"Font library, which means\n"
+"\t\t\t\t\t\t\t\t\t\t\tyou have access to hundreds of free fonts. Whilst "
+"choosing a font, you can\n"
+"\t\t\t\t\t\t\t\t\t\t\tsee a preview below.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1223
+msgid "Primary Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1224
+msgid ""
+"Choose a font to use as the site's primary font. This is mainly used for the "
+"body text."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1236
+msgid "Secondary Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1237
+msgid ""
+"Choose a font to use as the site's secondary font. This is mainly used for "
+"headings, menus etc."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1256
+msgid "Shortcode Snippets"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1259
+#: ../admin/functions/functions.options.php:1330
+msgid "Shortcode Snippets Page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1262
+msgid ""
+"<h3>Shortcode Snippets</h3><p>The RoadRunners plugin also provides you with "
+"some useful\n"
+"\t\t\t\t\t\t\t\t\t\t\tShortcodes to help layout your content better. Simply "
+"copy the desired Shortcode and paste\n"
+"\t\t\t\t\t\t\t\t\t\t\tthem in the editor when you are adding a new page or "
+"post. If you are new to\n"
+"\t\t\t\t\t\t\t\t\t\t\tusing shortcodes and how they work, then its advisable "
+"to view the \n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://codex.wordpress.org/Shortcode_API\" "
+"target=\"_blank\">WordPress Codex</a>\n"
+"\t\t\t\t\t\t\t\t\t\t\tfor more infromation.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>Don't forget, you can also find more detailed "
+"information in the\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1273
+msgid "Shortcode Snippets List"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1276
+msgid ""
+"<h4>Columns</h4>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>A basic column Shortcode</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col grid=\"100\"][/col]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>A column Shortcode with mobile and tablet "
+"attributes</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col grid=\"100\" tgrid=\"100\" mgrid=\"100\"][/"
+"col]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>A column Shortcode with mobile, tablet, prefix, and "
+"suffix attributes</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col pre=\"10\" grid=\"80\" suf=\"10\" tgrid="
+"\"100\" mgrid=\"100\"][/col]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p>A column Shortcode with all available attributes</"
+"p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col pre=\"10\" grid=\"80\" suf=\"10\" tgrid="
+"\"100\" mgrid=\"100\" dfirst=\"true\" tfirst=\"true\" mfirst=\"true\" dlast="
+"\"true\" tlast=\"true\" mlast=\"true\"][/col]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t<h4>Column Layouts</h4>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>Two Halfs</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col grid=\"50\" tgrid=\"50\" mgrid=\"100\"][/"
+"col]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[col grid=\"50\" tgrid=\"50\" mgrid=\"100\"][/col]</"
+"pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>Three Thirds</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col grid=\"33\" tgrid=\"33\" mgrid=\"100\"][/"
+"col]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[col grid=\"33\" tgrid=\"33\" mgrid=\"100\"][/col]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[col grid=\"33\" tgrid=\"33\" mgrid=\"100\"][/col]</"
+"pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>Four Quarters</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[col grid=\"25\" tgrid=\"50\" mgrid=\"100\"][/"
+"col]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[col grid=\"25\" tgrid=\"50\" mgrid=\"100\"][/col]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[col grid=\"25\" tgrid=\"50\" mgrid=\"100\"][/col]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[col grid=\"25\" tgrid=\"50\" mgrid=\"100\"][/col]</"
+"pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t<h4>Button</h4>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>A simple button Shortcode</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[button url=\"\"][/button]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t<h4>Accordion</h4>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>A simple Accordion Shortcode</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[acc title=\"Accordion Title\"]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>An Accordion Shortcode with more attributes</"
+"em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[acc title=\"Accordion Title\" open=\"true\" type="
+"\"toggle\"]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t<h4>Tabs</h4>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<p><em>A simple Tabs Shortcode</em></p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<pre>[tabs names=\"tab1:tab2:tab3\"]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[tab name=\"tab1\"][/tab]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[tab name=\"tab2\"][/tab]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[tab name=\"tab3\"][/tab]\n"
+"\t\t\t\t\t\t\t\t\t\t\t[/tabs]</pre>\n"
+"\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1327
+msgid "Custom Labels"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1333
+msgid ""
+"<h3>Custom Labels</h3><p>You can override certain hard-coded labels by "
+"editing the fields below.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1337
+msgid "Labels"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1338
+msgid "Label for \"Event Date\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1343
+msgid "Label for \"Location\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1348
+msgid "Label for \"Tickets\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1353
+msgid "Label for \"Price\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1358
+msgid "Label for \"Purchase\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1363
+msgid "Label for \"Artist Name\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1368
+msgid "Label for \"Discography\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1373
+msgid "Label for \"Upcoming Releases\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1378
+msgid "Label for \"Genre\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1383
+msgid "Label for \"Formed In\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1388
+msgid "Label for \"Albums\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1393
+msgid "Label for \"View Artist\" button"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1398
+msgid "Label for \"View All Artists\" button"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1403
+msgid "Label for \"View All Events\" button"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1414
+msgid "Import and Export"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1417
+#: ../admin/functions/functions.options.php:1427
+msgid "Backup &amp; Restore Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1420
+msgid ""
+"<h3>Backup &amp; Restore Settings</h3><p>This section allows you to\n"
+"\t\t\t\t\t\t\t\t\t\t\tbackup your theme options data, and you can also "
+"restore data that was previously\n"
+"\t\t\t\t\t\t\t\t\t\t\tbacked up from an earlier date. This area is also "
+"useful for importing\n"
+"\t\t\t\t\t\t\t\t\t\t\tsettings from a different install of this theme.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1428
+msgid "Use the buttons below to backup and restore your Theme Settings."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1433
+msgid "Transfer Theme Settings Data"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1434
+msgid ""
+"You can use this option to transfer theme options to other installs. Simply "
+"copy the text inside the box and paste it in another install and click on "
+"\"Import Options\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1444
+msgid "Home Page Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1447
+msgid "Home Page Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1450
+msgid ""
+"<h3>Home Page Settings</h3><p>These settings will allow you to configure the "
+"home page \n"
+"\t\t\t\t\t\t\t\t\t\t\twhen the \"Home - One-Page\" template is selected when "
+"creating a new page. There are several\n"
+"\t\t\t\t\t\t\t\t\t\t\tdifferent layouts available:</p>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">Default Layout<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>About | Events | Artists | Testimonial 01 | "
+"Custom Section | Testimonial 02 | Gallery | Blog | Contact</small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">Rearranged Layout 01<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>About | Testimonial 01 | Artists | Events | "
+"Gallery | Testimonial 02 | Custom Section | Blog | Contact</small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">Rearranged Layout 02<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>Custom Content | Events | About | Testimonial "
+"01 | Artists | Blog | Gallery | Testominial 02 | Contact</small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">Minimal Layout 01<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>About | Events | Artists | Blog | Contact</"
+"small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">Minimal Layout 02<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>Custom Content | Blog | Artists | Events | "
+"Contact</small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">No Artists<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>About | Events | Custom Section | Testimonial "
+"02 | Gallery | Blog | Contact</small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li class=\"inner-li\">Custom Only<br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t<small>Custom Section</small>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1478
+msgid "Main Header Background Image"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1479
+msgid ""
+"Upload an image to be used as the background of the page header. Ideally "
+"this needs to be fairly big in size, ideally <strong>1920x1280</strong> "
+"pixels."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1484
+msgid "Home Page Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1485
+msgid ""
+"Upload a logo to use in the main heading. Ideally this should be the same "
+"type of logo you are using for the navigation bar in the subpages. If no "
+"logo is used, the WordPress site title will be used instead."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1490
+msgid "Home Page Logo's Height in Pixels"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1491
+msgid ""
+"Use this option to adjust the height of the logo in pixels. This is useful "
+"if the\n"
+"\t\t\t\t\t\t\t\t\t\t\tlogo has been optimized for retina displays."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1497
+msgid "Alt Text for the Home Page Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1503
+msgid "Camera Flash Effect"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1504
+msgid ""
+"Check this if you want to have a camera flash effect in the background. Uses "
+"CSS3 animations."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1509
+msgid "Taglines"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1510
+msgid "Text for the First Tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1515
+msgid "Text for the Second Tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1520
+msgid "Text for the Third Tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1525
+msgid "Text for the Fourth Tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1530
+msgid "Text for the Fifth Tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1535
+msgid "Text for the Sixth Tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1540
+msgid "Layout Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1541
+msgid ""
+"Choose from the available layouts for the main home page. The list is "
+"exaplained at the top."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1552
+msgid "About Us Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1555
+msgid "About Us Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1558
+msgid ""
+"<h3>About Us - Section Settings</h3><p>Use this area to tell your visitors\n"
+"\t\t\t\t\t\t\t\t\t\t\ta little bit about yourself. It uses a three column "
+"layout with the middle\n"
+"\t\t\t\t\t\t\t\t\t\t\tbox highlighted with the site's primary colour.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1564
+#: ../admin/functions/functions.options.php:1643
+#: ../admin/functions/functions.options.php:1697
+#: ../admin/functions/functions.options.php:1795
+#: ../admin/functions/functions.options.php:1870
+#: ../admin/functions/functions.options.php:1920
+#: ../admin/functions/functions.options.php:1975
+msgid "Heading Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1565
+#: ../admin/functions/functions.options.php:1644
+#: ../admin/functions/functions.options.php:1698
+#: ../admin/functions/functions.options.php:1796
+#: ../admin/functions/functions.options.php:1871
+#: ../admin/functions/functions.options.php:1921
+#: ../admin/functions/functions.options.php:1976
+msgid "Before Heading."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1570
+#: ../admin/functions/functions.options.php:1649
+#: ../admin/functions/functions.options.php:1703
+#: ../admin/functions/functions.options.php:1801
+#: ../admin/functions/functions.options.php:1876
+#: ../admin/functions/functions.options.php:1926
+#: ../admin/functions/functions.options.php:1981
+msgid "Main Heading."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1575
+#: ../admin/functions/functions.options.php:1654
+#: ../admin/functions/functions.options.php:1708
+#: ../admin/functions/functions.options.php:1806
+#: ../admin/functions/functions.options.php:1881
+#: ../admin/functions/functions.options.php:1931
+#: ../admin/functions/functions.options.php:1986
+msgid "After Heading."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1580
+#: ../admin/functions/functions.options.php:1659
+#: ../admin/functions/functions.options.php:1713
+#: ../admin/functions/functions.options.php:1811
+#: ../admin/functions/functions.options.php:1886
+#: ../admin/functions/functions.options.php:1936
+#: ../admin/functions/functions.options.php:1991
+msgid "Tagline"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1581
+#: ../admin/functions/functions.options.php:1660
+#: ../admin/functions/functions.options.php:1714
+#: ../admin/functions/functions.options.php:1812
+#: ../admin/functions/functions.options.php:1887
+#: ../admin/functions/functions.options.php:1937
+#: ../admin/functions/functions.options.php:1992
+msgid ""
+"Enter text for the Tagline directly underneath the heading. If no text is "
+"entered, then it won't get used."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1586
+msgid "Left Column"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1587
+#: ../admin/functions/functions.options.php:1609
+msgid "Heading Text. <span> tags can be used for highlighting."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1592
+#: ../admin/functions/functions.options.php:1603
+#: ../admin/functions/functions.options.php:1614
+msgid "Body Text. Some HTML is allowed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1597
+msgid "Middle Column"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1598
+msgid "Heading Text."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1608
+msgid "Right Column"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1624
+msgid "Events Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1627
+msgid "Events Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1630
+msgid ""
+"<h3>Events - Section Settings</h3><p>This section will\n"
+"\t\t\t\t\t\t\t\t\t\t\tdisplay a short list of events (the first six) from "
+"your events\n"
+"\t\t\t\t\t\t\t\t\t\t\tpost type, assuming you are using the RoadRunners "
+"Events &amp; Artists\n"
+"\t\t\t\t\t\t\t\t\t\t\tplugin.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1637
+#: ../admin/functions/functions.options.php:1759
+#: ../admin/functions/functions.options.php:1834
+#: ../admin/functions/functions.options.php:1914
+msgid "Parallax Background Image"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1638
+#: ../admin/functions/functions.options.php:1760
+#: ../admin/functions/functions.options.php:1835
+#: ../admin/functions/functions.options.php:1915
+msgid "Upload an image to use as the parallax background."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1665
+#: ../admin/functions/functions.options.php:1728
+#: ../admin/functions/functions.options.php:1951
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1666
+msgid ""
+"Enter the URL for the button at the bottom. This should ideally link to the "
+"Events archive page which can be created by adding a new page and selecting "
+"the \"Page - Events Archive\" page template."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1671
+#: ../admin/functions/functions.options.php:1734
+msgid "Enable links to singular pages"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1672
+msgid ""
+"You can use this option to enable or disable linking the events to their "
+"singular pages. Useful if you want to keep a minimal, one-page layout."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1684
+msgid "Artists Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1687
+msgid "Artists Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1690
+msgid ""
+"<h3>Artists - Section Settings</h3><p>This section will\n"
+"\t\t\t\t\t\t\t\t\t\t\tdisplay a list of posts from your artists\n"
+"\t\t\t\t\t\t\t\t\t\t\tpost type, assuming you are using the RoadRunners "
+"Events &amp; Artists\n"
+"\t\t\t\t\t\t\t\t\t\t\tplugin.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1719
+#: ../admin/functions/functions.options.php:1942
+msgid "Number of Posts to display"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1720
+msgid ""
+"Use the slider to set the number of posts to display from the Artists post "
+"type."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1729
+msgid ""
+"Enter the URL for the button at the bottom. This should ideally link to the "
+"Artist archive page which can be created by adding a new page and selecting "
+"the \"Page - Artists Archive\" page template."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1735
+msgid ""
+"You can use this option to enable or disable linking the artists to their "
+"singular pages. Useful if you want to keep a minimal, one-page layout."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1747
+msgid "Testimonial One Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1750
+msgid "Testimonial One Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1753
+msgid ""
+"<h3>Testimonial One - Section Settings</h3><p>This is a simple section\n"
+"\t\t\t\t\t\t\t\t\t\t\tthat divides up your content with a nice little "
+"testimonial from one\n"
+"\t\t\t\t\t\t\t\t\t\t\tof your visitors or clients.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1765
+#: ../admin/functions/functions.options.php:1840
+msgid "Quote Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1766
+#: ../admin/functions/functions.options.php:1841
+msgid "Enter the main text for the testimonial."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1771
+#: ../admin/functions/functions.options.php:1846
+msgid "Quote Author"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1772
+#: ../admin/functions/functions.options.php:1847
+msgid "Enter a name for the author."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1782
+msgid "Custom Content Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1785
+msgid "Custom Content Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1788
+msgid ""
+"<h3>Custom Content - Section Settings</h3><p>In this section, you can use "
+"the\n"
+"\t\t\t\t\t\t\t\t\t\t\tcontent inserted into the post, this includes any "
+"Shortcodes you may be\n"
+"\t\t\t\t\t\t\t\t\t\t\tusing.</p><p>To edit this content, simply edit the "
+"post content of the page that uses the \"Home\" page\n"
+"\t\t\t\t\t\t\t\t\t\t\ttemplate.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1822
+msgid "Testimonial Two Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1825
+msgid "Testimonial Two Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1828
+msgid ""
+"<h3>Testimonial Two - Section Settings</h3><p>This is a simple section\n"
+"\t\t\t\t\t\t\t\t\t\t\tthat divides up your content with a nice little "
+"testimonial from one\n"
+"\t\t\t\t\t\t\t\t\t\t\tof your visitors or clients.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1857
+msgid "Gallery Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1860
+msgid "Gallery Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1863
+msgid ""
+"<h3>Gallery - Section Settings</h3><p>This area is for \n"
+"\t\t\t\t\t\t\t\t\t\t\tdisplaying a gallery of images from anything you want, "
+"perhaps\n"
+"\t\t\t\t\t\t\t\t\t\t\tfrom a recent music event. Add, remove, or re-order "
+"images\n"
+"\t\t\t\t\t\t\t\t\t\t\tby using the gallery options below.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1892
+msgid "Gallery Images"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1893
+msgid "Use this option to add, delete or re-order the images in the gallery."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1903
+msgid "Blog Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1906
+msgid "Blog Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1909
+msgid ""
+"<h3>Blog - Section Settings</h3><p>This parallax section is used\n"
+"\t\t\t\t\t\t\t\t\t\t\tto display a list of regular posts from your WordPress "
+"blog.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1943
+msgid "Use the slider to set the number of posts to display."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1952
+msgid ""
+"Enter the URL for the button at the bottom. This should ideally link to the "
+"Blog overview page which is set in the Settings -&gt; Reading."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1962
+msgid "Contact Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1965
+msgid "Contact Settings Introduction"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1968
+msgid ""
+"<h3>Contact - Section Settings</h3><p>If you have the Contact Form 7\n"
+"\t\t\t\t\t\t\t\t\t\t\tplugin actived, you can configure your contact from "
+"using the plugin and\n"
+"\t\t\t\t\t\t\t\t\t\t\tinsert the provided Shortcode in the box below to "
+"display a nice\n"
+"\t\t\t\t\t\t\t\t\t\t\tcontact from.</p>"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1997
+msgid "Contact From 7 Shortcode"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1998
+msgid ""
+"Enter the Shortcode to use as the contact form. This is configured using the "
+"Contact\n"
+"\t\t\t\t\t\t\t\t\t\t\tForm 7 WordPress plugin. After configuring your form, "
+"copy the generated \n"
+"\t\t\t\t\t\t\t\t\t\t\tShortcode and paste it here."
+msgstr ""
+
+#: ../archive-rr_events.php:77 ../archive-rr_events.php:85
+#: ../inc/template-tags.php:150 ../inc/template-tags.php:158
+#: ../inc/template-tags.php:170
+#: ../page-templates/template-archives-events.php:91
+#: ../page-templates/template-archives-events.php:99
+msgid "To Be Announced"
+msgstr ""
+
+#: ../comments.php:56
+msgid "<i class=\"fa fa-angle-double-left\"></i> Older Comments"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Newer Comments <i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: ../comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Your Name (Required)"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Your Email (Required)"
+msgstr ""
+
+#: ../comments.php:84
+msgid "Your Message..."
+msgstr ""
+
+#: ../comments.php:87
+msgid "Submit Comment"
+msgstr ""
+
+#: ../content-artists.php:45
+msgid "...View the rest of this artist's bio"
+msgstr ""
+
+#: ../content-artists.php:53 ../content-events.php:47 ../content-page.php:41
+#: ../content-single.php:54 ../content.php:57 ../section-custom.php:68
+msgid "Jump to Page"
+msgstr ""
+
+#: ../content-events.php:39 ../content-page.php:33 ../content.php:49
+msgid "...View the rest of this post"
+msgstr ""
+
+#: ../content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:27
+#, php-format
+msgid "Searching for %1$s turned up nothing!"
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:33
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../content-single.php:45
+msgid "View Post"
+msgstr ""
+
+#: ../functions.php:86 ../inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:87 ../inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:88 ../inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:89
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:100 ../inc/class-tgm-plugin-activation.php:178
+#: ../inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:101 ../inc/class-tgm-plugin-activation.php:179
+#: ../inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:102
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:181
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:182
+msgid "Main Navigation - Inner Pages"
+msgstr ""
+
+#: ../functions.php:203
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:205
+msgid "This is the main Sidebar that appears on the Blog pages."
+msgstr ""
+
+#: ../functions.php:215
+msgid "Footer - First Column"
+msgstr ""
+
+#: ../functions.php:217
+msgid "This area appears in the first column of the site's footer."
+msgstr ""
+
+#: ../functions.php:227
+msgid "Footer - Second Column"
+msgstr ""
+
+#: ../functions.php:229
+msgid "This area appears in the second column of the site's footer."
+msgstr ""
+
+#: ../functions.php:239
+msgid "Footer - Third Column"
+msgstr ""
+
+#: ../functions.php:241
+msgid "This area appears in the third column of the site's footer."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:517
+#: ../inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1956
+#: ../inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1956
+#: ../inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/extras.php:91
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/template-tags.php:39
+msgid "<i class=\"fa fa-angle-double-left\"></i>Older"
+msgstr ""
+
+#: ../inc/template-tags.php:42
+msgid "Newer<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:120
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:177
+msgid "Buy Tickets"
+msgstr ""
+
+#: ../inc/template-tags.php:422
+#, php-format
+msgid "<h4 class=\"comment-author-title\">%s</h4>"
+msgstr ""
+
+#: ../inc/template-tags.php:424
+#, php-format
+msgid "Replied on %1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:424
+msgid " - (Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:429
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/widgets.php:32
+msgid "Roadrunners - Contact Details"
+msgstr ""
+
+#: ../inc/widgets.php:35
+msgid ""
+"Use this widget to provide contact details for the visitor including "
+"address, telephone number, and email address."
+msgstr ""
+
+#: ../inc/widgets.php:166
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets.php:170
+msgid "Enter an Intro Message:"
+msgstr ""
+
+#: ../inc/widgets.php:174
+msgid "Enter an Address:"
+msgstr ""
+
+#: ../inc/widgets.php:178
+msgid "Enter a Phone Number:"
+msgstr ""
+
+#: ../inc/widgets.php:182
+msgid "Enter an Email Address:"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:17
+msgid "Event Information"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:26
+msgid "Venue"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:27
+msgid "Enter the name of the Venue and/or Location."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:34
+msgid "Location on Map"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:35
+msgid ""
+"You can embed a map from Google Maps by entering the iframe link here and it "
+"will\n"
+"\t\t\t\t\t\t\t\t\tdisplay it at the bottom of the post. A good tool to use "
+"is the \n"
+"\t\t\t\t\t\t\t\t\t<a href=\"https://mapsengine.google.com/map/\" target="
+"\"_blank\">Maps Engine by Google</a>."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:44
+msgid "Event Date"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:45
+msgid "Choose a Date for the Event"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:52
+msgid "Ticket Availability"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:53
+msgid "Select availabliity of tickets for the Event"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:57
+msgid "Available"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:57
+msgid "Tickets Available!"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:58
+msgid "Limited"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:58
+msgid "Limited Availability!"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:59
+msgid "Sold Out"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:59
+msgid "Sold Out!"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:65
+msgid "Ticket Price"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:66
+msgid "Set a price for the tickets"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:73
+msgid "Ticket URL"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:74
+msgid "Enter a URL to buy the tickets (e.g. http://www.ticketweb.co.uk/...)"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:86
+msgid "Artist Information"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:95
+msgid "When the band formed"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:96
+msgid "If it's a band, enter a brief time when they formed."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:103
+msgid "Number of albums released"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:104
+msgid "Enter the number of albums the band or artist has released to date."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:111
+msgid "Discography"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:112
+msgid "Enter a list of albums for the artist."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:119
+msgid "Upcoming Albumns"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/custom-meta-boxes.php:120
+msgid ""
+"Enter a list of upcoming album releases, starting with the album name "
+"followed by the date."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:25
+msgid "Test Metabox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:33
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:263
+msgid "Test Text"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:34
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:44
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:51
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:58
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:66
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:73
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:85
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:91
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:98
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:113
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:121
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:128
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:134
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:140
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:152
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:163
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:174
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:185
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:193
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:200
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:208
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:214
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:226
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:264
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:283
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:290
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:297
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:303
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:309
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:315
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:321
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:338
+msgid "field description (optional)"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:43
+msgid "Test Text Small"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:50
+msgid "Test Text Medium"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:57
+msgid "Website URL"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:65
+msgid "Test Text Email"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:72
+msgid "Test Time"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:78
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:79
+msgid "Time zone"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:84
+msgid "Test Date Picker"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:90
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:97
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:112
+msgid "Test Money"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:120
+msgid "Test Color Picker"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:127
+msgid "Test Text Area"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:133
+msgid "Test Text Area Small"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:139
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:145
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:146
+msgid "This is a title description"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:151
+msgid "Test Select"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:156
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:167
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:178
+msgid "Option One"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:157
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:168
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:179
+msgid "Option Two"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:158
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:169
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:180
+msgid "Option Three"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:162
+msgid "Test Radio inline"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:173
+msgid "Test Radio"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:184
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:192
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:199
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:207
+msgid "Test Checkbox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:213
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:218
+msgid "Check One"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:219
+msgid "Check Two"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:220
+msgid "Check Three"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:225
+msgid "Test wysiwyg"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:232
+msgid "Test Image"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:233
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:238
+msgid "Multiple Files"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:239
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:245
+msgid "oEmbed"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:246
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:255
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:276
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:282
+msgid "Extra Info"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:289
+msgid "Avatar"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:296
+msgid "Facebook URL"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:302
+msgid "Twitter URL"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:308
+msgid "Google+ URL"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:314
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:320
+msgid "User Field"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:333
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/example-functions.php:337
+msgid "Site Background Color"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:178
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:547
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:590
+msgid "Remove"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:523
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:563
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:536
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:582
+msgid "Remove Image"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:547
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:590
+msgid "File:"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:547
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/helpers/cmb_Meta_Box_types.php:590
+msgid "Download"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/init.php:244
+msgid "Default"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/meta-boxes/init.php:1185
+msgid "Save"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:22
+msgid "Events"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:23
+msgid "Parent Event:"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:24
+msgid "All Events"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:25
+msgid "View Event"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:26
+msgid "Add New Event"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:27
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:84
+msgid "Add New"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:28
+msgid "Edit Event"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:29
+msgid "Update Event"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:30
+msgid "Search Events"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:31
+msgid "Event Not found"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:32
+msgid "Event Not found in Trash"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:36
+msgid "rr_events"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:37
+msgid "Create music events to manage and maintain."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:79
+msgid "Artists"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:80
+msgid "Parent Artist:"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:81
+msgid "All Artists"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:82
+msgid "View Artist"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:83
+msgid "Add New Artist"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:85
+msgid "Edit Artist"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:86
+msgid "Update Artist"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:87
+msgid "Search Artists"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:88
+msgid "Artist Not found"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:89
+msgid "Artist Not found in Trash"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:93
+msgid "rr_artists"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/post-types.php:94
+msgid "Add, manage and update all of your Artists."
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:22
+msgid "Event Types"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:23
+msgid "All Event Types"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:24
+msgid "Parent Event Type"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:25
+msgid "Parent Event Type:"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:26
+msgid "New Event Type Name"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:27
+msgid "Add New Event Type"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:28
+msgid "Edit Event Type"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:29
+msgid "Update Event Type"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:30
+msgid "Separate Event Types with commas"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:31
+msgid "Search Event Types"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:32
+msgid "Add or remove Event Types"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:33
+msgid "Choose from the most used Event Types"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:34
+msgid "Event Type Not Found"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:62
+msgid "Music Genres"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:63
+msgid "All Music Genres"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:64
+msgid "Parent Genre"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:65
+msgid "Parent Genre:"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:66
+msgid "New Genre"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:67
+msgid "Add New Genre"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:68
+msgid "Edit Genre"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:69
+msgid "Update Genre"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:70
+msgid "Separate Genres with commas"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:71
+msgid "Search Genres"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:72
+msgid "Add or remove Genres"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:73
+msgid "Choose from the most used Genres"
+msgstr ""
+
+#: ../plugins/roadrunners-plugin-v1.0.5/includes/taxonomy-types.php:74
+msgid "Genre Not Found"
+msgstr ""
+
+#: ../searchform.php:19
+msgid "Enter Search Terms..."
+msgstr ""
+
+#: ../searchform.php:19
+msgid "Search"
+msgstr ""
+
+#: ../section-artists.php:169
+msgid ""
+"There are no artists added yet. Make sure you have the RoadRunners Events "
+"&amp; Artists plugin activated and that there are artists added to the "
+"database."
+msgstr ""
+
+#: ../section-blog.php:80
+msgid "Click to view Post"
+msgstr ""
+
+#: ../section-blog.php:104
+msgid "There were no posts found."
+msgstr ""
+
+#: ../section-blog.php:112
+msgid "Visit the Blog Page"
+msgstr ""
+
+#: ../section-events.php:180
+msgid "There were no posts found in \"Events\"."
+msgstr ""
+
+#: ../sidebar-footer-first.php:22 ../sidebar-footer-second.php:22
+#: ../sidebar-footer-third.php:22 ../sidebar.php:22
+#, php-format
+msgid ""
+"There is currently no Widgets in this area. Why not <a href=\"%s\">add some?"
+"</a>"
+msgstr ""
+
+#: ../subpage-intro.php:53
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../subpage-intro.php:56
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../subpage-intro.php:59
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../subpage-intro.php:62
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../subpage-intro.php:65
+msgid "Asides"
+msgstr ""
+
+#: ../subpage-intro.php:68
+msgid "Galleries"
+msgstr ""
+
+#: ../subpage-intro.php:71
+msgid "Images"
+msgstr ""
+
+#: ../subpage-intro.php:74
+msgid "Videos"
+msgstr ""
+
+#: ../subpage-intro.php:77
+msgid "Quotes"
+msgstr ""
+
+#: ../subpage-intro.php:80
+msgid "Links"
+msgstr ""
+
+#: ../subpage-intro.php:83
+msgid "Statuses"
+msgstr ""
+
+#: ../subpage-intro.php:86
+msgid "Audios"
+msgstr ""
+
+#: ../subpage-intro.php:89
+msgid "Chats"
+msgstr ""
+
+#: ../subpage-intro.php:98
+msgid "Archives"
+msgstr ""
+
+#: ../subpage-intro.php:101
+msgid "Nothing Found"
+msgstr ""
+
+#: ../subpage-intro.php:104
+msgid "Search for "
+msgstr ""
